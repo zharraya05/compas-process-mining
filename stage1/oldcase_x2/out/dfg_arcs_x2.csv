@@ -1,0 +1,558 @@
+from,to,count
+Drug,Traffic,827
+Property,OldCase: Property,803
+Traffic,Drug,786
+Drug,OldCase: Drug,666
+Property,Property,494
+Violent,OldCase: Violent,477
+Traffic,OldCase: Traffic,434
+Violent,Violent,419
+Violent,Property,405
+Property,Drug,392
+Drug,Property,389
+Property,Violent,381
+Fraud,Property,348
+Property,Fraud,342
+Drug,Drug,340
+OldCase: Drug,OldCase: Drug,319
+Traffic,Traffic,314
+ResistPolice,Property,307
+Property,Traffic,297
+Property,ResistPolice,295
+Traffic,Property,293
+OldCase: Traffic,OldCase: Drug,292
+Violent,ResistPolice,287
+OldCase: Property,OldCase: Property,282
+OldCase: Drug,OldCase: Traffic,269
+Violent,Traffic,258
+Violent,Drug,256
+ResistPolice,Violent,249
+Traffic,Violent,247
+Drug,Violent,243
+ResistPolice,Drug,231
+ResistPolice,Traffic,207
+OldCase: Property,OldCase: Fraud,201
+OldCase: Property,Property,200
+Drug,ResistPolice,192
+OldCase: Fraud,OldCase: Property,185
+Traffic,ResistPolice,181
+PublicOrder,Property,177
+OldCase: Drug,Drug,161
+OldCase: Violent,OldCase: Violent,158
+Traffic,OldCase: Drug,152
+OldCase: Property,OldCase: Drug,149
+Drug,OldCase: Traffic,146
+Property,PublicOrder,140
+OldCase: Drug,OldCase: Property,133
+OldCase: Property,OldCase: ResistPolice,131
+Unknown,Unknown,130
+OldCase: ResistPolice,OldCase: Property,123
+Drug,PublicOrder,113
+Traffic,Fraud,113
+OldCase: Property,OldCase: Violent,110
+Property,OldCase: Drug,110
+OldCase: Violent,OldCase: Property,104
+OldCase: Traffic,OldCase: Traffic,102
+Fraud,Traffic,99
+OldCase: Traffic,Traffic,96
+OldCase: Drug,Property,96
+Fraud,OldCase: Fraud,96
+PublicOrder,ResistPolice,95
+Drug,OldCase: Property,95
+OldCase: Property,Drug,94
+OldCase: Drug,Traffic,94
+PublicOrder,Violent,88
+Drug,Tampering,88
+PublicOrder,Drug,87
+ResistPolice,PublicOrder,87
+OldCase: ResistPolice,OldCase: Violent,87
+OldCase: Drug,OldCase: ResistPolice,87
+Violent,OldCase: Property,86
+Tampering,Violent,84
+OldCase: Traffic,OldCase: Property,83
+Traffic,OldCase: Property,83
+Property,OldCase: Violent,82
+OldCase: Violent,OldCase: Drug,81
+OldCase: Violent,Violent,79
+OldCase: ResistPolice,OldCase: Drug,79
+Fraud,OldCase: Property,78
+Fraud,Drug,77
+Violent,PublicOrder,76
+Drug,Fraud,75
+Tampering,Drug,74
+OldCase: Property,OldCase: Traffic,73
+Violent,Tampering,71
+PublicOrder,Traffic,71
+OldCase: Drug,OldCase: Violent,70
+OldCase: Violent,OldCase: ResistPolice,69
+OldCase: Traffic,Drug,68
+Drug,Weapon,68
+OldCase: Traffic,OldCase: ResistPolice,65
+OldCase: Property,Traffic,64
+OldCase: Property,Violent,63
+ResistPolice,OldCase: ResistPolice,63
+Property,OldCase: Fraud,62
+OldCase: Traffic,Property,61
+Weapon,Drug,60
+ResistPolice,OldCase: Property,60
+Violent,OldCase: Drug,59
+Property,OldCase: Traffic,59
+Property,OldCase: ResistPolice,58
+OldCase: Violent,Property,57
+Traffic,PublicOrder,57
+Violent,Unknown,55
+OldCase: Drug,Violent,54
+Violent,Weapon,54
+ResistPolice,OldCase: Drug,53
+Traffic,Weapon,52
+Weapon,Violent,50
+Sex,OldCase: Sex,49
+OldCase: Violent,Drug,49
+Property,Unknown,49
+OldCase: ResistPolice,OldCase: Traffic,47
+ResistPolice,Fraud,47
+Violent,OldCase: Traffic,47
+Drug,OldCase: ResistPolice,47
+Traffic,OldCase: Violent,46
+Traffic,Tampering,46
+OldCase: Drug,ResistPolice,46
+Drug,OldCase: Violent,46
+Weapon,Traffic,45
+Violent,Fraud,45
+ResistPolice,OldCase: Violent,44
+OldCase: Property,ResistPolice,43
+OldCase: Fraud,OldCase: Fraud,42
+Tampering,ResistPolice,41
+Weapon,Property,41
+Fraud,Violent,40
+OldCase: Violent,Traffic,39
+Traffic,Unknown,39
+OldCase: Traffic,OldCase: Fraud,39
+OldCase: Drug,OldCase: Fraud,38
+Unknown,Drug,38
+OldCase: Traffic,Violent,38
+OldCase: Violent,OldCase: Traffic,37
+Unknown,Violent,37
+Property,Tampering,36
+Drug,Sex,36
+OldCase: Tampering,OldCase: Drug,36
+OldCase: Fraud,OldCase: Traffic,35
+OldCase: Traffic,OldCase: Violent,35
+Sex,Drug,34
+Unknown,Property,34
+Fraud,ResistPolice,34
+Drug,Unknown,34
+OldCase: Weapon,OldCase: Drug,33
+PublicOrder,OldCase: PublicOrder,33
+OldCase: Fraud,OldCase: Drug,33
+ResistPolice,OldCase: Traffic,33
+OldCase: Fraud,Property,33
+Property,Weapon,32
+Violent,Sex,32
+Violent,OldCase: ResistPolice,32
+OldCase: Property,Fraud,31
+Traffic,OldCase: ResistPolice,31
+OldCase: Drug,OldCase: Tampering,30
+Tampering,Traffic,29
+Weapon,OldCase: Weapon,29
+PublicOrder,PublicOrder,29
+OldCase: Property,OldCase: PublicOrder,28
+Fraud,OldCase: Drug,28
+OldCase: Drug,Fraud,27
+OldCase: Drug,OldCase: PublicOrder,27
+OldCase: PublicOrder,OldCase: Drug,27
+OldCase: PublicOrder,OldCase: Property,27
+ResistPolice,ResistPolice,27
+OldCase: Drug,OldCase: Weapon,27
+OldCase: ResistPolice,Property,26
+OldCase: Traffic,ResistPolice,26
+OldCase: ResistPolice,Drug,26
+Weapon,ResistPolice,26
+Unknown,Traffic,25
+OldCase: Property,PublicOrder,25
+ResistPolice,Tampering,24
+OldCase: ResistPolice,OldCase: ResistPolice,24
+Sex,Violent,24
+ResistPolice,Weapon,24
+Drug,Justice,24
+Property,Justice,24
+OldCase: Weapon,OldCase: Property,23
+OldCase: ResistPolice,OldCase: Fraud,23
+Fraud,Fraud,23
+PublicOrder,OldCase: Drug,23
+OldCase: Violent,ResistPolice,22
+PublicOrder,OldCase: Property,22
+Drug,OldCase: Fraud,20
+Traffic,OldCase: Fraud,20
+OldCase: PublicOrder,OldCase: ResistPolice,19
+OldCase: ResistPolice,OldCase: PublicOrder,19
+Tampering,Property,19
+Property,OldCase: PublicOrder,19
+OldCase: Violent,OldCase: Tampering,18
+OldCase: Fraud,Traffic,18
+OldCase: ResistPolice,Violent,18
+Tampering,OldCase: Tampering,18
+Property,OldCase: Weapon,17
+Fraud,OldCase: Traffic,17
+Traffic,Justice,17
+OldCase: Property,Unknown,17
+OldCase: Drug,PublicOrder,17
+OldCase: PublicOrder,OldCase: Traffic,17
+Tampering,OldCase: Drug,17
+Drug,OldCase: Weapon,17
+Fraud,PublicOrder,17
+OldCase: ResistPolice,Traffic,16
+OldCase: Property,OldCase: Weapon,16
+OldCase: Traffic,OldCase: PublicOrder,16
+OldCase: Tampering,OldCase: Violent,16
+PublicOrder,Fraud,16
+OldCase: Sex,OldCase: Drug,16
+OldCase: Weapon,OldCase: Violent,15
+Weapon,OldCase: Traffic,15
+PublicOrder,Sex,15
+Property,Sex,15
+OldCase: ResistPolice,ResistPolice,15
+OldCase: Violent,OldCase: PublicOrder,15
+OldCase: Violent,Fraud,14
+OldCase: Fraud,OldCase: ResistPolice,14
+Sex,Property,14
+OldCase: Fraud,Drug,14
+Sex,OldCase: Drug,14
+OldCase: Drug,Unknown,14
+Weapon,OldCase: Property,13
+OldCase: Fraud,Violent,13
+ResistPolice,Justice,13
+OldCase: Weapon,OldCase: Traffic,13
+OldCase: PublicOrder,OldCase: Violent,13
+Sex,Sex,13
+Violent,OldCase: Weapon,13
+Violent,Justice,13
+OldCase: Fraud,OldCase: Violent,13
+OldCase: Property,OldCase: Tampering,13
+OldCase: Violent,OldCase: Weapon,12
+Sex,Traffic,12
+OldCase: ResistPolice,OldCase: Tampering,12
+OldCase: Drug,OldCase: Justice,12
+OldCase: Drug,OldCase: Sex,12
+OldCase: PublicOrder,Drug,12
+Violent,OldCase: Fraud,12
+Conspiracy,Property,12
+OldCase: Weapon,OldCase: Weapon,12
+OldCase: Fraud,Fraud,12
+OldCase: Tampering,OldCase: Traffic,11
+OldCase: Traffic,OldCase: Tampering,11
+Traffic,OldCase: Weapon,11
+OldCase: Traffic,OldCase: Weapon,11
+OldCase: Traffic,Fraud,11
+ResistPolice,Unknown,11
+Violent,OldCase: PublicOrder,11
+PublicOrder,Weapon,10
+OldCase: PublicOrder,Property,10
+Drug,OldCase: Tampering,10
+OldCase: Weapon,Traffic,10
+Fraud,OldCase: Violent,10
+PublicOrder,OldCase: ResistPolice,10
+OldCase: Tampering,OldCase: ResistPolice,10
+PublicOrder,OldCase: Traffic,10
+Unknown,OldCase: Property,10
+Justice,Property,10
+OldCase: Tampering,OldCase: Property,10
+OldCase: Property,Weapon,9
+OldCase: Drug,Sex,9
+Traffic,Sex,9
+Justice,OldCase: Drug,9
+Justice,OldCase: Property,9
+Fraud,Tampering,9
+OldCase: Drug,Weapon,9
+Property,Minors,9
+Justice,Drug,9
+Traffic,OldCase: PublicOrder,9
+OldCase: Traffic,Unknown,9
+Drug,OldCase: PublicOrder,9
+Drug,Conspiracy,9
+Fraud,Weapon,9
+OldCase: Weapon,Drug,9
+OldCase: Violent,Unknown,8
+OldCase: Sex,OldCase: Violent,8
+OldCase: Property,OldCase: Minors,8
+Fraud,Conspiracy,8
+Sex,PublicOrder,8
+OldCase: Drug,OldCase: Conspiracy,8
+OldCase: ResistPolice,OldCase: Weapon,8
+Drug,OldCase: Sex,8
+Weapon,Fraud,8
+Justice,Violent,8
+OldCase: Weapon,OldCase: ResistPolice,8
+OldCase: Violent,OldCase: Fraud,8
+OldCase: Violent,PublicOrder,8
+Weapon,PublicOrder,7
+Unknown,PublicOrder,7
+ResistPolice,OldCase: Weapon,7
+Conspiracy,Drug,7
+OldCase: Weapon,Violent,7
+Weapon,OldCase: Violent,7
+OldCase: Traffic,Tampering,7
+OldCase: Traffic,PublicOrder,7
+PublicOrder,OldCase: Violent,7
+Tampering,Weapon,7
+OldCase: ResistPolice,Fraud,7
+Tampering,OldCase: Property,7
+Violent,OldCase: Tampering,7
+Tampering,OldCase: ResistPolice,7
+OldCase: Fraud,ResistPolice,7
+ResistPolice,OldCase: Fraud,7
+OldCase: Conspiracy,OldCase: Drug,6
+Fraud,OldCase: ResistPolice,6
+OldCase: Sex,OldCase: Sex,6
+OldCase: Property,OldCase: Justice,6
+OldCase: Traffic,Weapon,6
+OldCase: Violent,OldCase: Sex,6
+OldCase: Weapon,OldCase: Tampering,6
+OldCase: PublicOrder,Violent,6
+Unknown,ResistPolice,6
+Tampering,Fraud,6
+Weapon,OldCase: Drug,6
+Minors,Property,6
+OldCase: Conspiracy,OldCase: Property,6
+Sex,Fraud,5
+Unknown,OldCase: Violent,5
+Violent,Minors,5
+Sex,ResistPolice,5
+Weapon,Tampering,5
+OldCase: Fraud,OldCase: Justice,5
+Traffic,OldCase: Tampering,5
+OldCase: Weapon,Property,5
+Conspiracy,Fraud,5
+Weapon,Weapon,5
+ResistPolice,OldCase: PublicOrder,5
+Property,Conspiracy,5
+OldCase: Tampering,Property,5
+Fraud,Sex,5
+Minors,Violent,5
+OldCase: PublicOrder,PublicOrder,5
+OldCase: ResistPolice,Unknown,5
+OldCase: Sex,Drug,5
+OldCase: Drug,Tampering,5
+OldCase: PublicOrder,ResistPolice,5
+OldCase: PublicOrder,Traffic,5
+Conspiracy,OldCase: Conspiracy,4
+Justice,Fraud,4
+Minors,Drug,4
+PublicOrder,Justice,4
+Fraud,Unknown,4
+OldCase: Violent,Justice,4
+OldCase: Tampering,OldCase: Weapon,4
+Fraud,OldCase: PublicOrder,4
+OldCase: Violent,Tampering,4
+Drug,Minors,4
+OldCase: Tampering,OldCase: Tampering,4
+OldCase: Tampering,Traffic,4
+PublicOrder,Unknown,4
+OldCase: Tampering,Violent,4
+ResistPolice,Minors,4
+Tampering,OldCase: Violent,4
+Unknown,Sex,4
+OldCase: Property,Justice,4
+Unknown,OldCase: Drug,4
+Unknown,Fraud,4
+OldCase: PublicOrder,OldCase: Weapon,4
+OldCase: ResistPolice,PublicOrder,4
+OldCase: PublicOrder,OldCase: PublicOrder,4
+OldCase: Sex,PublicOrder,4
+Violent,OldCase: Sex,3
+OldCase: Fraud,OldCase: Weapon,3
+OldCase: PublicOrder,OldCase: Tampering,3
+OldCase: ResistPolice,OldCase: Justice,3
+Tampering,Justice,3
+Sex,OldCase: Violent,3
+Sex,OldCase: Property,3
+Sex,Minors,3
+OldCase: Justice,OldCase: Traffic,3
+OldCase: Minors,OldCase: Property,3
+OldCase: Drug,Justice,3
+OldCase: Fraud,OldCase: PublicOrder,3
+OldCase: Sex,OldCase: Justice,3
+OldCase: PublicOrder,OldCase: Justice,3
+OldCase: PublicOrder,OldCase: Fraud,3
+OldCase: ResistPolice,Weapon,3
+OldCase: Property,Tampering,3
+OldCase: Fraud,Unknown,3
+OldCase: Justice,OldCase: Fraud,3
+ResistPolice,Sex,3
+OldCase: Traffic,OldCase: Justice,3
+OldCase: Violent,OldCase: Justice,3
+Traffic,Minors,3
+OldCase: Tampering,ResistPolice,3
+Tampering,Sex,3
+Traffic,Conspiracy,3
+Tampering,OldCase: Traffic,3
+Tampering,PublicOrder,3
+OldCase: Violent,Sex,3
+Fraud,Justice,3
+OldCase: Weapon,OldCase: PublicOrder,3
+OldCase: Weapon,OldCase: Fraud,3
+Fraud,OldCase: Tampering,3
+Minors,ResistPolice,3
+Justice,OldCase: Traffic,3
+Minors,Sex,3
+Justice,OldCase: Violent,3
+Minors,OldCase: Property,3
+Conspiracy,Violent,3
+Conspiracy,PublicOrder,3
+Conspiracy,Traffic,2
+Property,OldCase: Sex,2
+Property,OldCase: Minors,2
+Weapon,OldCase: Tampering,2
+PublicOrder,OldCase: Sex,2
+PublicOrder,OldCase: Tampering,2
+OldCase: Violent,Weapon,2
+OldCase: Weapon,ResistPolice,2
+OldCase: Weapon,PublicOrder,2
+OldCase: Weapon,OldCase: Justice,2
+Sex,OldCase: ResistPolice,2
+OldCase: Minors,OldCase: ResistPolice,2
+Tampering,OldCase: Fraud,2
+OldCase: ResistPolice,OldCase: Conspiracy,2
+OldCase: PublicOrder,Sex,2
+Sex,Justice,2
+OldCase: ResistPolice,OldCase: Minors,2
+OldCase: Sex,OldCase: PublicOrder,2
+OldCase: Sex,OldCase: Traffic,2
+OldCase: Sex,OldCase: ResistPolice,2
+OldCase: ResistPolice,Tampering,2
+ResistPolice,Conspiracy,2
+ResistPolice,OldCase: Tampering,2
+OldCase: Sex,Fraud,2
+OldCase: Traffic,Conspiracy,2
+OldCase: Traffic,OldCase: Sex,2
+PublicOrder,Tampering,2
+OldCase: Tampering,OldCase: Fraud,2
+OldCase: Tampering,Drug,2
+Minors,OldCase: Minors,2
+Minors,OldCase: ResistPolice,2
+OldCase: Conspiracy,OldCase: Conspiracy,2
+OldCase: Conspiracy,Drug,2
+Fraud,OldCase: Weapon,2
+Fraud,Other,2
+Weapon,Unknown,2
+Justice,Unknown,2
+Unknown,Weapon,2
+Violent,Conspiracy,2
+Justice,OldCase: Justice,2
+Justice,ResistPolice,2
+OldCase: Justice,PublicOrder,2
+OldCase: Justice,OldCase: Sex,2
+OldCase: Justice,OldCase: ResistPolice,2
+OldCase: Justice,OldCase: Property,2
+OldCase: Fraud,OldCase: Conspiracy,2
+Traffic,OldCase: Sex,2
+Justice,Traffic,2
+Sex,OldCase: Fraud,2
+OldCase: Property,Sex,2
+OldCase: Fraud,OldCase: Tampering,2
+OldCase: Minors,Traffic,2
+OldCase: Property,Conspiracy,2
+Conspiracy,ResistPolice,1
+Weapon,Justice,1
+Weapon,Conspiracy,1
+Weapon,OldCase: Fraud,1
+Weapon,OldCase: ResistPolice,1
+Weapon,OldCase: PublicOrder,1
+Property,OldCase: Justice,1
+Weapon,Other,1
+Property,OldCase: Conspiracy,1
+Other,Traffic,1
+Other,OldCase: Other,1
+Other,Justice,1
+Other,Conspiracy,1
+OldCase: Weapon,Weapon,1
+OldCase: Weapon,Unknown,1
+PublicOrder,Minors,1
+PublicOrder,OldCase: Fraud,1
+Property,OldCase: Tampering,1
+Drug,OldCase: Minors,1
+ResistPolice,OldCase: Sex,1
+OldCase: PublicOrder,Unknown,1
+OldCase: Tampering,OldCase: Justice,1
+OldCase: Tampering,Justice,1
+OldCase: Tampering,PublicOrder,1
+OldCase: Sex,ResistPolice,1
+OldCase: Sex,Property,1
+OldCase: Sex,OldCase: Tampering,1
+OldCase: Sex,OldCase: Minors,1
+OldCase: Sex,OldCase: Property,1
+ResistPolice,OldCase: Justice,1
+OldCase: ResistPolice,Sex,1
+OldCase: Sex,Justice,1
+PublicOrder,OldCase: Weapon,1
+OldCase: Tampering,Tampering,1
+OldCase: Tampering,Unknown,1
+OldCase: Tampering,Weapon,1
+OldCase: Tampering,OldCase: Sex,1
+OldCase: Tampering,Fraud,1
+OldCase: Violent,OldCase: Conspiracy,1
+OldCase: Traffic,Sex,1
+OldCase: Fraud,Weapon,1
+OldCase: Fraud,PublicOrder,1
+OldCase: Property,OldCase: Sex,1
+OldCase: Property,Other,1
+OldCase: Property,OldCase: Conspiracy,1
+OldCase: Minors,Property,1
+OldCase: Minors,Violent,1
+OldCase: Other,OldCase: Traffic,1
+Sex,Tampering,1
+OldCase: Minors,OldCase: Sex,1
+OldCase: Sex,Violent,1
+OldCase: PublicOrder,Fraud,1
+Sex,OldCase: Conspiracy,1
+OldCase: ResistPolice,OldCase: Sex,1
+Sex,OldCase: Minors,1
+Sex,OldCase: Traffic,1
+OldCase: Sex,Unknown,1
+OldCase: Sex,Sex,1
+OldCase: PublicOrder,OldCase: Sex,1
+OldCase: Minors,OldCase: Drug,1
+OldCase: Justice,Traffic,1
+OldCase: Fraud,Justice,1
+OldCase: Minors,Drug,1
+OldCase: Justice,Violent,1
+OldCase: Minors,OldCase: Fraud,1
+OldCase: Justice,OldCase: Violent,1
+OldCase: Justice,ResistPolice,1
+OldCase: Justice,Property,1
+OldCase: Justice,OldCase: Justice,1
+OldCase: Justice,OldCase: Drug,1
+OldCase: Justice,OldCase: Tampering,1
+OldCase: Justice,Drug,1
+Minors,Fraud,1
+Justice,Weapon,1
+Justice,Sex,1
+Justice,Tampering,1
+Traffic,Other,1
+Tampering,Tampering,1
+Tampering,Unknown,1
+Traffic,OldCase: Justice,1
+OldCase: Minors,OldCase: Minors,1
+OldCase: Drug,OldCase: Minors,1
+OldCase: Conspiracy,OldCase: Sex,1
+OldCase: Conspiracy,ResistPolice,1
+OldCase: Conspiracy,OldCase: ResistPolice,1
+Minors,Traffic,1
+Minors,PublicOrder,1
+Minors,OldCase: Drug,1
+Justice,Minors,1
+Justice,Justice,1
+OldCase: Conspiracy,Violent,1
+Fraud,Minors,1
+Justice,OldCase: Sex,1
+Justice,OldCase: Fraud,1
+Justice,OldCase: PublicOrder,1
+Justice,OldCase: ResistPolice,1
+Unknown,Tampering,1
+Unknown,OldCase: Weapon,1
+Unknown,OldCase: ResistPolice,1
+Violent,OldCase: Conspiracy,1
+Conspiracy,OldCase: Violent,1
+Conspiracy,OldCase: Sex,1
+Conspiracy,OldCase: Property,1
+Conspiracy,OldCase: Drug,1
