@@ -1,35 +1,21 @@
 # compas-process-mining
 
-Таблица заключений и обвинений из базы ProPublica COMPAS (округ Броуард, Флорида) для построения графа переходов между типами преступлений (PM4Py) и моделей повторных событий.
+Граф переходов между типами преступлений (PM4Py) и модели повторных событий на данных ProPublica COMPAS (округ Броуард, Флорида).
+Каждый этап лежит в своей папке: код, ноутбук с пояснениями и результат.
 
-## Файлы
+## Структура
 
-| файл | что это |
+| папка | этап |
 |---|---|
-| `build_from_compas_db.py` | код: строит таблицу из `compas.db` (база только читается) |
-| `compas_custody_charges.csv` / `.xlsx` | результат: 65 363 строки, 22 552 заключения, 10 580 человек |
-| `COMPAS_DB_TABLE.md` | описание таблицы: откуда берётся каждый столбец |
-| `COMPARE_WITH_DASHA.md` | сверка с прежней таблицей `individual_custody_timeline_rfm.csv` и причины расхождений |
+| [`stage0-data/`](stage0-data/) | Этап 0. Таблица заключений с обвинениями `compas_custody_charges` из `compas.db` |
 
-## Данные
+## Этап 0 в двух словах
 
-`compas.db` в репозиторий не входит. Это открытая база ProPublica: https://github.com/propublica/compas-analysis (файл `compas.db`).
-
-## Запуск
-
-```bash
-pip install pandas openpyxl
-python build_from_compas_db.py path/to/compas.db [папка_для_результата]
-```
-
-## Таблица в двух словах
-
-Одна строка = одно обвинение внутри одного заключения одного человека.
+Одна строка = одно обвинение внутри одного заключения одного человека (65 363 строки, 22 552 заключения, 10 580 человек).
 
 - `id` — `person_id` из `casearrest` (он же `people.id`); `age`, `sex`, `race` — из `people`.
 - Заключения — `jailhistory` + `prisonhistory` с датой входа с 2013-01-01.
 - Обвинения заключения — дела из `casearrest`, арестованные в ±1 день от входа (иначе по дате преступления, иначе последнее дело за 365 дней), все их обвинения из `charge`.
 - Производные столбцы (`custody_num`, `time_*`, `event`, `*_dur_custody`, `all_future_*`) считаются по `id`.
-- В конце: `charge_num`, `n_charges`, `charge_category`, `charge_source`, `case_number`, `custody_source`.
 
-Подробно — в `COMPAS_DB_TABLE.md`.
+Подробно — в [`stage0-data/README.md`](stage0-data/README.md).
