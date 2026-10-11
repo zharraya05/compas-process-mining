@@ -1,0 +1,29 @@
+,заключений,переходов,доля цензуры,петля p(i→i)
+Violent,4599,1777,0.614,0.258
+Property,3690,2275,0.383,0.258
+Drug,3359,2086,0.379,0.218
+Traffic,2238,1141,0.49,0.23
+OldCase: Property,1601,724,0.548,0.616
+OldCase: Drug,1534,782,0.49,0.586
+OldCase: Violent,862,388,0.55,0.549
+Unknown,653,309,0.527,0.421
+Fraud,530,264,0.502,0.049
+OldCase: Traffic,506,226,0.553,0.442
+ResistPolice,503,298,0.408,0.067
+PublicOrder,285,207,0.274,0.082
+Tampering,246,121,0.508,0.017
+Weapon,238,136,0.429,0.037
+Sex,229,112,0.511,0.107
+OldCase: Fraud,197,82,0.584,0.476
+OldCase: ResistPolice,122,68,0.443,0.265
+OldCase: Weapon,105,51,0.514,0.549
+OldCase: Sex,67,20,0.701,0.3
+OldCase: Tampering,64,27,0.578,0.407
+OldCase: PublicOrder,26,18,0.308,0.222
+Justice,22,9,0.591,0.111
+Conspiracy,19,8,0.579,0.0
+OldCase: Conspiracy,8,4,0.5,0.75
+Minors,7,2,0.714,0.0
+OldCase: Justice,4,1,0.75,1.0
+OldCase: Minors,1,0,1.0,0.0
+Other,1,0,1.0,0.0
