@@ -1,0 +1,26 @@
+,value
+source,compas_custody_charges.csv
+charge_rows,65363
+custodies_raw,22552
+custodies_merged,836
+episodes,21716
+justice_split_steps,101
+steps,21817
+people,10580
+case_id,id (person_id)
+obs_end,2016-04-19
+ongoing_custody,661
+people_repeat,5230
+transitions_observed,11237
+cases_terminal,0
+cases_censored,10580
+episodes_multi_type,5766
+share_multi_type,0.264
+type_events,29371
+negative_gaps,75
+episodes_with_old_case,5743
+episodes_only_old_case,4066
+only_old_case_src_arrest,3573
+only_old_case_src_prior_case,487
+only_old_case_src_offense,6
+charges_old_case,18875
