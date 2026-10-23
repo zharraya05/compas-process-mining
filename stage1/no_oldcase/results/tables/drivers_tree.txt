@@ -1,0 +1,19 @@
+|--- src_Unknown <= 0.50
+|   |--- src_Sex <= 0.50
+|   |   |--- sex_Female <= 0.50
+|   |   |   |--- n_types_bin_3+ <= 0.50
+|   |   |   |   |--- class: Violent
+|   |   |   |--- n_types_bin_3+ >  0.50
+|   |   |   |   |--- class: Justice
+|   |   |--- sex_Female >  0.50
+|   |   |   |--- dur_class_S1_<=1d <= 0.50
+|   |   |   |   |--- class: Sex
+|   |   |   |--- dur_class_S1_<=1d >  0.50
+|   |   |   |   |--- class: Minors
+|   |--- src_Sex >  0.50
+|   |   |--- class: Sex
+|--- src_Unknown >  0.50
+|   |--- prev_combo_first <= 0.50
+|   |   |--- class: Unknown
+|   |--- prev_combo_first >  0.50
+|   |   |--- class: Unknown
