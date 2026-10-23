@@ -1,0 +1,28 @@
+|--- src_Unknown <= 0.50
+|   |--- sex_Male <= 0.50
+|   |   |--- dur_class_S1_<=1d <= 0.50
+|   |   |   |--- event_idx_bin_4+ <= 0.50
+|   |   |   |   |--- class: Sex
+|   |   |   |--- event_idx_bin_4+ >  0.50
+|   |   |   |   |--- class: Sex
+|   |   |--- dur_class_S1_<=1d >  0.50
+|   |   |   |--- age_group_25-34 <= 0.50
+|   |   |   |   |--- class: Violent
+|   |   |   |--- age_group_25-34 >  0.50
+|   |   |   |   |--- class: Minors
+|   |--- sex_Male >  0.50
+|   |   |--- n_types_bin_3+ <= 0.50
+|   |   |   |--- src_Violent <= 0.50
+|   |   |   |   |--- class: Property
+|   |   |   |--- src_Violent >  0.50
+|   |   |   |   |--- class: Violent
+|   |   |--- n_types_bin_3+ >  0.50
+|   |   |   |--- prev_combo_Traffic <= 0.50
+|   |   |   |   |--- class: Justice
+|   |   |   |--- prev_combo_Traffic >  0.50
+|   |   |   |   |--- class: Other
+|--- src_Unknown >  0.50
+|   |--- prev_combo_first <= 0.50
+|   |   |--- class: Unknown
+|   |--- prev_combo_first >  0.50
+|   |   |--- class: Unknown

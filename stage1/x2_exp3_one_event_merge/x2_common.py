@@ -8,7 +8,7 @@ build(variant, ch, ep, one_event=False, merge_old=()) — те же правил
 import numpy as np
 import pandas as pd
 
-from crime_categories import categorize_fine as categorize, UNKNOWN
+from crime_categories import categorize_fine as categorize, UNKNOWN               #преобразоавние из текста
 
 SEED = 42
 OLDCASE, JUSTICE = "OldCase", "Justice"
