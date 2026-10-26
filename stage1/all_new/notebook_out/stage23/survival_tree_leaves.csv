@@ -1,0 +1,9 @@
+leaf,path,n,events,km_median,S365
+13,балл COMPAS (decile) > 6.50 и балл COMPAS (decile) > 8.50 и log длит. заключения ≤ 4.75,2581,1976,141.0,0.273
+10,балл COMPAS (decile) > 6.50 и балл COMPAS (decile) ≤ 8.50 и состояние ≠ Violent,2529,1693,214.0,0.385
+14,балл COMPAS (decile) > 6.50 и балл COMPAS (decile) > 8.50 и log длит. заключения > 4.75,474,264,263.0,0.443
+11,балл COMPAS (decile) > 6.50 и балл COMPAS (decile) ≤ 8.50 и состояние = Violent,621,369,343.0,0.495
+7,балл COMPAS (decile) ≤ 6.50 и балл COMPAS (decile) > 2.50 и заключений до этого > 0.50,3196,1619,375.0,0.503
+6,балл COMPAS (decile) ≤ 6.50 и балл COMPAS (decile) > 2.50 и заключений до этого ≤ 0.50,3229,1682,690.0,0.61
+4,балл COMPAS (decile) ≤ 6.50 и балл COMPAS (decile) ≤ 2.50 и заключений до этого > 0.50,1185,431,inf,0.655
+3,балл COMPAS (decile) ≤ 6.50 и балл COMPAS (decile) ≤ 2.50 и заключений до этого ≤ 0.50,2948,786,inf,0.815

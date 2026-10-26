@@ -1,0 +1,12 @@
+,HR,p
+Fraud,0.974,0.6988
+OldCase,0.8186,0.0001
+Property,1.0924,0.0067
+PublicOrder,1.3008,0.001
+ResistPolice,0.9668,0.6019
+Sex,0.9749,0.8092
+Tampering,0.7282,0.0027
+Traffic,0.8908,0.0044
+Unknown,0.8313,0.0112
+Violent,0.6538,0.0
+Weapon,0.9171,0.3643

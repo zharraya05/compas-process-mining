@@ -1,0 +1,369 @@
+from,to,n,p,mean,q25,median,q75,q90
+Conspiracy,OldCase: Conspiracy,3,0.375,38.3,29.5,37.0,46.5,52.2
+Conspiracy,OldCase: Drug,1,0.125,37.0,37.0,37.0,37.0,37.0
+Conspiracy,OldCase: Fraud,1,0.125,45.0,45.0,45.0,45.0,45.0
+Conspiracy,Property,1,0.125,219.0,219.0,219.0,219.0,219.0
+Conspiracy,Traffic,1,0.125,628.0,628.0,628.0,628.0,628.0
+Conspiracy,Violent,1,0.125,112.0,112.0,112.0,112.0,112.0
+Drug,OldCase: Drug,871,0.418,197.4,66.0,136.0,270.5,451.0
+Drug,Drug,454,0.218,163.8,39.0,102.0,222.5,402.4
+Drug,Property,198,0.095,149.5,30.2,88.0,193.5,381.6
+Drug,Violent,131,0.063,221.3,51.0,135.0,328.5,495.0
+Drug,Traffic,123,0.059,179.0,43.0,106.0,245.0,466.6
+Drug,Unknown,42,0.02,583.6,437.2,578.0,760.2,975.8
+Drug,OldCase: Property,41,0.02,116.1,45.0,82.0,136.0,316.0
+Drug,ResistPolice,37,0.018,202.3,60.0,130.0,248.0,469.0
+Drug,OldCase: Traffic,27,0.013,195.2,43.0,141.0,343.5,457.0
+Drug,PublicOrder,25,0.012,138.3,22.0,71.0,218.0,342.0
+Drug,OldCase: Violent,24,0.012,140.4,27.8,76.0,117.0,474.4
+Drug,Sex,20,0.01,116.0,33.5,64.5,134.2,362.5
+Drug,Weapon,20,0.01,218.0,63.2,129.5,269.0,562.0
+Drug,Fraud,19,0.009,209.1,87.0,152.0,261.0,522.4
+Drug,Tampering,18,0.009,160.5,52.2,117.0,235.5,383.9
+Drug,OldCase: ResistPolice,9,0.004,71.8,33.0,55.0,97.0,120.8
+Drug,OldCase: Tampering,7,0.003,168.3,101.0,136.0,196.0,295.0
+Drug,OldCase: Fraud,5,0.002,177.4,69.0,93.0,150.0,387.6
+Drug,OldCase: Weapon,5,0.002,158.4,17.0,135.0,169.0,347.2
+Drug,OldCase: PublicOrder,3,0.001,66.3,53.5,85.0,88.5,90.6
+Drug,Conspiracy,2,0.001,17.5,13.2,17.5,21.8,24.3
+Drug,Justice,2,0.001,516.5,360.8,516.5,672.2,765.7
+Drug,OldCase: Sex,2,0.001,56.5,39.8,56.5,73.2,83.3
+Drug,OldCase: Conspiracy,1,0.0,564.0,564.0,564.0,564.0,564.0
+Fraud,OldCase: Fraud,89,0.337,229.2,83.0,203.0,327.0,477.0
+Fraud,OldCase: Property,45,0.17,239.5,68.0,147.0,355.0,523.6
+Fraud,Property,32,0.121,194.3,44.8,137.0,246.2,489.6
+Fraud,Drug,22,0.083,206.0,40.5,167.5,316.5,475.5
+Fraud,Violent,16,0.061,161.1,57.8,104.0,210.0,314.5
+Fraud,Fraud,13,0.049,114.5,60.0,96.0,137.0,245.0
+Fraud,Traffic,12,0.045,173.8,75.8,177.0,253.5,284.1
+Fraud,OldCase: Violent,7,0.027,164.0,68.0,122.0,192.0,336.6
+Fraud,Unknown,6,0.023,515.8,468.0,512.0,589.0,647.0
+Fraud,OldCase: Drug,5,0.019,106.8,68.0,78.0,102.0,180.6
+Fraud,ResistPolice,4,0.015,293.0,175.2,323.5,441.2,488.5
+Fraud,OldCase: ResistPolice,2,0.008,288.5,168.8,288.5,408.2,480.1
+Fraud,OldCase: Traffic,2,0.008,36.5,30.8,36.5,42.2,45.7
+Fraud,PublicOrder,2,0.008,458.0,336.5,458.0,579.5,652.4
+Fraud,Sex,2,0.008,399.0,224.0,399.0,574.0,679.0
+Fraud,OldCase: PublicOrder,1,0.004,81.0,81.0,81.0,81.0,81.0
+Fraud,OldCase: Sex,1,0.004,54.0,54.0,54.0,54.0,54.0
+Fraud,OldCase: Weapon,1,0.004,102.0,102.0,102.0,102.0,102.0
+Fraud,Other,1,0.004,16.0,16.0,16.0,16.0,16.0
+Fraud,Weapon,1,0.004,249.0,249.0,249.0,249.0,249.0
+Justice,Property,2,0.222,268.0,260.0,268.0,276.0,280.8
+Justice,Violent,2,0.222,181.0,157.0,181.0,205.0,219.4
+Justice,Drug,1,0.111,439.0,439.0,439.0,439.0,439.0
+Justice,Justice,1,0.111,329.0,329.0,329.0,329.0,329.0
+Justice,OldCase: Drug,1,0.111,137.0,137.0,137.0,137.0,137.0
+Justice,OldCase: Justice,1,0.111,258.0,258.0,258.0,258.0,258.0
+Justice,OldCase: Sex,1,0.111,109.0,109.0,109.0,109.0,109.0
+Minors,ResistPolice,1,0.5,53.0,53.0,53.0,53.0,53.0
+Minors,Violent,1,0.5,109.0,109.0,109.0,109.0,109.0
+OldCase: Conspiracy,OldCase: Conspiracy,3,0.75,127.3,113.5,116.0,135.5,147.2
+OldCase: Conspiracy,Drug,1,0.25,171.0,171.0,171.0,171.0,171.0
+OldCase: Drug,OldCase: Drug,458,0.586,149.2,47.0,106.5,208.5,352.2
+OldCase: Drug,Drug,93,0.119,178.6,41.0,95.0,245.0,509.4
+OldCase: Drug,Property,53,0.068,138.5,37.0,85.0,186.0,338.2
+OldCase: Drug,Traffic,39,0.05,177.5,52.5,137.0,250.0,422.4
+OldCase: Drug,Violent,36,0.046,192.4,68.2,106.0,281.5,452.5
+OldCase: Drug,OldCase: Property,20,0.026,133.9,49.0,128.5,205.0,260.3
+OldCase: Drug,ResistPolice,16,0.02,150.3,48.8,89.5,177.8,376.0
+OldCase: Drug,Unknown,13,0.017,451.2,333.0,499.0,601.0,618.6
+OldCase: Drug,Fraud,9,0.012,118.6,34.0,60.0,186.0,244.4
+OldCase: Drug,OldCase: Traffic,9,0.012,133.3,31.0,112.0,239.0,264.8
+OldCase: Drug,PublicOrder,9,0.012,59.2,48.0,57.0,68.0,84.0
+OldCase: Drug,Sex,6,0.008,99.5,24.2,58.0,163.8,230.0
+OldCase: Drug,OldCase: Violent,5,0.006,75.4,40.0,95.0,96.0,104.4
+OldCase: Drug,Tampering,5,0.006,143.0,26.0,39.0,116.0,357.8
+OldCase: Drug,OldCase: Tampering,3,0.004,99.3,81.5,100.0,117.5,128.0
+OldCase: Drug,Weapon,3,0.004,302.0,114.0,153.0,415.5,573.0
+OldCase: Drug,OldCase: Fraud,2,0.003,104.0,80.5,104.0,127.5,141.6
+OldCase: Drug,OldCase: Conspiracy,1,0.001,88.0,88.0,88.0,88.0,88.0
+OldCase: Drug,OldCase: Sex,1,0.001,20.0,20.0,20.0,20.0,20.0
+OldCase: Drug,OldCase: Weapon,1,0.001,245.0,245.0,245.0,245.0,245.0
+OldCase: Fraud,OldCase: Fraud,39,0.476,183.9,50.0,146.0,237.5,435.6
+OldCase: Fraud,OldCase: Property,14,0.171,149.4,83.0,111.0,217.0,294.6
+OldCase: Fraud,Property,7,0.085,111.6,55.5,101.0,104.5,207.8
+OldCase: Fraud,Drug,5,0.061,161.2,56.0,67.0,213.0,362.4
+OldCase: Fraud,Fraud,4,0.049,151.8,77.2,173.0,247.5,250.2
+OldCase: Fraud,OldCase: Drug,3,0.037,143.3,67.5,79.0,187.0,251.8
+OldCase: Fraud,Traffic,3,0.037,41.7,24.0,31.0,54.0,67.8
+OldCase: Fraud,OldCase: Traffic,2,0.024,281.0,230.5,281.0,331.5,361.8
+OldCase: Fraud,Violent,2,0.024,70.0,50.5,70.0,89.5,101.2
+OldCase: Fraud,OldCase: PublicOrder,1,0.012,62.0,62.0,62.0,62.0,62.0
+OldCase: Fraud,OldCase: Violent,1,0.012,13.0,13.0,13.0,13.0,13.0
+OldCase: Fraud,Unknown,1,0.012,146.0,146.0,146.0,146.0,146.0
+OldCase: Justice,OldCase: Justice,1,1.0,28.0,28.0,28.0,28.0,28.0
+OldCase: Property,OldCase: Property,446,0.616,143.4,50.2,92.0,199.2,338.5
+OldCase: Property,Property,107,0.148,162.3,45.0,129.0,232.0,344.2
+OldCase: Property,Drug,48,0.066,180.1,66.0,132.0,266.0,414.3
+OldCase: Property,Violent,29,0.04,145.3,53.0,125.0,207.0,305.2
+OldCase: Property,Unknown,20,0.028,398.9,226.0,399.0,543.2,711.0
+OldCase: Property,OldCase: Fraud,16,0.022,152.1,66.8,136.0,209.5,296.0
+OldCase: Property,OldCase: Drug,12,0.017,101.3,42.5,69.0,187.5,206.4
+OldCase: Property,Traffic,8,0.011,211.8,68.0,236.5,292.5,335.7
+OldCase: Property,OldCase: Violent,7,0.01,108.4,25.0,121.0,141.5,214.4
+OldCase: Property,ResistPolice,7,0.01,138.7,67.5,83.0,155.5,301.4
+OldCase: Property,Fraud,5,0.007,133.6,71.0,120.0,168.0,244.2
+OldCase: Property,PublicOrder,5,0.007,173.0,88.0,98.0,217.0,323.2
+OldCase: Property,OldCase: Traffic,4,0.006,156.8,20.8,68.0,204.0,367.8
+OldCase: Property,Weapon,4,0.006,138.8,93.8,134.0,179.0,218.6
+OldCase: Property,OldCase: Weapon,2,0.003,318.0,252.5,318.0,383.5,422.8
+OldCase: Property,OldCase: ResistPolice,1,0.001,28.0,28.0,28.0,28.0,28.0
+OldCase: Property,OldCase: Tampering,1,0.001,87.0,87.0,87.0,87.0,87.0
+OldCase: Property,Sex,1,0.001,0.0,0.0,0.0,0.0,0.0
+OldCase: Property,Tampering,1,0.001,38.0,38.0,38.0,38.0,38.0
+OldCase: PublicOrder,Drug,5,0.278,72.6,15.0,62.0,83.0,150.2
+OldCase: PublicOrder,OldCase: PublicOrder,4,0.222,128.8,122.2,156.0,162.5,165.2
+OldCase: PublicOrder,Violent,3,0.167,207.7,131.0,217.0,289.0,332.2
+OldCase: PublicOrder,PublicOrder,2,0.111,34.0,24.0,34.0,44.0,50.0
+OldCase: PublicOrder,OldCase: Drug,1,0.056,348.0,348.0,348.0,348.0,348.0
+OldCase: PublicOrder,OldCase: Traffic,1,0.056,57.0,57.0,57.0,57.0,57.0
+OldCase: PublicOrder,Property,1,0.056,60.0,60.0,60.0,60.0,60.0
+OldCase: PublicOrder,Sex,1,0.056,6.0,6.0,6.0,6.0,6.0
+OldCase: ResistPolice,OldCase: ResistPolice,18,0.265,114.5,31.0,66.5,196.2,266.7
+OldCase: ResistPolice,Property,8,0.118,64.1,9.0,31.0,74.0,167.9
+OldCase: ResistPolice,Violent,8,0.118,164.4,43.0,73.5,174.2,437.2
+OldCase: ResistPolice,Drug,7,0.103,46.7,12.0,50.0,79.0,89.4
+OldCase: ResistPolice,OldCase: Violent,5,0.074,52.6,15.0,33.0,102.0,102.6
+OldCase: ResistPolice,OldCase: Drug,4,0.059,262.8,207.5,275.5,330.8,337.5
+OldCase: ResistPolice,OldCase: Property,4,0.059,22.8,4.5,14.5,32.8,50.3
+OldCase: ResistPolice,Traffic,4,0.059,230.5,132.5,256.0,354.0,372.0
+OldCase: ResistPolice,Fraud,2,0.029,226.5,223.8,226.5,229.2,230.9
+OldCase: ResistPolice,OldCase: Fraud,2,0.029,276.0,170.0,276.0,382.0,445.6
+OldCase: ResistPolice,Unknown,2,0.029,656.5,577.2,656.5,735.8,783.3
+OldCase: ResistPolice,OldCase: Traffic,1,0.015,189.0,189.0,189.0,189.0,189.0
+OldCase: ResistPolice,PublicOrder,1,0.015,69.0,69.0,69.0,69.0,69.0
+OldCase: ResistPolice,ResistPolice,1,0.015,102.0,102.0,102.0,102.0,102.0
+OldCase: ResistPolice,Weapon,1,0.015,5.0,5.0,5.0,5.0,5.0
+OldCase: Sex,OldCase: Sex,6,0.3,114.5,95.2,116.5,128.0,162.5
+OldCase: Sex,PublicOrder,3,0.15,139.3,108.5,158.0,179.5,192.4
+OldCase: Sex,Drug,2,0.1,95.5,50.2,95.5,140.8,167.9
+OldCase: Sex,Property,2,0.1,39.0,21.5,39.0,56.5,67.0
+OldCase: Sex,Justice,1,0.05,224.0,224.0,224.0,224.0,224.0
+OldCase: Sex,OldCase: Drug,1,0.05,38.0,38.0,38.0,38.0,38.0
+OldCase: Sex,OldCase: Violent,1,0.05,20.0,20.0,20.0,20.0,20.0
+OldCase: Sex,OldCase: Weapon,1,0.05,68.0,68.0,68.0,68.0,68.0
+OldCase: Sex,Traffic,1,0.05,496.0,496.0,496.0,496.0,496.0
+OldCase: Sex,Unknown,1,0.05,421.0,421.0,421.0,421.0,421.0
+OldCase: Sex,Violent,1,0.05,169.0,169.0,169.0,169.0,169.0
+OldCase: Tampering,OldCase: Tampering,11,0.407,64.6,39.0,64.0,78.0,126.0
+OldCase: Tampering,Property,5,0.185,94.4,57.0,116.0,133.0,145.6
+OldCase: Tampering,OldCase: Drug,4,0.148,142.0,115.0,172.0,199.0,202.6
+OldCase: Tampering,Traffic,3,0.111,360.7,188.0,266.0,486.0,618.0
+OldCase: Tampering,Drug,1,0.037,568.0,568.0,568.0,568.0,568.0
+OldCase: Tampering,OldCase: Property,1,0.037,18.0,18.0,18.0,18.0,18.0
+OldCase: Tampering,PublicOrder,1,0.037,379.0,379.0,379.0,379.0,379.0
+OldCase: Tampering,Violent,1,0.037,134.0,134.0,134.0,134.0,134.0
+OldCase: Traffic,OldCase: Traffic,100,0.442,146.2,52.2,112.0,197.5,317.5
+OldCase: Traffic,Traffic,33,0.146,178.4,84.0,154.0,257.0,347.6
+OldCase: Traffic,Violent,19,0.084,185.4,84.5,126.0,265.5,367.8
+OldCase: Traffic,Property,18,0.08,152.0,51.0,124.0,158.0,345.3
+OldCase: Traffic,Drug,15,0.066,181.5,40.0,137.0,246.5,385.2
+OldCase: Traffic,Unknown,9,0.04,329.7,147.0,368.0,441.0,562.0
+OldCase: Traffic,OldCase: Drug,7,0.031,132.7,81.5,86.0,161.0,236.8
+OldCase: Traffic,PublicOrder,4,0.018,100.0,38.2,77.5,139.2,195.5
+OldCase: Traffic,Fraud,3,0.013,197.7,57.5,97.0,287.5,401.8
+OldCase: Traffic,OldCase: Property,3,0.013,55.7,27.0,36.0,74.5,97.6
+OldCase: Traffic,ResistPolice,3,0.013,86.3,54.0,94.0,122.5,139.6
+OldCase: Traffic,OldCase: ResistPolice,2,0.009,49.5,44.2,49.5,54.8,57.9
+OldCase: Traffic,OldCase: Tampering,2,0.009,216.0,189.5,216.0,242.5,258.4
+OldCase: Traffic,OldCase: Violent,2,0.009,698.5,636.2,698.5,760.8,798.1
+OldCase: Traffic,Tampering,2,0.009,114.5,100.8,114.5,128.2,136.5
+OldCase: Traffic,Weapon,2,0.009,71.0,40.5,71.0,101.5,119.8
+OldCase: Traffic,OldCase: Fraud,1,0.004,46.0,46.0,46.0,46.0,46.0
+OldCase: Traffic,OldCase: Weapon,1,0.004,497.0,497.0,497.0,497.0,497.0
+OldCase: Violent,OldCase: Violent,213,0.549,145.2,49.0,106.0,193.0,327.2
+OldCase: Violent,Violent,44,0.113,212.0,60.2,137.5,291.0,554.6
+OldCase: Violent,Drug,30,0.077,228.3,88.0,173.5,288.8,415.6
+OldCase: Violent,Property,30,0.077,146.6,40.5,74.5,176.5,316.1
+OldCase: Violent,Unknown,13,0.034,421.7,324.0,392.0,418.0,559.8
+OldCase: Violent,OldCase: Property,11,0.028,145.2,36.0,102.0,235.0,254.0
+OldCase: Violent,Traffic,11,0.028,186.1,33.0,94.0,227.5,459.0
+OldCase: Violent,OldCase: Drug,7,0.018,116.1,10.5,153.0,184.5,231.6
+OldCase: Violent,OldCase: ResistPolice,6,0.015,104.0,51.2,99.5,148.5,168.0
+OldCase: Violent,ResistPolice,6,0.015,224.0,61.0,99.5,287.2,541.0
+OldCase: Violent,OldCase: Traffic,4,0.01,249.2,154.8,258.5,353.0,367.4
+OldCase: Violent,PublicOrder,4,0.01,144.5,111.2,158.0,191.2,198.9
+OldCase: Violent,Fraud,3,0.008,111.0,75.5,109.0,145.5,167.4
+OldCase: Violent,Tampering,3,0.008,82.3,10.0,16.0,121.5,184.8
+OldCase: Violent,OldCase: Fraud,1,0.003,340.0,340.0,340.0,340.0,340.0
+OldCase: Violent,Sex,1,0.003,74.0,74.0,74.0,74.0,74.0
+OldCase: Violent,Weapon,1,0.003,43.0,43.0,43.0,43.0,43.0
+OldCase: Weapon,OldCase: Weapon,28,0.549,189.5,47.0,134.5,297.2,447.2
+OldCase: Weapon,Traffic,5,0.098,244.0,130.0,287.0,310.0,352.0
+OldCase: Weapon,Violent,5,0.098,226.8,216.0,229.0,262.0,295.6
+OldCase: Weapon,OldCase: Drug,4,0.078,63.8,23.8,54.0,94.0,115.6
+OldCase: Weapon,Drug,3,0.059,262.7,96.5,102.0,348.5,496.4
+OldCase: Weapon,Unknown,2,0.039,300.0,178.0,300.0,422.0,495.2
+OldCase: Weapon,OldCase: Property,1,0.02,7.0,7.0,7.0,7.0,7.0
+OldCase: Weapon,Property,1,0.02,346.0,346.0,346.0,346.0,346.0
+OldCase: Weapon,PublicOrder,1,0.02,50.0,50.0,50.0,50.0,50.0
+OldCase: Weapon,Weapon,1,0.02,292.0,292.0,292.0,292.0,292.0
+Property,OldCase: Property,927,0.407,211.9,63.0,146.0,314.5,492.2
+Property,Property,588,0.258,141.8,26.0,80.0,200.8,368.2
+Property,Drug,177,0.078,169.0,32.0,99.0,264.0,409.0
+Property,Violent,142,0.062,166.6,36.2,106.0,225.2,416.0
+Property,Traffic,86,0.038,179.4,45.5,116.5,270.5,411.0
+Property,PublicOrder,49,0.022,145.7,23.0,96.0,236.0,307.2
+Property,Fraud,46,0.02,194.8,61.2,127.5,277.5,490.5
+Property,OldCase: Drug,46,0.02,135.7,29.5,67.0,167.5,339.0
+Property,Unknown,44,0.019,440.2,214.0,431.0,580.5,864.5
+Property,ResistPolice,35,0.015,188.3,28.0,93.0,238.0,578.2
+Property,OldCase: Violent,31,0.014,125.6,29.0,86.0,177.0,341.0
+Property,OldCase: Fraud,28,0.012,290.0,114.8,250.0,428.2,571.7
+Property,OldCase: Traffic,13,0.006,215.1,100.0,142.0,257.0,504.8
+Property,Tampering,13,0.006,174.2,80.0,177.0,246.0,345.2
+Property,OldCase: ResistPolice,11,0.005,216.7,86.0,226.0,316.5,368.0
+Property,Sex,10,0.004,98.8,32.0,69.5,144.0,231.1
+Property,Weapon,10,0.004,143.4,74.0,129.0,187.5,227.8
+Property,OldCase: Weapon,6,0.003,190.3,28.0,62.0,326.2,494.5
+Property,Justice,4,0.002,194.0,138.2,159.5,215.2,300.3
+Property,OldCase: Tampering,4,0.002,116.8,73.8,115.5,158.5,173.8
+Property,Conspiracy,3,0.001,371.0,282.0,367.0,458.0,512.6
+Property,OldCase: PublicOrder,2,0.001,119.5,79.8,119.5,159.2,183.1
+PublicOrder,Property,76,0.367,130.8,18.8,56.0,157.8,381.0
+PublicOrder,Violent,28,0.135,122.8,24.5,76.0,194.0,279.4
+PublicOrder,Drug,21,0.101,115.0,20.0,81.0,160.0,244.0
+PublicOrder,PublicOrder,17,0.082,81.6,26.0,56.0,83.0,201.0
+PublicOrder,OldCase: PublicOrder,13,0.063,73.0,24.0,45.0,130.0,155.0
+PublicOrder,Traffic,13,0.063,163.2,49.0,145.0,230.0,284.2
+PublicOrder,ResistPolice,8,0.039,165.8,20.2,75.0,212.5,402.1
+PublicOrder,OldCase: Drug,7,0.034,103.1,24.5,49.0,193.0,221.8
+PublicOrder,OldCase: Property,7,0.034,148.7,37.0,141.0,219.5,328.6
+PublicOrder,Sex,5,0.024,230.2,31.0,153.0,200.0,524.0
+PublicOrder,Fraud,3,0.014,179.0,119.5,137.0,217.5,265.8
+PublicOrder,OldCase: Traffic,3,0.014,97.0,72.0,127.0,137.0,143.0
+PublicOrder,OldCase: Violent,2,0.01,64.0,40.5,64.0,87.5,101.6
+PublicOrder,OldCase: ResistPolice,1,0.005,49.0,49.0,49.0,49.0,49.0
+PublicOrder,OldCase: Sex,1,0.005,138.0,138.0,138.0,138.0,138.0
+PublicOrder,Unknown,1,0.005,421.0,421.0,421.0,421.0,421.0
+PublicOrder,Weapon,1,0.005,225.0,225.0,225.0,225.0,225.0
+ResistPolice,Property,51,0.171,164.5,32.5,109.0,210.0,408.0
+ResistPolice,Violent,48,0.161,204.8,47.0,139.5,286.0,567.7
+ResistPolice,Drug,44,0.148,148.1,28.8,108.5,211.0,360.1
+ResistPolice,OldCase: ResistPolice,41,0.138,161.7,66.0,100.0,232.0,364.0
+ResistPolice,Traffic,22,0.074,188.9,71.8,126.0,328.0,426.0
+ResistPolice,ResistPolice,20,0.067,139.7,53.2,87.0,167.8,243.7
+ResistPolice,Fraud,10,0.034,215.5,19.2,94.0,409.2,555.8
+ResistPolice,PublicOrder,10,0.034,66.5,9.2,29.5,77.5,186.3
+ResistPolice,OldCase: Drug,9,0.03,140.8,31.0,58.0,255.0,289.8
+ResistPolice,Unknown,9,0.03,549.3,393.0,509.0,679.0,818.6
+ResistPolice,OldCase: Property,7,0.023,154.6,86.0,108.0,220.0,255.2
+ResistPolice,Tampering,7,0.023,184.6,74.0,132.0,289.5,346.4
+ResistPolice,OldCase: Traffic,5,0.017,100.8,17.0,19.0,224.0,229.4
+ResistPolice,OldCase: Violent,5,0.017,314.6,166.0,397.0,423.0,489.0
+ResistPolice,OldCase: Weapon,2,0.007,143.0,140.5,143.0,145.5,147.0
+ResistPolice,Sex,2,0.007,168.5,103.8,168.5,233.2,272.1
+ResistPolice,Weapon,2,0.007,38.5,27.8,38.5,49.2,55.7
+ResistPolice,Justice,1,0.003,11.0,11.0,11.0,11.0,11.0
+ResistPolice,OldCase: Fraud,1,0.003,189.0,189.0,189.0,189.0,189.0
+ResistPolice,OldCase: Minors,1,0.003,37.0,37.0,37.0,37.0,37.0
+ResistPolice,OldCase: Tampering,1,0.003,61.0,61.0,61.0,61.0,61.0
+Sex,OldCase: Sex,54,0.482,252.5,48.0,165.5,399.0,638.1
+Sex,Drug,18,0.161,144.8,50.0,74.5,241.8,361.5
+Sex,Sex,12,0.107,219.7,46.8,80.0,367.2,546.2
+Sex,Property,9,0.08,139.3,36.0,45.0,128.0,418.6
+Sex,OldCase: Drug,6,0.054,96.5,45.0,53.0,81.2,194.5
+Sex,Violent,4,0.036,328.5,248.8,329.0,408.8,415.5
+Sex,Fraud,2,0.018,161.0,95.0,161.0,227.0,266.6
+Sex,PublicOrder,2,0.018,56.5,39.2,56.5,73.8,84.1
+Sex,Unknown,2,0.018,57.5,28.8,57.5,86.2,103.5
+Sex,ResistPolice,1,0.009,139.0,139.0,139.0,139.0,139.0
+Sex,Tampering,1,0.009,32.0,32.0,32.0,32.0,32.0
+Sex,Traffic,1,0.009,315.0,315.0,315.0,315.0,315.0
+Tampering,OldCase: Tampering,30,0.248,172.2,87.5,147.5,225.8,342.4
+Tampering,Drug,20,0.165,149.5,45.2,89.0,224.5,291.9
+Tampering,Property,13,0.107,200.8,96.0,119.0,248.0,496.0
+Tampering,Violent,11,0.091,215.7,66.5,166.0,354.5,434.0
+Tampering,OldCase: Drug,10,0.083,95.3,8.5,31.5,178.8,247.8
+Tampering,Traffic,7,0.058,345.1,113.5,223.0,576.0,664.0
+Tampering,OldCase: Violent,6,0.05,170.2,63.2,92.5,266.5,388.0
+Tampering,OldCase: Property,4,0.033,103.2,11.8,74.0,165.5,222.2
+Tampering,ResistPolice,4,0.033,140.2,60.2,91.5,171.5,289.4
+Tampering,Fraud,3,0.025,173.3,117.5,194.0,239.5,266.8
+Tampering,OldCase: Traffic,3,0.025,90.0,33.0,63.0,133.5,175.8
+Tampering,Unknown,3,0.025,624.3,571.0,582.0,656.5,701.2
+Tampering,OldCase: ResistPolice,2,0.017,86.5,44.2,86.5,128.8,154.1
+Tampering,Tampering,2,0.017,194.0,183.5,194.0,204.5,210.8
+Tampering,OldCase: Sex,1,0.008,116.0,116.0,116.0,116.0,116.0
+Tampering,OldCase: Weapon,1,0.008,100.0,100.0,100.0,100.0,100.0
+Tampering,Weapon,1,0.008,7.0,7.0,7.0,7.0,7.0
+Traffic,OldCase: Traffic,315,0.276,205.5,69.0,144.0,289.5,471.0
+Traffic,Traffic,262,0.23,211.2,61.0,145.5,310.8,535.5
+Traffic,Violent,133,0.117,199.1,60.0,154.0,281.0,461.2
+Traffic,Drug,129,0.113,198.3,58.0,145.0,307.0,451.6
+Traffic,Property,100,0.088,193.0,45.5,108.0,264.8,485.3
+Traffic,OldCase: Drug,42,0.037,147.5,54.2,138.5,213.2,285.5
+Traffic,Unknown,31,0.027,571.8,465.0,530.0,732.0,848.0
+Traffic,ResistPolice,27,0.024,143.4,18.5,53.0,146.5,409.2
+Traffic,OldCase: Property,22,0.019,180.9,39.0,137.0,316.2,384.9
+Traffic,Fraud,18,0.016,306.9,78.2,301.0,409.2,586.8
+Traffic,Weapon,13,0.011,160.8,41.0,84.0,190.0,286.2
+Traffic,OldCase: Violent,11,0.01,82.3,27.5,82.0,113.5,186.0
+Traffic,Tampering,10,0.009,235.0,88.5,167.0,422.8,479.8
+Traffic,PublicOrder,9,0.008,269.6,87.0,94.0,369.0,572.6
+Traffic,OldCase: Fraud,8,0.007,80.0,44.2,62.0,106.8,158.5
+Traffic,OldCase: ResistPolice,3,0.003,231.3,100.0,130.0,312.0,421.2
+Traffic,OldCase: Weapon,3,0.003,118.7,58.5,96.0,167.5,210.4
+Traffic,Conspiracy,2,0.002,175.5,167.2,175.5,183.8,188.7
+Traffic,Justice,2,0.002,629.0,506.5,629.0,751.5,825.0
+Traffic,OldCase: Tampering,1,0.001,92.0,92.0,92.0,92.0,92.0
+Unknown,Unknown,130,0.421,204.5,55.0,146.5,286.2,468.9
+Unknown,Drug,40,0.129,245.0,100.5,218.5,347.5,533.0
+Unknown,Violent,37,0.12,192.4,77.0,152.0,218.0,473.2
+Unknown,Property,34,0.11,206.9,44.5,215.5,319.5,413.6
+Unknown,Traffic,26,0.084,228.1,54.8,130.0,337.0,612.0
+Unknown,OldCase: Property,11,0.036,95.4,20.0,47.0,128.5,236.0
+Unknown,PublicOrder,6,0.019,277.7,74.0,233.5,372.8,566.0
+Unknown,OldCase: Drug,4,0.013,85.8,3.8,65.5,147.5,184.4
+Unknown,OldCase: Violent,4,0.013,59.0,36.8,59.5,81.8,102.9
+Unknown,Fraud,3,0.01,291.3,171.0,259.0,395.5,477.4
+Unknown,ResistPolice,3,0.01,209.0,195.5,236.0,236.0,236.0
+Unknown,Sex,3,0.01,193.3,97.0,186.0,286.0,346.0
+Unknown,Tampering,3,0.01,124.7,89.0,100.0,148.0,176.8
+Unknown,Weapon,2,0.006,137.0,115.5,137.0,158.5,171.4
+Unknown,OldCase: ResistPolice,1,0.003,313.0,313.0,313.0,313.0,313.0
+Unknown,OldCase: Traffic,1,0.003,250.0,250.0,250.0,250.0,250.0
+Unknown,OldCase: Weapon,1,0.003,258.0,258.0,258.0,258.0,258.0
+Violent,OldCase: Violent,537,0.302,209.4,57.0,140.0,306.0,505.2
+Violent,Violent,459,0.258,206.7,52.0,134.0,298.0,509.0
+Violent,Drug,174,0.098,230.7,71.2,171.5,338.8,510.1
+Violent,Property,158,0.089,216.9,63.2,146.5,300.5,502.2
+Violent,Traffic,134,0.075,297.5,113.0,232.0,415.8,602.5
+Violent,Unknown,56,0.032,589.8,427.8,604.0,732.8,976.0
+Violent,ResistPolice,49,0.028,232.4,44.0,121.0,382.0,643.0
+Violent,OldCase: Property,33,0.019,155.1,39.0,80.0,204.0,400.8
+Violent,OldCase: Drug,29,0.016,182.4,53.0,104.0,277.0,465.2
+Violent,Fraud,28,0.016,174.3,37.5,93.5,194.0,419.4
+Violent,OldCase: ResistPolice,23,0.013,174.3,58.5,149.0,225.5,380.2
+Violent,PublicOrder,23,0.013,218.5,42.0,152.0,285.5,505.2
+Violent,Weapon,22,0.012,225.5,88.5,194.5,326.0,513.9
+Violent,OldCase: Traffic,15,0.008,170.5,57.5,111.0,224.0,383.8
+Violent,OldCase: Weapon,8,0.005,294.1,68.5,138.5,428.5,656.2
+Violent,Tampering,8,0.005,168.2,50.8,105.0,195.8,343.8
+Violent,Sex,7,0.004,307.9,147.5,271.0,458.0,605.4
+Violent,OldCase: Tampering,4,0.002,122.5,61.5,82.0,143.0,249.2
+Violent,OldCase: Fraud,3,0.002,163.0,105.0,172.0,225.5,257.6
+Violent,Justice,2,0.001,100.0,62.0,100.0,138.0,160.8
+Violent,OldCase: Justice,2,0.001,209.5,160.8,209.5,258.2,287.5
+Violent,OldCase: PublicOrder,2,0.001,41.5,32.2,41.5,50.8,56.3
+Violent,Conspiracy,1,0.001,53.0,53.0,53.0,53.0,53.0
+Weapon,OldCase: Weapon,45,0.331,240.7,46.0,112.0,317.0,696.4
+Weapon,Drug,22,0.162,183.6,59.8,104.5,288.8,382.8
+Weapon,Property,14,0.103,186.4,37.0,154.5,286.8,448.4
+Weapon,Violent,12,0.088,217.2,47.2,104.0,300.8,349.2
+Weapon,Traffic,8,0.059,299.2,91.0,191.0,305.0,718.7
+Weapon,Unknown,6,0.044,609.3,524.8,588.0,712.0,767.0
+Weapon,Fraud,5,0.037,208.8,21.0,118.0,388.0,454.6
+Weapon,Weapon,5,0.037,164.4,65.0,72.0,319.0,331.6
+Weapon,OldCase: Property,4,0.029,58.2,27.5,38.0,68.8,109.7
+Weapon,ResistPolice,3,0.022,250.7,192.5,249.0,308.0,343.4
+Weapon,OldCase: Drug,2,0.015,31.0,25.5,31.0,36.5,39.8
+Weapon,OldCase: ResistPolice,2,0.015,26.5,17.8,26.5,35.2,40.5
+Weapon,Tampering,2,0.015,75.5,70.8,75.5,80.2,83.1
+Weapon,Minors,1,0.007,166.0,166.0,166.0,166.0,166.0
+Weapon,OldCase: Fraud,1,0.007,70.0,70.0,70.0,70.0,70.0
+Weapon,OldCase: Traffic,1,0.007,352.0,352.0,352.0,352.0,352.0
+Weapon,OldCase: Violent,1,0.007,234.0,234.0,234.0,234.0,234.0
+Weapon,PublicOrder,1,0.007,838.0,838.0,838.0,838.0,838.0
+Weapon,Sex,1,0.007,0.0,0.0,0.0,0.0,0.0
