@@ -1,0 +1,16 @@
+,HR,p
+Fraud,0.9417,0.3887
+OldCase: Drug,0.8687,0.0452
+OldCase: Other,0.8163,0.0194
+OldCase: Property,0.8368,0.0129
+OldCase: Traffic,0.6882,0.0001
+OldCase: Violent,0.7986,0.006
+Property,1.0774,0.0268
+PublicOrder,1.2735,0.0036
+ResistPolice,0.9023,0.1418
+Sex,0.9685,0.7631
+Tampering,0.7597,0.011
+Traffic,0.8818,0.0029
+Unknown,0.8149,0.0051
+Violent,0.6418,0.0
+Weapon,0.8788,0.1839

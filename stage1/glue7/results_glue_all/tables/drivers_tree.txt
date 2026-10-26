@@ -1,0 +1,22 @@
+|--- src_Sex <= 0.50
+|   |--- src_Unknown <= 0.50
+|   |   |--- prev_combo_Justice <= 0.50
+|   |   |   |--- src_Violent <= 0.50
+|   |   |   |   |--- class: Unknown
+|   |   |   |--- src_Violent >  0.50
+|   |   |   |   |--- class: Violent
+|   |   |--- prev_combo_Justice >  0.50
+|   |   |   |--- class: Justice
+|   |--- src_Unknown >  0.50
+|   |   |--- race_African-American <= 0.50
+|   |   |   |--- class: Unknown
+|   |   |--- race_African-American >  0.50
+|   |   |   |--- event_idx_bin_1 <= 0.50
+|   |   |   |   |--- class: Unknown
+|   |   |   |--- event_idx_bin_1 >  0.50
+|   |   |   |   |--- class: Unknown
+|--- src_Sex >  0.50
+|   |--- n_types_bin_1 <= 0.50
+|   |   |--- class: Sex
+|   |--- n_types_bin_1 >  0.50
+|   |   |--- class: Sex

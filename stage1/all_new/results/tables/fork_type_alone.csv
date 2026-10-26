@@ -1,0 +1,16 @@
+types,episodes_with_type,alone,share_alone
+Property,6946,3068,0.442
+Violent,6598,4179,0.633
+Drug,6542,2523,0.386
+Traffic,5473,2080,0.38
+ResistPolice,2450,143,0.058
+Fraud,1741,230,0.132
+PublicOrder,1074,264,0.246
+Unknown,653,653,1.0
+Weapon,599,88,0.147
+Tampering,555,8,0.014
+Sex,413,223,0.54
+Justice,176,176,1.0
+Conspiracy,76,8,0.105
+Minors,62,4,0.065
+Other,6,0,0.0

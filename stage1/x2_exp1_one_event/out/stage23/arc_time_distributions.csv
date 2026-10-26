@@ -1,0 +1,65 @@
+from,to,n,median_days,weibull_lambda,weibull_rho,best_median,best
+Property,OldCase: Property,927,146.0,215.8,1.048,152.1,weibull
+Drug,OldCase: Drug,871,136.0,203.9,1.089,145.7,weibull
+Property,Property,588,80.0,127.4,0.821,81.5,weibull
+Violent,OldCase: Violent,537,140.0,207.1,0.974,142.1,weibull
+Violent,Violent,459,134.0,198.3,0.914,132.8,weibull
+OldCase: Drug,OldCase: Drug,458,106.5,153.3,1.072,108.9,weibull
+Drug,Drug,454,102.0,156.8,0.915,105.1,weibull
+OldCase: Property,OldCase: Property,446,92.0,144.7,1.023,101.1,weibull
+Traffic,OldCase: Traffic,315,144.0,215.0,1.131,155.4,weibull
+Traffic,Traffic,262,145.5,208.4,0.968,142.7,weibull
+OldCase: Violent,OldCase: Violent,213,106.0,145.1,0.998,100.5,weibull
+Drug,Property,198,88.0,140.7,0.887,93.0,weibull
+Property,Drug,177,99.0,159.8,0.892,105.9,weibull
+Violent,Drug,174,171.5,239.9,1.115,172.6,weibull
+Violent,Property,158,146.5,217.4,1.005,150.9,weibull
+Property,Violent,142,106.0,158.6,0.9,105.6,weibull
+Violent,Traffic,134,232.0,314.7,1.182,230.8,weibull
+Traffic,Violent,133,154.0,204.3,1.072,145.1,weibull
+Drug,Violent,131,135.0,217.9,0.967,149.1,weibull
+Unknown,Unknown,130,146.5,205.8,1.015,143.4,weibull
+Traffic,Drug,129,145.0,202.4,1.052,142.9,weibull
+Drug,Traffic,123,106.0,175.0,0.952,119.1,weibull
+OldCase: Property,Property,107,129.0,166.0,1.061,117.5,weibull
+Traffic,Property,100,108.0,179.8,0.866,117.8,weibull
+OldCase: Traffic,OldCase: Traffic,100,112.0,154.6,1.175,113.1,weibull
+OldCase: Drug,Drug,93,95.0,168.9,0.892,112.0,weibull
+Fraud,OldCase: Fraud,89,203.0,242.3,1.203,178.7,weibull
+Property,Traffic,86,116.5,172.5,0.917,115.7,weibull
+PublicOrder,Property,76,56.0,108.1,0.75,52.5,lognormal
+Violent,Unknown,56,604.0,629.3,1.585,499.3,weibull
+Sex,OldCase: Sex,54,165.5,238.8,0.885,157.8,weibull
+OldCase: Drug,Property,53,85.0,135.4,0.952,92.2,weibull
+ResistPolice,Property,51,109.0,153.1,0.867,100.3,weibull
+Violent,ResistPolice,49,121.0,208.4,0.807,132.3,weibull
+Property,PublicOrder,49,96.0,136.1,0.874,89.5,weibull
+ResistPolice,Violent,48,139.5,194.9,0.902,129.8,weibull
+OldCase: Property,Drug,48,132.0,189.1,1.146,137.4,weibull
+Property,OldCase: Drug,46,67.0,123.0,0.835,79.3,weibull
+Property,Fraud,46,127.5,187.1,0.916,125.4,weibull
+Weapon,OldCase: Weapon,45,112.0,222.9,0.859,145.5,weibull
+Fraud,OldCase: Property,45,147.0,245.6,1.065,174.1,weibull
+Property,Unknown,44,431.0,427.6,0.902,284.8,weibull
+ResistPolice,Drug,44,108.5,146.8,0.98,101.0,weibull
+OldCase: Violent,Violent,44,137.5,204.7,0.923,137.6,weibull
+Drug,Unknown,42,578.0,620.4,1.464,483.0,weibull
+Traffic,OldCase: Drug,42,138.5,157.8,1.245,117.6,weibull
+ResistPolice,OldCase: ResistPolice,41,100.0,162.2,1.007,112.7,weibull
+Drug,OldCase: Property,41,82.0,120.3,1.097,86.1,weibull
+Unknown,Drug,40,218.5,265.1,1.354,202.2,weibull
+OldCase: Drug,Traffic,39,137.0,183.0,1.081,130.4,weibull
+OldCase: Fraud,OldCase: Fraud,39,146.0,184.5,1.009,128.3,weibull
+Unknown,Violent,37,152.0,201.5,1.143,146.2,weibull
+Drug,ResistPolice,37,130.0,192.9,0.906,128.7,weibull
+OldCase: Drug,Violent,36,106.0,187.4,0.943,127.1,weibull
+Property,ResistPolice,35,93.0,166.1,0.811,85.2,lognormal
+Unknown,Property,34,215.5,191.8,0.827,123.2,weibull
+OldCase: Traffic,Traffic,33,154.0,187.4,1.157,136.6,weibull
+Violent,OldCase: Property,33,80.0,146.6,0.888,97.0,weibull
+Fraud,Property,32,137.0,176.6,0.81,112.4,weibull
+Property,OldCase: Violent,31,86.0,120.1,0.906,80.1,weibull
+Traffic,Unknown,31,530.0,618.4,2.179,522.6,weibull
+OldCase: Violent,Drug,30,173.5,244.2,1.206,156.5,lognormal
+OldCase: Violent,Property,30,74.5,145.4,0.984,86.8,lognormal
+Tampering,OldCase: Tampering,30,147.5,187.0,1.329,141.9,weibull

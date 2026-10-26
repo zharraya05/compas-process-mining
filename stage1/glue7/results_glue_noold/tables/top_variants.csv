@@ -1,0 +1,31 @@
+combo,cases,share
+Violent,2128,0.2011
+Property,750,0.0709
+Traffic,714,0.0675
+Drug,598,0.0565
+Drug+Traffic,382,0.0361
+Fraud+Property,220,0.0208
+Violent > Violent,181,0.0171
+Property+Violent,140,0.0132
+ResistPolice+Violent,108,0.0102
+Property > Property,95,0.009
+Fraud,94,0.0089
+Sex,92,0.0087
+Drug+Property,83,0.0078
+Unknown,80,0.0076
+Traffic > Traffic,80,0.0076
+Drug > Drug,79,0.0075
+Property+ResistPolice,72,0.0068
+Tampering+Violent,60,0.0057
+Property+Traffic,56,0.0053
+Traffic+Violent,49,0.0046
+Violent > Traffic,45,0.0043
+Drug+Violent,45,0.0043
+Violent > Property,41,0.0039
+Traffic > Violent,35,0.0033
+Drug > Violent,35,0.0033
+Drug+Traffic > Drug,32,0.003
+Unknown > Unknown,32,0.003
+Violent > Drug,30,0.0028
+Violent > Unknown,29,0.0027
+Property+ResistPolice+Violent,29,0.0027

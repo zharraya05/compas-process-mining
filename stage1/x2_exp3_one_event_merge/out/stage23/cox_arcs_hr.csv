@@ -1,0 +1,340 @@
+from,to,arc,n_from,events,feature,HR,lo,hi,p,signif
+Violent,OldCase: Violent,Violent → OldCase: Violent,4526,542,age10,0.97,0.906,1.038,0.3731,False
+Violent,OldCase: Violent,Violent → OldCase: Violent,4526,542,male,1.278,1.066,1.532,0.0081,True
+Violent,OldCase: Violent,Violent → OldCase: Violent,4526,542,race_afam,1.177,1.008,1.375,0.0387,True
+Violent,OldCase: Violent,Violent → OldCase: Violent,4526,542,race_other,0.99,0.8,1.224,0.9238,False
+Violent,OldCase: Violent,Violent → OldCase: Violent,4526,542,score,1.1,1.07,1.13,0.0,True
+Violent,OldCase: Violent,Violent → OldCase: Violent,4526,542,felony,1.814,1.553,2.12,0.0,True
+Violent,OldCase: Violent,Violent → OldCase: Violent,4526,542,n_charges,1.072,1.029,1.116,0.0008,True
+Violent,OldCase: Violent,Violent → OldCase: Violent,4526,542,log_dur,1.068,1.021,1.118,0.0045,True
+Violent,OldCase: Violent,Violent → OldCase: Violent,4526,542,prior_eps,1.205,1.12,1.296,0.0,True
+Violent,OldCase: Violent,Violent → OldCase: Violent,4526,542,old_case,0.707,0.472,1.057,0.0911,False
+Violent,Violent,Violent → Violent,4526,457,age10,1.03,0.961,1.104,0.4086,False
+Violent,Violent,Violent → Violent,4526,457,male,1.193,0.992,1.434,0.061,False
+Violent,Violent,Violent → Violent,4526,457,race_afam,0.953,0.812,1.118,0.5548,False
+Violent,Violent,Violent → Violent,4526,457,race_other,0.884,0.712,1.099,0.2669,False
+Violent,Violent,Violent → Violent,4526,457,score,1.12,1.088,1.153,0.0,True
+Violent,Violent,Violent → Violent,4526,457,felony,0.755,0.641,0.888,0.0007,True
+Violent,Violent,Violent → Violent,4526,457,n_charges,0.999,0.947,1.054,0.9737,False
+Violent,Violent,Violent → Violent,4526,457,log_dur,1.018,0.967,1.072,0.4954,False
+Violent,Violent,Violent → Violent,4526,457,prior_eps,1.123,1.033,1.221,0.0063,True
+Violent,Violent,Violent → Violent,4526,457,old_case,1.143,0.714,1.829,0.5771,False
+Violent,Property,Violent → Property,4526,167,age10,0.91,0.831,0.997,0.0427,True
+Violent,Property,Violent → Property,4526,167,male,1.051,0.829,1.332,0.6838,False
+Violent,Property,Violent → Property,4526,167,race_afam,1.181,0.963,1.447,0.1098,False
+Violent,Property,Violent → Property,4526,167,race_other,0.822,0.619,1.092,0.1758,False
+Violent,Property,Violent → Property,4526,167,score,1.105,1.066,1.145,0.0,True
+Violent,Property,Violent → Property,4526,167,felony,0.971,0.791,1.191,0.7744,False
+Violent,Property,Violent → Property,4526,167,n_charges,0.987,0.925,1.054,0.6968,False
+Violent,Property,Violent → Property,4526,167,log_dur,1.073,1.006,1.143,0.0309,True
+Violent,Property,Violent → Property,4526,167,prior_eps,1.148,1.032,1.276,0.0111,True
+Violent,Property,Violent → Property,4526,167,old_case,0.698,0.364,1.335,0.2769,False
+Violent,Drug,Violent → Drug,4526,167,age10,0.92,0.84,1.007,0.0718,False
+Violent,Drug,Violent → Drug,4526,167,male,1.512,1.182,1.935,0.001,True
+Violent,Drug,Violent → Drug,4526,167,race_afam,1.219,0.994,1.495,0.0566,False
+Violent,Drug,Violent → Drug,4526,167,race_other,0.838,0.632,1.112,0.2211,False
+Violent,Drug,Violent → Drug,4526,167,score,1.122,1.083,1.163,0.0,True
+Violent,Drug,Violent → Drug,4526,167,felony,1.058,0.863,1.298,0.5861,False
+Violent,Drug,Violent → Drug,4526,167,n_charges,0.999,0.937,1.066,0.984,False
+Violent,Drug,Violent → Drug,4526,167,log_dur,1.032,0.968,1.1,0.3424,False
+Violent,Drug,Violent → Drug,4526,167,prior_eps,1.008,0.901,1.129,0.8857,False
+Violent,Drug,Violent → Drug,4526,167,old_case,1.015,0.543,1.896,0.9628,False
+Violent,Traffic,Violent → Traffic,4526,136,age10,0.928,0.846,1.019,0.1161,False
+Violent,Traffic,Violent → Traffic,4526,136,male,1.135,0.887,1.453,0.3144,False
+Violent,Traffic,Violent → Traffic,4526,136,race_afam,1.135,0.919,1.401,0.2389,False
+Violent,Traffic,Violent → Traffic,4526,136,race_other,0.963,0.726,1.278,0.7949,False
+Violent,Traffic,Violent → Traffic,4526,136,score,1.072,1.032,1.113,0.0003,True
+Violent,Traffic,Violent → Traffic,4526,136,felony,1.018,0.823,1.258,0.8722,False
+Violent,Traffic,Violent → Traffic,4526,136,n_charges,1.057,0.989,1.129,0.1025,False
+Violent,Traffic,Violent → Traffic,4526,136,log_dur,0.981,0.917,1.05,0.579,False
+Violent,Traffic,Violent → Traffic,4526,136,prior_eps,1.033,0.916,1.165,0.5944,False
+Violent,Traffic,Violent → Traffic,4526,136,old_case,1.079,0.555,2.098,0.8218,False
+Violent,Unknown,Violent → Unknown,4526,59,age10,0.952,0.86,1.055,0.3513,False
+Violent,Unknown,Violent → Unknown,4526,59,male,1.164,0.881,1.538,0.2851,False
+Violent,Unknown,Violent → Unknown,4526,59,race_afam,1.19,0.942,1.503,0.1445,False
+Violent,Unknown,Violent → Unknown,4526,59,race_other,0.948,0.692,1.299,0.7395,False
+Violent,Unknown,Violent → Unknown,4526,59,score,1.062,1.018,1.107,0.0047,True
+Violent,Unknown,Violent → Unknown,4526,59,felony,1.119,0.884,1.416,0.3492,False
+Violent,Unknown,Violent → Unknown,4526,59,n_charges,1.082,1.006,1.165,0.034,True
+Violent,Unknown,Violent → Unknown,4526,59,log_dur,1.122,1.041,1.209,0.0024,True
+Violent,Unknown,Violent → Unknown,4526,59,prior_eps,1.045,0.914,1.195,0.5181,False
+Violent,Unknown,Violent → Unknown,4526,59,old_case,1.117,0.527,2.369,0.7728,False
+Property,OldCase: Property,Property → OldCase: Property,3559,906,age10,0.938,0.888,0.992,0.0255,True
+Property,OldCase: Property,Property → OldCase: Property,3559,906,male,1.311,1.118,1.538,0.0009,True
+Property,OldCase: Property,Property → OldCase: Property,3559,906,race_afam,1.047,0.918,1.194,0.4924,False
+Property,OldCase: Property,Property → OldCase: Property,3559,906,race_other,0.706,0.568,0.876,0.0016,True
+Property,OldCase: Property,Property → OldCase: Property,3559,906,score,1.092,1.067,1.118,0.0,True
+Property,OldCase: Property,Property → OldCase: Property,3559,906,felony,1.291,1.077,1.548,0.0057,True
+Property,OldCase: Property,Property → OldCase: Property,3559,906,n_charges,1.011,0.98,1.043,0.4894,False
+Property,OldCase: Property,Property → OldCase: Property,3559,906,log_dur,1.064,1.025,1.105,0.0012,True
+Property,OldCase: Property,Property → OldCase: Property,3559,906,prior_eps,1.066,1.009,1.125,0.0223,True
+Property,OldCase: Property,Property → OldCase: Property,3559,906,old_case,0.732,0.536,0.999,0.0491,True
+Property,Property,Property → Property,3559,590,age10,1.125,1.059,1.195,0.0001,True
+Property,Property,Property → Property,3559,590,male,1.315,1.088,1.589,0.0046,True
+Property,Property,Property → Property,3559,590,race_afam,0.904,0.776,1.052,0.1918,False
+Property,Property,Property → Property,3559,590,race_other,0.748,0.582,0.961,0.0232,True
+Property,Property,Property → Property,3559,590,score,1.159,1.127,1.191,0.0,True
+Property,Property,Property → Property,3559,590,felony,0.589,0.496,0.699,0.0,True
+Property,Property,Property → Property,3559,590,n_charges,0.956,0.918,0.997,0.034,True
+Property,Property,Property → Property,3559,590,log_dur,0.992,0.947,1.038,0.7205,False
+Property,Property,Property → Property,3559,590,prior_eps,1.129,1.07,1.192,0.0,True
+Property,Property,Property → Property,3559,590,old_case,1.001,0.699,1.432,0.9973,False
+Property,Drug,Property → Drug,3559,175,age10,0.967,0.883,1.06,0.4741,False
+Property,Drug,Property → Drug,3559,175,male,1.342,1.023,1.761,0.0339,True
+Property,Drug,Property → Drug,3559,175,race_afam,0.956,0.769,1.188,0.6848,False
+Property,Drug,Property → Drug,3559,175,race_other,1.02,0.732,1.42,0.9076,False
+Property,Drug,Property → Drug,3559,175,score,1.099,1.058,1.142,0.0,True
+Property,Drug,Property → Drug,3559,175,felony,0.513,0.4,0.658,0.0,True
+Property,Drug,Property → Drug,3559,175,n_charges,0.989,0.936,1.045,0.6956,False
+Property,Drug,Property → Drug,3559,175,log_dur,0.977,0.916,1.043,0.4866,False
+Property,Drug,Property → Drug,3559,175,prior_eps,1.079,0.994,1.171,0.0702,False
+Property,Drug,Property → Drug,3559,175,old_case,0.786,0.456,1.353,0.3841,False
+Property,Violent,Property → Violent,3559,135,age10,0.943,0.855,1.039,0.2316,False
+Property,Violent,Property → Violent,3559,135,male,1.219,0.918,1.619,0.1703,False
+Property,Violent,Property → Violent,3559,135,race_afam,1.19,0.944,1.499,0.1405,False
+Property,Violent,Property → Violent,3559,135,race_other,1.037,0.726,1.48,0.8432,False
+Property,Violent,Property → Violent,3559,135,score,1.067,1.025,1.111,0.0017,True
+Property,Violent,Property → Violent,3559,135,felony,0.578,0.442,0.755,0.0001,True
+Property,Violent,Property → Violent,3559,135,n_charges,0.993,0.937,1.053,0.8187,False
+Property,Violent,Property → Violent,3559,135,log_dur,0.976,0.911,1.045,0.485,False
+Property,Violent,Property → Violent,3559,135,prior_eps,1.047,0.958,1.144,0.3109,False
+Property,Violent,Property → Violent,3559,135,old_case,0.956,0.549,1.663,0.8726,False
+Property,Traffic,Property → Traffic,3559,87,age10,0.956,0.861,1.06,0.3935,False
+Property,Traffic,Property → Traffic,3559,87,male,1.141,0.841,1.547,0.3971,False
+Property,Traffic,Property → Traffic,3559,87,race_afam,1.014,0.792,1.297,0.9124,False
+Property,Traffic,Property → Traffic,3559,87,race_other,0.829,0.563,1.219,0.3394,False
+Property,Traffic,Property → Traffic,3559,87,score,1.048,1.004,1.095,0.033,True
+Property,Traffic,Property → Traffic,3559,87,felony,0.815,0.604,1.1,0.1811,False
+Property,Traffic,Property → Traffic,3559,87,n_charges,0.995,0.935,1.058,0.8669,False
+Property,Traffic,Property → Traffic,3559,87,log_dur,0.97,0.901,1.044,0.4128,False
+Property,Traffic,Property → Traffic,3559,87,prior_eps,1.007,0.914,1.11,0.8888,False
+Property,Traffic,Property → Traffic,3559,87,old_case,1.152,0.642,2.069,0.6346,False
+Property,OldCase: Other,Property → OldCase: Other,3559,56,age10,0.966,0.866,1.079,0.5422,False
+Property,OldCase: Other,Property → OldCase: Other,3559,56,male,1.051,0.76,1.454,0.7645,False
+Property,OldCase: Other,Property → OldCase: Other,3559,56,race_afam,1.116,0.86,1.449,0.4099,False
+Property,OldCase: Other,Property → OldCase: Other,3559,56,race_other,0.931,0.62,1.398,0.7297,False
+Property,OldCase: Other,Property → OldCase: Other,3559,56,score,1.041,0.994,1.09,0.0873,False
+Property,OldCase: Other,Property → OldCase: Other,3559,56,felony,1.041,0.753,1.438,0.8098,False
+Property,OldCase: Other,Property → OldCase: Other,3559,56,n_charges,1.059,0.995,1.127,0.0737,False
+Property,OldCase: Other,Property → OldCase: Other,3559,56,log_dur,1.004,0.93,1.084,0.9195,False
+Property,OldCase: Other,Property → OldCase: Other,3559,56,prior_eps,1.095,0.99,1.211,0.078,False
+Property,OldCase: Other,Property → OldCase: Other,3559,56,old_case,1.567,0.88,2.787,0.1268,False
+Drug,OldCase: Drug,Drug → OldCase: Drug,3312,859,age10,1.067,1.006,1.131,0.031,True
+Drug,OldCase: Drug,Drug → OldCase: Drug,3312,859,male,0.882,0.749,1.038,0.1308,False
+Drug,OldCase: Drug,Drug → OldCase: Drug,3312,859,race_afam,0.944,0.825,1.08,0.4006,False
+Drug,OldCase: Drug,Drug → OldCase: Drug,3312,859,race_other,0.877,0.702,1.097,0.2507,False
+Drug,OldCase: Drug,Drug → OldCase: Drug,3312,859,score,1.089,1.062,1.116,0.0,True
+Drug,OldCase: Drug,Drug → OldCase: Drug,3312,859,felony,1.619,1.326,1.976,0.0,True
+Drug,OldCase: Drug,Drug → OldCase: Drug,3312,859,n_charges,0.956,0.926,0.987,0.0065,True
+Drug,OldCase: Drug,Drug → OldCase: Drug,3312,859,log_dur,1.02,0.979,1.062,0.3479,False
+Drug,OldCase: Drug,Drug → OldCase: Drug,3312,859,prior_eps,1.123,1.063,1.185,0.0,True
+Drug,OldCase: Drug,Drug → OldCase: Drug,3312,859,old_case,1.215,0.897,1.645,0.2091,False
+Drug,Drug,Drug → Drug,3312,458,age10,0.952,0.88,1.029,0.2162,False
+Drug,Drug,Drug → Drug,3312,458,male,0.997,0.801,1.24,0.9762,False
+Drug,Drug,Drug → Drug,3312,458,race_afam,0.959,0.81,1.136,0.6294,False
+Drug,Drug,Drug → Drug,3312,458,race_other,0.832,0.626,1.104,0.2027,False
+Drug,Drug,Drug → Drug,3312,458,score,1.11,1.076,1.145,0.0,True
+Drug,Drug,Drug → Drug,3312,458,felony,0.838,0.68,1.031,0.0949,False
+Drug,Drug,Drug → Drug,3312,458,n_charges,0.991,0.952,1.033,0.6797,False
+Drug,Drug,Drug → Drug,3312,458,log_dur,0.978,0.927,1.031,0.4052,False
+Drug,Drug,Drug → Drug,3312,458,prior_eps,1.102,1.03,1.18,0.0048,True
+Drug,Drug,Drug → Drug,3312,458,old_case,0.664,0.423,1.043,0.0756,False
+Drug,Property,Drug → Property,3312,195,age10,0.971,0.88,1.072,0.5613,False
+Drug,Property,Drug → Property,3312,195,male,1.312,0.97,1.775,0.0777,False
+Drug,Property,Drug → Property,3312,195,race_afam,1.084,0.872,1.347,0.4666,False
+Drug,Property,Drug → Property,3312,195,race_other,0.88,0.613,1.264,0.4893,False
+Drug,Property,Drug → Property,3312,195,score,1.103,1.06,1.147,0.0,True
+Drug,Property,Drug → Property,3312,195,felony,0.602,0.464,0.781,0.0001,True
+Drug,Property,Drug → Property,3312,195,n_charges,0.961,0.911,1.013,0.1372,False
+Drug,Property,Drug → Property,3312,195,log_dur,1.059,0.991,1.131,0.0907,False
+Drug,Property,Drug → Property,3312,195,prior_eps,1.042,0.954,1.138,0.3618,False
+Drug,Property,Drug → Property,3312,195,old_case,0.864,0.507,1.47,0.5886,False
+Drug,Violent,Drug → Violent,3312,139,age10,0.933,0.838,1.039,0.208,False
+Drug,Violent,Drug → Violent,3312,139,male,0.928,0.68,1.265,0.6362,False
+Drug,Violent,Drug → Violent,3312,139,race_afam,1.178,0.933,1.488,0.1686,False
+Drug,Violent,Drug → Violent,3312,139,race_other,1.057,0.724,1.543,0.7755,False
+Drug,Violent,Drug → Violent,3312,139,score,1.091,1.046,1.138,0.0,True
+Drug,Violent,Drug → Violent,3312,139,felony,0.551,0.416,0.73,0.0,True
+Drug,Violent,Drug → Violent,3312,139,n_charges,0.993,0.938,1.051,0.8117,False
+Drug,Violent,Drug → Violent,3312,139,log_dur,0.991,0.921,1.066,0.7985,False
+Drug,Violent,Drug → Violent,3312,139,prior_eps,1.042,0.945,1.15,0.4062,False
+Drug,Violent,Drug → Violent,3312,139,old_case,0.766,0.423,1.387,0.3788,False
+Drug,Traffic,Drug → Traffic,3312,116,age10,0.967,0.866,1.079,0.5467,False
+Drug,Traffic,Drug → Traffic,3312,116,male,1.013,0.733,1.4,0.9393,False
+Drug,Traffic,Drug → Traffic,3312,116,race_afam,1.083,0.852,1.377,0.5141,False
+Drug,Traffic,Drug → Traffic,3312,116,race_other,0.887,0.596,1.32,0.5545,False
+Drug,Traffic,Drug → Traffic,3312,116,score,1.043,0.999,1.089,0.0553,False
+Drug,Traffic,Drug → Traffic,3312,116,felony,0.707,0.521,0.96,0.0261,True
+Drug,Traffic,Drug → Traffic,3312,116,n_charges,1.035,0.977,1.096,0.2442,False
+Drug,Traffic,Drug → Traffic,3312,116,log_dur,0.936,0.867,1.01,0.0879,False
+Drug,Traffic,Drug → Traffic,3312,116,prior_eps,1.039,0.938,1.15,0.4632,False
+Drug,Traffic,Drug → Traffic,3312,116,old_case,1.057,0.591,1.89,0.8512,False
+Traffic,OldCase: Traffic,Traffic → OldCase: Traffic,2248,306,age10,1.026,0.941,1.119,0.5632,False
+Traffic,OldCase: Traffic,Traffic → OldCase: Traffic,2248,306,male,1.112,0.848,1.458,0.4438,False
+Traffic,OldCase: Traffic,Traffic → OldCase: Traffic,2248,306,race_afam,0.942,0.762,1.165,0.5813,False
+Traffic,OldCase: Traffic,Traffic → OldCase: Traffic,2248,306,race_other,0.986,0.746,1.304,0.9229,False
+Traffic,OldCase: Traffic,Traffic → OldCase: Traffic,2248,306,score,1.083,1.043,1.123,0.0,True
+Traffic,OldCase: Traffic,Traffic → OldCase: Traffic,2248,306,felony,1.059,0.863,1.3,0.5802,False
+Traffic,OldCase: Traffic,Traffic → OldCase: Traffic,2248,306,n_charges,1.046,1.001,1.093,0.0438,True
+Traffic,OldCase: Traffic,Traffic → OldCase: Traffic,2248,306,log_dur,1.081,1.006,1.162,0.0341,True
+Traffic,OldCase: Traffic,Traffic → OldCase: Traffic,2248,306,prior_eps,1.216,1.117,1.324,0.0,True
+Traffic,OldCase: Traffic,Traffic → OldCase: Traffic,2248,306,old_case,1.006,0.609,1.662,0.9808,False
+Traffic,Traffic,Traffic → Traffic,2248,277,age10,0.967,0.882,1.06,0.4704,False
+Traffic,Traffic,Traffic → Traffic,2248,277,male,1.322,0.988,1.769,0.0602,False
+Traffic,Traffic,Traffic → Traffic,2248,277,race_afam,1.368,1.096,1.706,0.0055,True
+Traffic,Traffic,Traffic → Traffic,2248,277,race_other,0.999,0.738,1.353,0.9967,False
+Traffic,Traffic,Traffic → Traffic,2248,277,score,1.065,1.025,1.105,0.0011,True
+Traffic,Traffic,Traffic → Traffic,2248,277,felony,1.108,0.899,1.366,0.3363,False
+Traffic,Traffic,Traffic → Traffic,2248,277,n_charges,1.002,0.955,1.051,0.9328,False
+Traffic,Traffic,Traffic → Traffic,2248,277,log_dur,0.92,0.843,1.003,0.0573,False
+Traffic,Traffic,Traffic → Traffic,2248,277,prior_eps,1.1,1.002,1.208,0.045,True
+Traffic,Traffic,Traffic → Traffic,2248,277,old_case,0.662,0.334,1.313,0.2379,False
+Traffic,Drug,Traffic → Drug,2248,131,age10,0.828,0.735,0.932,0.0017,True
+Traffic,Drug,Traffic → Drug,2248,131,male,1.237,0.864,1.771,0.2462,False
+Traffic,Drug,Traffic → Drug,2248,131,race_afam,1.36,1.039,1.779,0.025,True
+Traffic,Drug,Traffic → Drug,2248,131,race_other,0.767,0.519,1.135,0.1844,False
+Traffic,Drug,Traffic → Drug,2248,131,score,1.154,1.103,1.206,0.0,True
+Traffic,Drug,Traffic → Drug,2248,131,felony,0.95,0.732,1.233,0.7018,False
+Traffic,Drug,Traffic → Drug,2248,131,n_charges,0.986,0.929,1.046,0.6424,False
+Traffic,Drug,Traffic → Drug,2248,131,log_dur,0.98,0.886,1.085,0.7017,False
+Traffic,Drug,Traffic → Drug,2248,131,prior_eps,1.016,0.904,1.141,0.793,False
+Traffic,Drug,Traffic → Drug,2248,131,old_case,1.038,0.489,2.205,0.9223,False
+Traffic,Violent,Traffic → Violent,2248,124,age10,0.889,0.791,0.998,0.047,True
+Traffic,Violent,Traffic → Violent,2248,124,male,0.931,0.661,1.31,0.6799,False
+Traffic,Violent,Traffic → Violent,2248,124,race_afam,1.332,1.017,1.744,0.0373,True
+Traffic,Violent,Traffic → Violent,2248,124,race_other,0.886,0.604,1.298,0.5333,False
+Traffic,Violent,Traffic → Violent,2248,124,score,1.126,1.076,1.179,0.0,True
+Traffic,Violent,Traffic → Violent,2248,124,felony,0.723,0.553,0.946,0.0179,True
+Traffic,Violent,Traffic → Violent,2248,124,n_charges,0.955,0.898,1.016,0.1444,False
+Traffic,Violent,Traffic → Violent,2248,124,log_dur,0.983,0.885,1.092,0.7511,False
+Traffic,Violent,Traffic → Violent,2248,124,prior_eps,1.005,0.89,1.136,0.9318,False
+Traffic,Violent,Traffic → Violent,2248,124,old_case,0.608,0.251,1.473,0.2707,False
+Traffic,Property,Traffic → Property,2248,102,age10,0.894,0.792,1.009,0.0705,False
+Traffic,Property,Traffic → Property,2248,102,male,1.014,0.702,1.464,0.9412,False
+Traffic,Property,Traffic → Property,2248,102,race_afam,1.372,1.035,1.818,0.0277,True
+Traffic,Property,Traffic → Property,2248,102,race_other,0.756,0.502,1.138,0.1796,False
+Traffic,Property,Traffic → Property,2248,102,score,1.133,1.081,1.188,0.0,True
+Traffic,Property,Traffic → Property,2248,102,felony,0.856,0.649,1.13,0.2737,False
+Traffic,Property,Traffic → Property,2248,102,n_charges,0.969,0.909,1.032,0.3247,False
+Traffic,Property,Traffic → Property,2248,102,log_dur,1.013,0.909,1.127,0.8204,False
+Traffic,Property,Traffic → Property,2248,102,prior_eps,0.974,0.858,1.106,0.6844,False
+Traffic,Property,Traffic → Property,2248,102,old_case,0.751,0.317,1.778,0.5145,False
+OldCase: Drug,OldCase: Drug,OldCase: Drug → OldCase: Drug,1471,465,age10,0.846,0.775,0.924,0.0002,True
+OldCase: Drug,OldCase: Drug,OldCase: Drug → OldCase: Drug,1471,465,male,0.826,0.67,1.018,0.0731,False
+OldCase: Drug,OldCase: Drug,OldCase: Drug → OldCase: Drug,1471,465,race_afam,1.109,0.922,1.334,0.2736,False
+OldCase: Drug,OldCase: Drug,OldCase: Drug → OldCase: Drug,1471,465,race_other,0.685,0.47,0.998,0.0488,True
+OldCase: Drug,OldCase: Drug,OldCase: Drug → OldCase: Drug,1471,465,score,1.064,1.026,1.102,0.0008,True
+OldCase: Drug,OldCase: Drug,OldCase: Drug → OldCase: Drug,1471,465,felony,2.401,1.679,3.434,0.0,True
+OldCase: Drug,OldCase: Drug,OldCase: Drug → OldCase: Drug,1471,465,n_charges,0.955,0.917,0.994,0.0259,True
+OldCase: Drug,OldCase: Drug,OldCase: Drug → OldCase: Drug,1471,465,log_dur,0.868,0.813,0.927,0.0,True
+OldCase: Drug,OldCase: Drug,OldCase: Drug → OldCase: Drug,1471,465,prior_eps,1.097,1.028,1.172,0.0053,True
+OldCase: Drug,Drug,OldCase: Drug → Drug,1471,92,age10,1.054,0.914,1.215,0.472,False
+OldCase: Drug,Drug,OldCase: Drug → Drug,1471,92,male,0.867,0.59,1.272,0.4646,False
+OldCase: Drug,Drug,OldCase: Drug → Drug,1471,92,race_afam,1.265,0.917,1.745,0.1523,False
+OldCase: Drug,Drug,OldCase: Drug → Drug,1471,92,race_other,0.918,0.505,1.666,0.7776,False
+OldCase: Drug,Drug,OldCase: Drug → Drug,1471,92,score,1.068,1.006,1.133,0.0307,True
+OldCase: Drug,Drug,OldCase: Drug → Drug,1471,92,felony,0.64,0.399,1.026,0.0636,False
+OldCase: Drug,Drug,OldCase: Drug → Drug,1471,92,n_charges,1.019,0.952,1.091,0.5823,False
+OldCase: Drug,Drug,OldCase: Drug → Drug,1471,92,log_dur,0.983,0.878,1.102,0.7712,False
+OldCase: Drug,Drug,OldCase: Drug → Drug,1471,92,prior_eps,1.053,0.936,1.185,0.391,False
+OldCase: Drug,Property,OldCase: Drug → Property,1471,54,age10,0.927,0.786,1.093,0.3656,False
+OldCase: Drug,Property,OldCase: Drug → Property,1471,54,male,1.222,0.777,1.924,0.3855,False
+OldCase: Drug,Property,OldCase: Drug → Property,1471,54,race_afam,0.995,0.695,1.425,0.979,False
+OldCase: Drug,Property,OldCase: Drug → Property,1471,54,race_other,1.157,0.616,2.171,0.651,False
+OldCase: Drug,Property,OldCase: Drug → Property,1471,54,score,1.071,1.002,1.145,0.044,True
+OldCase: Drug,Property,OldCase: Drug → Property,1471,54,felony,0.708,0.408,1.229,0.2198,False
+OldCase: Drug,Property,OldCase: Drug → Property,1471,54,n_charges,0.981,0.907,1.061,0.6278,False
+OldCase: Drug,Property,OldCase: Drug → Property,1471,54,log_dur,1.022,0.9,1.162,0.7346,False
+OldCase: Drug,Property,OldCase: Drug → Property,1471,54,prior_eps,1.035,0.907,1.181,0.614,False
+OldCase: Property,OldCase: Property,OldCase: Property → OldCase: Property,1417,418,age10,0.864,0.785,0.952,0.003,True
+OldCase: Property,OldCase: Property,OldCase: Property → OldCase: Property,1417,418,male,1.228,0.954,1.579,0.1106,False
+OldCase: Property,OldCase: Property,OldCase: Property → OldCase: Property,1417,418,race_afam,1.066,0.873,1.303,0.5293,False
+OldCase: Property,OldCase: Property,OldCase: Property → OldCase: Property,1417,418,race_other,0.8,0.547,1.17,0.2495,False
+OldCase: Property,OldCase: Property,OldCase: Property → OldCase: Property,1417,418,score,1.063,1.025,1.102,0.001,True
+OldCase: Property,OldCase: Property,OldCase: Property → OldCase: Property,1417,418,felony,2.575,1.762,3.763,0.0,True
+OldCase: Property,OldCase: Property,OldCase: Property → OldCase: Property,1417,418,n_charges,1.006,0.969,1.044,0.7541,False
+OldCase: Property,OldCase: Property,OldCase: Property → OldCase: Property,1417,418,log_dur,0.92,0.867,0.977,0.006,True
+OldCase: Property,OldCase: Property,OldCase: Property → OldCase: Property,1417,418,prior_eps,1.088,1.008,1.173,0.0295,True
+OldCase: Property,Property,OldCase: Property → Property,1417,109,age10,1.116,0.972,1.281,0.1189,False
+OldCase: Property,Property,OldCase: Property → Property,1417,109,male,0.925,0.629,1.36,0.6901,False
+OldCase: Property,Property,OldCase: Property → Property,1417,109,race_afam,0.925,0.673,1.27,0.6287,False
+OldCase: Property,Property,OldCase: Property → Property,1417,109,race_other,1.234,0.727,2.096,0.4365,False
+OldCase: Property,Property,OldCase: Property → Property,1417,109,score,1.096,1.035,1.16,0.0017,True
+OldCase: Property,Property,OldCase: Property → Property,1417,109,felony,0.365,0.246,0.543,0.0,True
+OldCase: Property,Property,OldCase: Property → Property,1417,109,n_charges,0.977,0.917,1.041,0.4799,False
+OldCase: Property,Property,OldCase: Property → Property,1417,109,log_dur,1.084,0.984,1.194,0.1039,False
+OldCase: Property,Property,OldCase: Property → Property,1417,109,prior_eps,0.999,0.882,1.13,0.9819,False
+OldCase: Violent,OldCase: Violent,OldCase: Violent → OldCase: Violent,831,210,age10,0.906,0.796,1.031,0.1337,False
+OldCase: Violent,OldCase: Violent,OldCase: Violent → OldCase: Violent,831,210,male,1.095,0.79,1.516,0.5861,False
+OldCase: Violent,OldCase: Violent,OldCase: Violent → OldCase: Violent,831,210,race_afam,0.812,0.612,1.077,0.148,False
+OldCase: Violent,OldCase: Violent,OldCase: Violent → OldCase: Violent,831,210,race_other,0.808,0.532,1.227,0.3169,False
+OldCase: Violent,OldCase: Violent,OldCase: Violent → OldCase: Violent,831,210,score,1.078,1.027,1.132,0.0023,True
+OldCase: Violent,OldCase: Violent,OldCase: Violent → OldCase: Violent,831,210,felony,1.562,1.148,2.127,0.0046,True
+OldCase: Violent,OldCase: Violent,OldCase: Violent → OldCase: Violent,831,210,n_charges,0.989,0.932,1.049,0.7032,False
+OldCase: Violent,OldCase: Violent,OldCase: Violent → OldCase: Violent,831,210,log_dur,1.004,0.923,1.092,0.9283,False
+OldCase: Violent,OldCase: Violent,OldCase: Violent → OldCase: Violent,831,210,prior_eps,1.022,0.918,1.138,0.6943,False
+OldCase: Other,OldCase: Other,OldCase: Other → OldCase: Other,590,137,age10,0.926,0.79,1.085,0.342,False
+OldCase: Other,OldCase: Other,OldCase: Other → OldCase: Other,590,137,male,1.276,0.835,1.951,0.2599,False
+OldCase: Other,OldCase: Other,OldCase: Other → OldCase: Other,590,137,race_afam,1.031,0.725,1.468,0.8635,False
+OldCase: Other,OldCase: Other,OldCase: Other → OldCase: Other,590,137,race_other,1.205,0.722,2.009,0.4757,False
+OldCase: Other,OldCase: Other,OldCase: Other → OldCase: Other,590,137,score,1.098,1.033,1.168,0.0027,True
+OldCase: Other,OldCase: Other,OldCase: Other → OldCase: Other,590,137,felony,1.873,1.218,2.879,0.0042,True
+OldCase: Other,OldCase: Other,OldCase: Other → OldCase: Other,590,137,n_charges,1.001,0.938,1.068,0.9808,False
+OldCase: Other,OldCase: Other,OldCase: Other → OldCase: Other,590,137,log_dur,0.894,0.81,0.986,0.0254,True
+OldCase: Other,OldCase: Other,OldCase: Other → OldCase: Other,590,137,prior_eps,1.058,0.927,1.207,0.4024,False
+Unknown,Unknown,Unknown → Unknown,581,130,age10,1.043,0.912,1.194,0.5397,False
+Unknown,Unknown,Unknown → Unknown,581,130,male,0.895,0.577,1.387,0.6183,False
+Unknown,Unknown,Unknown → Unknown,581,130,race_afam,1.165,0.798,1.7,0.4283,False
+Unknown,Unknown,Unknown → Unknown,581,130,race_other,0.599,0.3,1.197,0.1468,False
+Unknown,Unknown,Unknown → Unknown,581,130,score,1.129,1.057,1.205,0.0003,True
+Unknown,Unknown,Unknown → Unknown,581,130,n_charges,0.818,0.245,2.736,0.7446,False
+Unknown,Unknown,Unknown → Unknown,581,130,log_dur,0.982,0.896,1.077,0.7044,False
+Unknown,Unknown,Unknown → Unknown,581,130,prior_eps,1.238,1.095,1.399,0.0006,True
+Fraud,OldCase: Other,Fraud → OldCase: Other,539,112,age10,0.957,0.811,1.13,0.6035,False
+Fraud,OldCase: Other,Fraud → OldCase: Other,539,112,male,0.947,0.651,1.379,0.7765,False
+Fraud,OldCase: Other,Fraud → OldCase: Other,539,112,race_afam,0.854,0.585,1.246,0.4119,False
+Fraud,OldCase: Other,Fraud → OldCase: Other,539,112,race_other,0.716,0.423,1.213,0.2147,False
+Fraud,OldCase: Other,Fraud → OldCase: Other,539,112,score,1.148,1.074,1.227,0.0001,True
+Fraud,OldCase: Other,Fraud → OldCase: Other,539,112,felony,1.083,0.591,1.984,0.7958,False
+Fraud,OldCase: Other,Fraud → OldCase: Other,539,112,n_charges,1.077,1.01,1.148,0.0235,True
+Fraud,OldCase: Other,Fraud → OldCase: Other,539,112,log_dur,0.977,0.865,1.105,0.7154,False
+Fraud,OldCase: Other,Fraud → OldCase: Other,539,112,prior_eps,1.015,0.851,1.211,0.8706,False
+Fraud,OldCase: Other,Fraud → OldCase: Other,539,112,old_case,1.106,0.466,2.624,0.8197,False
+ResistPolice,Property,ResistPolice → Property,498,50,age10,1.123,0.912,1.384,0.2743,False
+ResistPolice,Property,ResistPolice → Property,498,50,male,1.088,0.569,2.081,0.7989,False
+ResistPolice,Property,ResistPolice → Property,498,50,race_afam,0.928,0.567,1.521,0.7681,False
+ResistPolice,Property,ResistPolice → Property,498,50,race_other,1.284,0.594,2.778,0.5249,False
+ResistPolice,Property,ResistPolice → Property,498,50,score,1.121,1.032,1.219,0.0072,True
+ResistPolice,Property,ResistPolice → Property,498,50,felony,0.602,0.327,1.108,0.103,False
+ResistPolice,Property,ResistPolice → Property,498,50,n_charges,0.861,0.738,1.004,0.0569,False
+ResistPolice,Property,ResistPolice → Property,498,50,log_dur,0.961,0.796,1.161,0.681,False
+ResistPolice,Property,ResistPolice → Property,498,50,prior_eps,1.038,0.856,1.258,0.7061,False
+ResistPolice,Property,ResistPolice → Property,498,50,old_case,0.484,0.1,2.349,0.368,False
+OldCase: Traffic,OldCase: Traffic,OldCase: Traffic → OldCase: Traffic,480,93,age10,0.929,0.778,1.109,0.4142,False
+OldCase: Traffic,OldCase: Traffic,OldCase: Traffic → OldCase: Traffic,480,93,male,1.409,0.799,2.486,0.2364,False
+OldCase: Traffic,OldCase: Traffic,OldCase: Traffic → OldCase: Traffic,480,93,race_afam,0.89,0.586,1.353,0.5865,False
+OldCase: Traffic,OldCase: Traffic,OldCase: Traffic → OldCase: Traffic,480,93,race_other,0.673,0.366,1.237,0.2025,False
+OldCase: Traffic,OldCase: Traffic,OldCase: Traffic → OldCase: Traffic,480,93,score,1.078,1.003,1.158,0.04,True
+OldCase: Traffic,OldCase: Traffic,OldCase: Traffic → OldCase: Traffic,480,93,felony,1.152,0.762,1.741,0.5035,False
+OldCase: Traffic,OldCase: Traffic,OldCase: Traffic → OldCase: Traffic,480,93,n_charges,1.04,0.963,1.124,0.3168,False
+OldCase: Traffic,OldCase: Traffic,OldCase: Traffic → OldCase: Traffic,480,93,log_dur,0.88,0.774,0.999,0.0481,True
+OldCase: Traffic,OldCase: Traffic,OldCase: Traffic → OldCase: Traffic,480,93,prior_eps,1.069,0.923,1.239,0.3719,False
+PublicOrder,Property,PublicOrder → Property,283,78,age10,0.976,0.803,1.186,0.8052,False
+PublicOrder,Property,PublicOrder → Property,283,78,male,2.127,1.069,4.232,0.0316,True
+PublicOrder,Property,PublicOrder → Property,283,78,race_afam,0.884,0.573,1.364,0.5778,False
+PublicOrder,Property,PublicOrder → Property,283,78,race_other,0.543,0.218,1.351,0.1893,False
+PublicOrder,Property,PublicOrder → Property,283,78,score,1.098,1.012,1.19,0.0244,True
+PublicOrder,Property,PublicOrder → Property,283,78,felony,0.603,0.179,2.033,0.4144,False
+PublicOrder,Property,PublicOrder → Property,283,78,n_charges,0.958,0.709,1.295,0.7802,False
+PublicOrder,Property,PublicOrder → Property,283,78,log_dur,1.057,0.881,1.268,0.5483,False
+PublicOrder,Property,PublicOrder → Property,283,78,prior_eps,1.118,0.983,1.273,0.0895,False
+Sex,OldCase: Other,Sex → OldCase: Other,221,53,age10,0.993,0.81,1.217,0.9466,False
+Sex,OldCase: Other,Sex → OldCase: Other,221,53,male,1.008,0.512,1.983,0.9813,False
+Sex,OldCase: Other,Sex → OldCase: Other,221,53,race_afam,0.796,0.454,1.394,0.424,False
+Sex,OldCase: Other,Sex → OldCase: Other,221,53,race_other,0.502,0.248,1.017,0.0559,False
+Sex,OldCase: Other,Sex → OldCase: Other,221,53,score,1.115,1.009,1.231,0.0325,True
+Sex,OldCase: Other,Sex → OldCase: Other,221,53,felony,1.591,0.791,3.199,0.1924,False
+Sex,OldCase: Other,Sex → OldCase: Other,221,53,n_charges,0.991,0.902,1.088,0.8456,False
+Sex,OldCase: Other,Sex → OldCase: Other,221,53,log_dur,0.927,0.798,1.076,0.3166,False
+Sex,OldCase: Other,Sex → OldCase: Other,221,53,prior_eps,0.952,0.752,1.206,0.6844,False
+Sex,OldCase: Other,Sex → OldCase: Other,221,53,old_case,1.183,0.19,7.377,0.8571,False
