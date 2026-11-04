@@ -18,6 +18,7 @@
 | [`stage1/x2_exp_summary/`](stage1/x2_exp_summary/) | Сводка fitness / precision по всем вариантам |
 | [`stage1/dasha_severity/`](stage1/dasha_severity/) | Данные Даши, состояние = тяжесть обвинения (+ этапы 2–3) |
 | [`stage1/stage23_tools/`](stage1/stage23_tools/) | Общий модуль этапов 2–3 и выводы по вариантам |
+| [`petri_states/`](petri_states/) | Сети Петри на журнале состояний человека (свобода / дело / заключение): майнеры, train/test, alignments, подбор флагов, версии 1 и 2 |
 | [`reports/`](reports/) | Отчёты и презентации по датам (08.10, 09.10, 16–17.10) |
 | [`docs/teacher/`](docs/teacher/) | Пояснения по теории и коду (графы PM4Py, HM / IM, выравнивания, Каплан–Мейер, Кокс, деревья и лес выживаемости) |
 

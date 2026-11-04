@@ -1,0 +1,7 @@
+{"i": 72, "n": 1, "len": 53, "sec": 142.14, "retried": true, "timeout": false, "cost": 210034, "bwc": 550002, "fitness": 0.6181818181818182}
+{"i": 423, "n": 1, "len": 46, "sec": 143.63, "retried": true, "timeout": false, "cost": 170033, "bwc": 480002, "fitness": 0.6458333333333333}
+{"i": 558, "n": 1, "len": 51, "sec": 208.54, "retried": true, "timeout": false, "cost": 200041, "bwc": 530002, "fitness": 0.6226415094339622}
+{"i": 655, "n": 1, "len": 48, "sec": 189.02, "retried": true, "timeout": false, "cost": 180036, "bwc": 500002, "fitness": 0.64}
+{"i": 715, "n": 1, "len": 52, "sec": 214.46, "retried": true, "timeout": false, "cost": 210037, "bwc": 540002, "fitness": 0.6111111111111112}
+{"i": 807, "n": 1, "len": 99, "sec": 601.01, "retried": true, "timeout": true}
+{"i": 899, "n": 1, "len": 66, "sec": 224.5, "retried": true, "timeout": false, "cost": 170053, "bwc": 680002, "fitness": 0.75}

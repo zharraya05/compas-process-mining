@@ -1,0 +1,1143 @@
+{"i": 0, "n": 1, "len": 30, "sec": 120.07, "timeout": true}
+{"i": 1, "n": 54, "len": 5, "sec": 0.02, "timeout": false, "cost": 9, "bwc": 70006, "fitness": 1.0}
+{"i": 2, "n": 1, "len": 14, "sec": 0.04, "timeout": false, "cost": 18, "bwc": 160006, "fitness": 1.0}
+{"i": 3, "n": 8, "len": 4, "sec": 1.51, "timeout": false, "cost": 12, "bwc": 60006, "fitness": 1.0}
+{"i": 4, "n": 1, "len": 36, "sec": 120.11, "timeout": true}
+{"i": 5, "n": 1, "len": 10, "sec": 12.15, "timeout": false, "cost": 18, "bwc": 120006, "fitness": 1.0}
+{"i": 6, "n": 2, "len": 11, "sec": 120.05, "timeout": true}
+{"i": 7, "n": 346, "len": 4, "sec": 0.01, "timeout": false, "cost": 8, "bwc": 60006, "fitness": 1.0}
+{"i": 8, "n": 4, "len": 8, "sec": 8.02, "timeout": false, "cost": 16, "bwc": 100006, "fitness": 1.0}
+{"i": 9, "n": 59, "len": 6, "sec": 0.02, "timeout": false, "cost": 10, "bwc": 80006, "fitness": 1.0}
+{"i": 10, "n": 5, "len": 8, "sec": 6.84, "timeout": false, "cost": 16, "bwc": 100006, "fitness": 1.0}
+{"i": 11, "n": 1, "len": 16, "sec": 0.03, "timeout": false, "cost": 20, "bwc": 180006, "fitness": 1.0}
+{"i": 12, "n": 1, "len": 25, "sec": 4.89, "timeout": false, "cost": 33, "bwc": 270006, "fitness": 1.0}
+{"i": 13, "n": 79, "len": 6, "sec": 0.02, "timeout": false, "cost": 10, "bwc": 80006, "fitness": 1.0}
+{"i": 14, "n": 34, "len": 6, "sec": 0.02, "timeout": false, "cost": 10, "bwc": 80006, "fitness": 1.0}
+{"i": 15, "n": 1, "len": 12, "sec": 7.56, "timeout": false, "cost": 20, "bwc": 140006, "fitness": 1.0}
+{"i": 16, "n": 2, "len": 7, "sec": 3.28, "timeout": false, "cost": 15, "bwc": 90006, "fitness": 1.0}
+{"i": 17, "n": 1, "len": 12, "sec": 108.35, "timeout": false, "cost": 21, "bwc": 140006, "fitness": 1.0}
+{"i": 18, "n": 1, "len": 10, "sec": 0.02, "timeout": false, "cost": 14, "bwc": 120006, "fitness": 1.0}
+{"i": 19, "n": 1, "len": 16, "sec": 12.37, "timeout": false, "cost": 24, "bwc": 180006, "fitness": 1.0}
+{"i": 20, "n": 53, "len": 4, "sec": 0.02, "timeout": false, "cost": 8, "bwc": 60006, "fitness": 1.0}
+{"i": 21, "n": 1, "len": 10, "sec": 0.06, "timeout": false, "cost": 14, "bwc": 120006, "fitness": 1.0}
+{"i": 22, "n": 4, "len": 12, "sec": 0.02, "timeout": false, "cost": 16, "bwc": 140006, "fitness": 1.0}
+{"i": 23, "n": 1, "len": 11, "sec": 3.61, "timeout": false, "cost": 19, "bwc": 130006, "fitness": 1.0}
+{"i": 24, "n": 3, "len": 7, "sec": 0.02, "timeout": false, "cost": 11, "bwc": 90006, "fitness": 1.0}
+{"i": 25, "n": 24, "len": 6, "sec": 0.02, "timeout": false, "cost": 10, "bwc": 80006, "fitness": 1.0}
+{"i": 26, "n": 1, "len": 9, "sec": 4.49, "timeout": false, "cost": 17, "bwc": 110006, "fitness": 1.0}
+{"i": 27, "n": 1, "len": 14, "sec": 14.14, "timeout": false, "cost": 22, "bwc": 160006, "fitness": 1.0}
+{"i": 28, "n": 2, "len": 10, "sec": 9.36, "timeout": false, "cost": 18, "bwc": 120006, "fitness": 1.0}
+{"i": 29, "n": 1, "len": 10, "sec": 120.07, "timeout": true}
+{"i": 30, "n": 1, "len": 20, "sec": 12.1, "timeout": false, "cost": 28, "bwc": 220006, "fitness": 1.0}
+{"i": 31, "n": 5, "len": 5, "sec": 25.97, "timeout": false, "cost": 14, "bwc": 70006, "fitness": 1.0}
+{"i": 32, "n": 1, "len": 8, "sec": 6.33, "timeout": false, "cost": 16, "bwc": 100006, "fitness": 1.0}
+{"i": 33, "n": 9, "len": 8, "sec": 0.02, "timeout": false, "cost": 12, "bwc": 100006, "fitness": 1.0}
+{"i": 34, "n": 5, "len": 8, "sec": 8.82, "timeout": false, "cost": 16, "bwc": 100006, "fitness": 1.0}
+{"i": 35, "n": 28, "len": 8, "sec": 0.02, "timeout": false, "cost": 12, "bwc": 100006, "fitness": 1.0}
+{"i": 36, "n": 1, "len": 11, "sec": 7.41, "timeout": false, "cost": 19, "bwc": 130006, "fitness": 1.0}
+{"i": 37, "n": 8, "len": 10, "sec": 0.02, "timeout": false, "cost": 14, "bwc": 120006, "fitness": 1.0}
+{"i": 38, "n": 1, "len": 13, "sec": 13.6, "timeout": false, "cost": 21, "bwc": 150006, "fitness": 1.0}
+{"i": 39, "n": 1, "len": 13, "sec": 16.03, "timeout": false, "cost": 21, "bwc": 150006, "fitness": 1.0}
+{"i": 40, "n": 2, "len": 9, "sec": 0.02, "timeout": false, "cost": 13, "bwc": 110006, "fitness": 1.0}
+{"i": 41, "n": 1, "len": 10, "sec": 23.52, "timeout": false, "cost": 19, "bwc": 120006, "fitness": 1.0}
+{"i": 42, "n": 1, "len": 10, "sec": 5.92, "timeout": false, "cost": 19, "bwc": 120006, "fitness": 1.0}
+{"i": 43, "n": 1, "len": 9, "sec": 77.36, "timeout": false, "cost": 18, "bwc": 110006, "fitness": 1.0}
+{"i": 44, "n": 37, "len": 6, "sec": 4.87, "timeout": false, "cost": 14, "bwc": 80006, "fitness": 1.0}
+{"i": 45, "n": 20, "len": 4, "sec": 1.74, "timeout": false, "cost": 12, "bwc": 60006, "fitness": 1.0}
+{"i": 46, "n": 1, "len": 14, "sec": 16.84, "timeout": false, "cost": 22, "bwc": 160006, "fitness": 1.0}
+{"i": 47, "n": 3, "len": 7, "sec": 7.33, "timeout": false, "cost": 15, "bwc": 90006, "fitness": 1.0}
+{"i": 48, "n": 1, "len": 10, "sec": 9.38, "timeout": false, "cost": 18, "bwc": 120006, "fitness": 1.0}
+{"i": 49, "n": 1, "len": 20, "sec": 120.06, "timeout": true}
+{"i": 50, "n": 8, "len": 6, "sec": 0.02, "timeout": false, "cost": 10, "bwc": 80006, "fitness": 1.0}
+{"i": 51, "n": 1, "len": 13, "sec": 21.3, "timeout": false, "cost": 21, "bwc": 150006, "fitness": 1.0}
+{"i": 52, "n": 1, "len": 17, "sec": 120.05, "timeout": true}
+{"i": 53, "n": 1, "len": 24, "sec": 6.27, "timeout": false, "cost": 32, "bwc": 260006, "fitness": 1.0}
+{"i": 54, "n": 1, "len": 14, "sec": 0.02, "timeout": false, "cost": 18, "bwc": 160006, "fitness": 1.0}
+{"i": 55, "n": 1, "len": 39, "sec": 53.94, "timeout": false, "cost": 47, "bwc": 410006, "fitness": 1.0}
+{"i": 56, "n": 4, "len": 6, "sec": 0.02, "timeout": false, "cost": 10, "bwc": 80006, "fitness": 1.0}
+{"i": 57, "n": 4, "len": 8, "sec": 2.55, "timeout": false, "cost": 16, "bwc": 100006, "fitness": 1.0}
+{"i": 58, "n": 2, "len": 18, "sec": 0.06, "timeout": false, "cost": 22, "bwc": 200006, "fitness": 1.0}
+{"i": 59, "n": 1, "len": 32, "sec": 120.08, "timeout": true}
+{"i": 60, "n": 5, "len": 7, "sec": 0.02, "timeout": false, "cost": 11, "bwc": 90006, "fitness": 1.0}
+{"i": 61, "n": 11, "len": 6, "sec": 3.61, "timeout": false, "cost": 14, "bwc": 80006, "fitness": 1.0}
+{"i": 62, "n": 7, "len": 8, "sec": 6.39, "timeout": false, "cost": 16, "bwc": 100006, "fitness": 1.0}
+{"i": 63, "n": 1, "len": 8, "sec": 3.26, "timeout": false, "cost": 16, "bwc": 100006, "fitness": 1.0}
+{"i": 64, "n": 18, "len": 8, "sec": 0.02, "timeout": false, "cost": 12, "bwc": 100006, "fitness": 1.0}
+{"i": 65, "n": 1, "len": 10, "sec": 8.73, "timeout": false, "cost": 18, "bwc": 120006, "fitness": 1.0}
+{"i": 66, "n": 1, "len": 15, "sec": 20.18, "timeout": false, "cost": 23, "bwc": 170006, "fitness": 1.0}
+{"i": 67, "n": 1, "len": 28, "sec": 15.85, "timeout": false, "cost": 36, "bwc": 300006, "fitness": 1.0}
+{"i": 68, "n": 1, "len": 14, "sec": 0.02, "timeout": false, "cost": 18, "bwc": 160006, "fitness": 1.0}
+{"i": 69, "n": 1, "len": 15, "sec": 15.5, "timeout": false, "cost": 23, "bwc": 170006, "fitness": 1.0}
+{"i": 70, "n": 18, "len": 4, "sec": 0.02, "timeout": false, "cost": 8, "bwc": 60006, "fitness": 1.0}
+{"i": 71, "n": 1, "len": 10, "sec": 9.91, "timeout": false, "cost": 18, "bwc": 120006, "fitness": 1.0}
+{"i": 72, "n": 1, "len": 53, "sec": 47.68, "timeout": false, "cost": 61, "bwc": 550006, "fitness": 1.0}
+{"i": 73, "n": 1, "len": 8, "sec": 7.96, "timeout": false, "cost": 16, "bwc": 100006, "fitness": 1.0}
+{"i": 74, "n": 1, "len": 12, "sec": 6.82, "timeout": false, "cost": 20, "bwc": 140006, "fitness": 1.0}
+{"i": 75, "n": 1, "len": 12, "sec": 7.27, "timeout": false, "cost": 20, "bwc": 140006, "fitness": 1.0}
+{"i": 76, "n": 5, "len": 8, "sec": 0.02, "timeout": false, "cost": 12, "bwc": 100006, "fitness": 1.0}
+{"i": 77, "n": 1, "len": 19, "sec": 120.05, "timeout": true}
+{"i": 78, "n": 1, "len": 6, "sec": 4.5, "timeout": false, "cost": 14, "bwc": 80006, "fitness": 1.0}
+{"i": 79, "n": 1, "len": 12, "sec": 16.99, "timeout": false, "cost": 20, "bwc": 140006, "fitness": 1.0}
+{"i": 80, "n": 1, "len": 13, "sec": 120.04, "timeout": true}
+{"i": 81, "n": 1, "len": 22, "sec": 120.06, "timeout": true}
+{"i": 82, "n": 20, "len": 8, "sec": 0.02, "timeout": false, "cost": 12, "bwc": 100006, "fitness": 1.0}
+{"i": 83, "n": 1, "len": 17, "sec": 9.23, "timeout": false, "cost": 25, "bwc": 190006, "fitness": 1.0}
+{"i": 84, "n": 1, "len": 8, "sec": 4.07, "timeout": false, "cost": 16, "bwc": 100006, "fitness": 1.0}
+{"i": 85, "n": 1, "len": 11, "sec": 9.39, "timeout": false, "cost": 20, "bwc": 130006, "fitness": 1.0}
+{"i": 86, "n": 3, "len": 6, "sec": 0.01, "timeout": false, "cost": 10, "bwc": 80006, "fitness": 1.0}
+{"i": 87, "n": 1, "len": 14, "sec": 8.4, "timeout": false, "cost": 22, "bwc": 160006, "fitness": 1.0}
+{"i": 88, "n": 24, "len": 6, "sec": 4.54, "timeout": false, "cost": 14, "bwc": 80006, "fitness": 1.0}
+{"i": 89, "n": 1, "len": 22, "sec": 23.1, "timeout": false, "cost": 31, "bwc": 240006, "fitness": 1.0}
+{"i": 90, "n": 3, "len": 7, "sec": 0.02, "timeout": false, "cost": 11, "bwc": 90006, "fitness": 1.0}
+{"i": 91, "n": 1, "len": 13, "sec": 14.98, "timeout": false, "cost": 21, "bwc": 150006, "fitness": 1.0}
+{"i": 92, "n": 1, "len": 20, "sec": 37.79, "timeout": false, "cost": 28, "bwc": 220006, "fitness": 1.0}
+{"i": 93, "n": 1, "len": 20, "sec": 26.62, "timeout": false, "cost": 28, "bwc": 220006, "fitness": 1.0}
+{"i": 94, "n": 1, "len": 21, "sec": 9.08, "timeout": false, "cost": 29, "bwc": 230006, "fitness": 1.0}
+{"i": 95, "n": 1, "len": 7, "sec": 3.3, "timeout": false, "cost": 15, "bwc": 90006, "fitness": 1.0}
+{"i": 96, "n": 1, "len": 11, "sec": 13.37, "timeout": false, "cost": 19, "bwc": 130006, "fitness": 1.0}
+{"i": 97, "n": 1, "len": 21, "sec": 0.02, "timeout": false, "cost": 25, "bwc": 230006, "fitness": 1.0}
+{"i": 98, "n": 1, "len": 14, "sec": 12.92, "timeout": false, "cost": 22, "bwc": 160006, "fitness": 1.0}
+{"i": 99, "n": 1, "len": 18, "sec": 15.06, "timeout": false, "cost": 26, "bwc": 200006, "fitness": 1.0}
+{"i": 100, "n": 1, "len": 16, "sec": 120.05, "timeout": true}
+{"i": 101, "n": 3, "len": 8, "sec": 0.02, "timeout": false, "cost": 12, "bwc": 100006, "fitness": 1.0}
+{"i": 102, "n": 1, "len": 32, "sec": 25.87, "timeout": false, "cost": 40, "bwc": 340006, "fitness": 1.0}
+{"i": 103, "n": 5, "len": 7, "sec": 7.04, "timeout": false, "cost": 15, "bwc": 90006, "fitness": 1.0}
+{"i": 104, "n": 1, "len": 22, "sec": 8.01, "timeout": false, "cost": 30, "bwc": 240006, "fitness": 1.0}
+{"i": 105, "n": 1, "len": 17, "sec": 3.82, "timeout": false, "cost": 25, "bwc": 190006, "fitness": 1.0}
+{"i": 106, "n": 8, "len": 6, "sec": 0.01, "timeout": false, "cost": 10, "bwc": 80006, "fitness": 1.0}
+{"i": 107, "n": 1, "len": 14, "sec": 0.02, "timeout": false, "cost": 18, "bwc": 160006, "fitness": 1.0}
+{"i": 108, "n": 1, "len": 21, "sec": 26.63, "timeout": false, "cost": 29, "bwc": 230006, "fitness": 1.0}
+{"i": 109, "n": 1, "len": 7, "sec": 51.02, "timeout": false, "cost": 16, "bwc": 90006, "fitness": 1.0}
+{"i": 110, "n": 1, "len": 8, "sec": 0.02, "timeout": false, "cost": 12, "bwc": 100006, "fitness": 1.0}
+{"i": 111, "n": 1, "len": 16, "sec": 120.06, "timeout": true}
+{"i": 112, "n": 1, "len": 23, "sec": 0.05, "timeout": false, "cost": 27, "bwc": 250006, "fitness": 1.0}
+{"i": 113, "n": 3, "len": 6, "sec": 41.23, "timeout": false, "cost": 15, "bwc": 80006, "fitness": 1.0}
+{"i": 114, "n": 1, "len": 8, "sec": 2.69, "timeout": false, "cost": 16, "bwc": 100006, "fitness": 1.0}
+{"i": 115, "n": 1, "len": 13, "sec": 14.21, "timeout": false, "cost": 21, "bwc": 150006, "fitness": 1.0}
+{"i": 116, "n": 1, "len": 18, "sec": 120.06, "timeout": true}
+{"i": 117, "n": 1, "len": 15, "sec": 18.62, "timeout": false, "cost": 23, "bwc": 170006, "fitness": 1.0}
+{"i": 118, "n": 1, "len": 27, "sec": 120.09, "timeout": true}
+{"i": 119, "n": 8, "len": 7, "sec": 0.03, "timeout": false, "cost": 11, "bwc": 90006, "fitness": 1.0}
+{"i": 120, "n": 3, "len": 10, "sec": 0.03, "timeout": false, "cost": 14, "bwc": 120006, "fitness": 1.0}
+{"i": 121, "n": 1, "len": 12, "sec": 13.68, "timeout": false, "cost": 20, "bwc": 140006, "fitness": 1.0}
+{"i": 122, "n": 1, "len": 10, "sec": 12.78, "timeout": false, "cost": 18, "bwc": 120006, "fitness": 1.0}
+{"i": 123, "n": 1, "len": 11, "sec": 117.87, "timeout": false, "cost": 20, "bwc": 130006, "fitness": 1.0}
+{"i": 124, "n": 1, "len": 12, "sec": 120.04, "timeout": true}
+{"i": 125, "n": 1, "len": 13, "sec": 7.24, "timeout": false, "cost": 21, "bwc": 150006, "fitness": 1.0}
+{"i": 126, "n": 1, "len": 17, "sec": 20.21, "timeout": false, "cost": 25, "bwc": 190006, "fitness": 1.0}
+{"i": 127, "n": 1, "len": 10, "sec": 8.76, "timeout": false, "cost": 18, "bwc": 120006, "fitness": 1.0}
+{"i": 128, "n": 1, "len": 12, "sec": 9.68, "timeout": false, "cost": 20, "bwc": 140006, "fitness": 1.0}
+{"i": 129, "n": 1, "len": 16, "sec": 18.21, "timeout": false, "cost": 24, "bwc": 180006, "fitness": 1.0}
+{"i": 130, "n": 1, "len": 17, "sec": 28.39, "timeout": false, "cost": 25, "bwc": 190006, "fitness": 1.0}
+{"i": 131, "n": 5, "len": 8, "sec": 0.02, "timeout": false, "cost": 12, "bwc": 100006, "fitness": 1.0}
+{"i": 132, "n": 1, "len": 9, "sec": 0.02, "timeout": false, "cost": 13, "bwc": 110006, "fitness": 1.0}
+{"i": 133, "n": 1, "len": 12, "sec": 3.99, "timeout": false, "cost": 20, "bwc": 140006, "fitness": 1.0}
+{"i": 134, "n": 1, "len": 14, "sec": 120.06, "timeout": true}
+{"i": 135, "n": 1, "len": 26, "sec": 7.15, "timeout": false, "cost": 34, "bwc": 280006, "fitness": 1.0}
+{"i": 136, "n": 1, "len": 23, "sec": 7.01, "timeout": false, "cost": 31, "bwc": 250006, "fitness": 1.0}
+{"i": 137, "n": 1, "len": 22, "sec": 18.19, "timeout": false, "cost": 30, "bwc": 240006, "fitness": 1.0}
+{"i": 138, "n": 1, "len": 11, "sec": 11.32, "timeout": false, "cost": 19, "bwc": 130006, "fitness": 1.0}
+{"i": 139, "n": 1, "len": 8, "sec": 0.02, "timeout": false, "cost": 12, "bwc": 100006, "fitness": 1.0}
+{"i": 140, "n": 1, "len": 9, "sec": 9.29, "timeout": false, "cost": 17, "bwc": 110006, "fitness": 1.0}
+{"i": 141, "n": 5, "len": 9, "sec": 0.02, "timeout": false, "cost": 13, "bwc": 110006, "fitness": 1.0}
+{"i": 142, "n": 2, "len": 10, "sec": 9.06, "timeout": false, "cost": 18, "bwc": 120006, "fitness": 1.0}
+{"i": 143, "n": 1, "len": 10, "sec": 2.5, "timeout": false, "cost": 18, "bwc": 120006, "fitness": 1.0}
+{"i": 144, "n": 1, "len": 25, "sec": 120.06, "timeout": true}
+{"i": 145, "n": 2, "len": 10, "sec": 0.02, "timeout": false, "cost": 14, "bwc": 120006, "fitness": 1.0}
+{"i": 146, "n": 1, "len": 12, "sec": 16.71, "timeout": false, "cost": 20, "bwc": 140006, "fitness": 1.0}
+{"i": 147, "n": 3, "len": 10, "sec": 0.02, "timeout": false, "cost": 14, "bwc": 120006, "fitness": 1.0}
+{"i": 148, "n": 3, "len": 6, "sec": 0.02, "timeout": false, "cost": 10, "bwc": 80006, "fitness": 1.0}
+{"i": 149, "n": 1, "len": 7, "sec": 7.57, "timeout": false, "cost": 15, "bwc": 90006, "fitness": 1.0}
+{"i": 150, "n": 1, "len": 24, "sec": 22.29, "timeout": false, "cost": 32, "bwc": 260006, "fitness": 1.0}
+{"i": 151, "n": 1, "len": 9, "sec": 9.17, "timeout": false, "cost": 17, "bwc": 110006, "fitness": 1.0}
+{"i": 152, "n": 1, "len": 8, "sec": 1.89, "timeout": false, "cost": 16, "bwc": 100006, "fitness": 1.0}
+{"i": 153, "n": 2, "len": 12, "sec": 0.02, "timeout": false, "cost": 16, "bwc": 140006, "fitness": 1.0}
+{"i": 154, "n": 1, "len": 9, "sec": 11.23, "timeout": false, "cost": 17, "bwc": 110006, "fitness": 1.0}
+{"i": 155, "n": 1, "len": 24, "sec": 28.54, "timeout": false, "cost": 32, "bwc": 260006, "fitness": 1.0}
+{"i": 156, "n": 1, "len": 5, "sec": 0.01, "timeout": false, "cost": 9, "bwc": 70006, "fitness": 1.0}
+{"i": 157, "n": 1, "len": 12, "sec": 3.83, "timeout": false, "cost": 20, "bwc": 140006, "fitness": 1.0}
+{"i": 158, "n": 1, "len": 9, "sec": 79.11, "timeout": false, "cost": 18, "bwc": 110006, "fitness": 1.0}
+{"i": 159, "n": 1, "len": 9, "sec": 9.83, "timeout": false, "cost": 17, "bwc": 110006, "fitness": 1.0}
+{"i": 160, "n": 9, "len": 6, "sec": 4.35, "timeout": false, "cost": 14, "bwc": 80006, "fitness": 1.0}
+{"i": 161, "n": 1, "len": 23, "sec": 13.74, "timeout": false, "cost": 31, "bwc": 250006, "fitness": 1.0}
+{"i": 162, "n": 5, "len": 8, "sec": 9.24, "timeout": false, "cost": 16, "bwc": 100006, "fitness": 1.0}
+{"i": 163, "n": 1, "len": 12, "sec": 4.38, "timeout": false, "cost": 20, "bwc": 140006, "fitness": 1.0}
+{"i": 164, "n": 1, "len": 24, "sec": 17.49, "timeout": false, "cost": 32, "bwc": 260006, "fitness": 1.0}
+{"i": 165, "n": 1, "len": 10, "sec": 0.02, "timeout": false, "cost": 14, "bwc": 120006, "fitness": 1.0}
+{"i": 166, "n": 1, "len": 13, "sec": 18.73, "timeout": false, "cost": 21, "bwc": 150006, "fitness": 1.0}
+{"i": 167, "n": 1, "len": 9, "sec": 0.02, "timeout": false, "cost": 13, "bwc": 110006, "fitness": 1.0}
+{"i": 168, "n": 1, "len": 10, "sec": 5.31, "timeout": false, "cost": 18, "bwc": 120006, "fitness": 1.0}
+{"i": 169, "n": 1, "len": 18, "sec": 0.03, "timeout": false, "cost": 22, "bwc": 200006, "fitness": 1.0}
+{"i": 170, "n": 2, "len": 12, "sec": 10.25, "timeout": false, "cost": 20, "bwc": 140006, "fitness": 1.0}
+{"i": 171, "n": 1, "len": 7, "sec": 5.67, "timeout": false, "cost": 15, "bwc": 90006, "fitness": 1.0}
+{"i": 172, "n": 1, "len": 19, "sec": 120.06, "timeout": true}
+{"i": 173, "n": 1, "len": 10, "sec": 113.13, "timeout": false, "cost": 19, "bwc": 120006, "fitness": 1.0}
+{"i": 174, "n": 1, "len": 30, "sec": 120.08, "timeout": true}
+{"i": 175, "n": 1, "len": 22, "sec": 30.93, "timeout": false, "cost": 30, "bwc": 240006, "fitness": 1.0}
+{"i": 176, "n": 2, "len": 10, "sec": 3.53, "timeout": false, "cost": 18, "bwc": 120006, "fitness": 1.0}
+{"i": 177, "n": 4, "len": 5, "sec": 0.02, "timeout": false, "cost": 9, "bwc": 70006, "fitness": 1.0}
+{"i": 178, "n": 1, "len": 15, "sec": 8.97, "timeout": false, "cost": 23, "bwc": 170006, "fitness": 1.0}
+{"i": 179, "n": 1, "len": 21, "sec": 17.67, "timeout": false, "cost": 29, "bwc": 230006, "fitness": 1.0}
+{"i": 180, "n": 1, "len": 9, "sec": 4.21, "timeout": false, "cost": 17, "bwc": 110006, "fitness": 1.0}
+{"i": 181, "n": 3, "len": 11, "sec": 0.02, "timeout": false, "cost": 15, "bwc": 130006, "fitness": 1.0}
+{"i": 182, "n": 1, "len": 9, "sec": 11.01, "timeout": false, "cost": 17, "bwc": 110006, "fitness": 1.0}
+{"i": 183, "n": 1, "len": 9, "sec": 67.56, "timeout": false, "cost": 18, "bwc": 110006, "fitness": 1.0}
+{"i": 184, "n": 1, "len": 19, "sec": 120.08, "timeout": true}
+{"i": 185, "n": 1, "len": 8, "sec": 75.53, "timeout": false, "cost": 17, "bwc": 100006, "fitness": 1.0}
+{"i": 186, "n": 1, "len": 6, "sec": 0.02, "timeout": false, "cost": 10, "bwc": 80006, "fitness": 1.0}
+{"i": 187, "n": 2, "len": 5, "sec": 24.15, "timeout": false, "cost": 14, "bwc": 70006, "fitness": 1.0}
+{"i": 188, "n": 1, "len": 12, "sec": 6.39, "timeout": false, "cost": 20, "bwc": 140006, "fitness": 1.0}
+{"i": 189, "n": 1, "len": 14, "sec": 12.09, "timeout": false, "cost": 22, "bwc": 160006, "fitness": 1.0}
+{"i": 190, "n": 2, "len": 6, "sec": 1.73, "timeout": false, "cost": 14, "bwc": 80006, "fitness": 1.0}
+{"i": 191, "n": 1, "len": 28, "sec": 120.07, "timeout": true}
+{"i": 192, "n": 1, "len": 6, "sec": 2.37, "timeout": false, "cost": 14, "bwc": 80006, "fitness": 1.0}
+{"i": 193, "n": 1, "len": 12, "sec": 0.04, "timeout": false, "cost": 16, "bwc": 140006, "fitness": 1.0}
+{"i": 194, "n": 1, "len": 7, "sec": 3.29, "timeout": false, "cost": 15, "bwc": 90006, "fitness": 1.0}
+{"i": 195, "n": 1, "len": 19, "sec": 120.07, "timeout": true}
+{"i": 196, "n": 1, "len": 36, "sec": 120.09, "timeout": true}
+{"i": 197, "n": 1, "len": 12, "sec": 0.02, "timeout": false, "cost": 16, "bwc": 140006, "fitness": 1.0}
+{"i": 198, "n": 1, "len": 24, "sec": 35.93, "timeout": false, "cost": 32, "bwc": 260006, "fitness": 1.0}
+{"i": 199, "n": 10, "len": 6, "sec": 0.02, "timeout": false, "cost": 10, "bwc": 80006, "fitness": 1.0}
+{"i": 200, "n": 1, "len": 10, "sec": 7.71, "timeout": false, "cost": 18, "bwc": 120006, "fitness": 1.0}
+{"i": 201, "n": 1, "len": 20, "sec": 21.08, "timeout": false, "cost": 28, "bwc": 220006, "fitness": 1.0}
+{"i": 202, "n": 1, "len": 16, "sec": 24.69, "timeout": false, "cost": 24, "bwc": 180006, "fitness": 1.0}
+{"i": 203, "n": 1, "len": 12, "sec": 18.98, "timeout": false, "cost": 20, "bwc": 140006, "fitness": 1.0}
+{"i": 204, "n": 5, "len": 8, "sec": 0.02, "timeout": false, "cost": 12, "bwc": 100006, "fitness": 1.0}
+{"i": 205, "n": 1, "len": 12, "sec": 120.04, "timeout": true}
+{"i": 206, "n": 1, "len": 7, "sec": 42.54, "timeout": false, "cost": 16, "bwc": 90006, "fitness": 1.0}
+{"i": 207, "n": 1, "len": 12, "sec": 120.05, "timeout": true}
+{"i": 208, "n": 1, "len": 17, "sec": 32.46, "timeout": false, "cost": 25, "bwc": 190006, "fitness": 1.0}
+{"i": 209, "n": 1, "len": 14, "sec": 0.02, "timeout": false, "cost": 18, "bwc": 160006, "fitness": 1.0}
+{"i": 210, "n": 4, "len": 7, "sec": 5.79, "timeout": false, "cost": 15, "bwc": 90006, "fitness": 1.0}
+{"i": 211, "n": 1, "len": 17, "sec": 7.66, "timeout": false, "cost": 25, "bwc": 190006, "fitness": 1.0}
+{"i": 212, "n": 1, "len": 10, "sec": 12.68, "timeout": false, "cost": 18, "bwc": 120006, "fitness": 1.0}
+{"i": 213, "n": 1, "len": 14, "sec": 0.05, "timeout": false, "cost": 18, "bwc": 160006, "fitness": 1.0}
+{"i": 214, "n": 2, "len": 6, "sec": 1.9, "timeout": false, "cost": 14, "bwc": 80006, "fitness": 1.0}
+{"i": 215, "n": 1, "len": 8, "sec": 58.21, "timeout": false, "cost": 17, "bwc": 100006, "fitness": 1.0}
+{"i": 216, "n": 6, "len": 6, "sec": 0.01, "timeout": false, "cost": 10, "bwc": 80006, "fitness": 1.0}
+{"i": 217, "n": 1, "len": 17, "sec": 120.04, "timeout": true}
+{"i": 218, "n": 4, "len": 6, "sec": 0.02, "timeout": false, "cost": 10, "bwc": 80006, "fitness": 1.0}
+{"i": 219, "n": 1, "len": 12, "sec": 0.02, "timeout": false, "cost": 16, "bwc": 140006, "fitness": 1.0}
+{"i": 220, "n": 1, "len": 17, "sec": 28.13, "timeout": false, "cost": 25, "bwc": 190006, "fitness": 1.0}
+{"i": 221, "n": 1, "len": 8, "sec": 0.02, "timeout": false, "cost": 12, "bwc": 100006, "fitness": 1.0}
+{"i": 222, "n": 1, "len": 11, "sec": 3.39, "timeout": false, "cost": 19, "bwc": 130006, "fitness": 1.0}
+{"i": 223, "n": 1, "len": 23, "sec": 43.28, "timeout": false, "cost": 31, "bwc": 250006, "fitness": 1.0}
+{"i": 224, "n": 1, "len": 7, "sec": 7.22, "timeout": false, "cost": 15, "bwc": 90006, "fitness": 1.0}
+{"i": 225, "n": 1, "len": 14, "sec": 120.06, "timeout": true}
+{"i": 226, "n": 1, "len": 11, "sec": 0.02, "timeout": false, "cost": 15, "bwc": 130006, "fitness": 1.0}
+{"i": 227, "n": 1, "len": 10, "sec": 11.17, "timeout": false, "cost": 18, "bwc": 120006, "fitness": 1.0}
+{"i": 228, "n": 2, "len": 7, "sec": 58.45, "timeout": false, "cost": 16, "bwc": 90006, "fitness": 1.0}
+{"i": 229, "n": 1, "len": 16, "sec": 5.32, "timeout": false, "cost": 24, "bwc": 180006, "fitness": 1.0}
+{"i": 230, "n": 1, "len": 12, "sec": 120.04, "timeout": true}
+{"i": 231, "n": 11, "len": 10, "sec": 0.02, "timeout": false, "cost": 14, "bwc": 120006, "fitness": 1.0}
+{"i": 232, "n": 1, "len": 12, "sec": 9.55, "timeout": false, "cost": 20, "bwc": 140006, "fitness": 1.0}
+{"i": 233, "n": 2, "len": 10, "sec": 0.02, "timeout": false, "cost": 14, "bwc": 120006, "fitness": 1.0}
+{"i": 234, "n": 3, "len": 8, "sec": 67.92, "timeout": false, "cost": 17, "bwc": 100006, "fitness": 1.0}
+{"i": 235, "n": 1, "len": 30, "sec": 49.54, "timeout": false, "cost": 38, "bwc": 320006, "fitness": 1.0}
+{"i": 236, "n": 2, "len": 7, "sec": 7.15, "timeout": false, "cost": 16, "bwc": 90006, "fitness": 1.0}
+{"i": 237, "n": 1, "len": 14, "sec": 16.55, "timeout": false, "cost": 22, "bwc": 160006, "fitness": 1.0}
+{"i": 238, "n": 1, "len": 13, "sec": 120.06, "timeout": true}
+{"i": 239, "n": 3, "len": 8, "sec": 0.02, "timeout": false, "cost": 12, "bwc": 100006, "fitness": 1.0}
+{"i": 240, "n": 1, "len": 13, "sec": 120.07, "timeout": true}
+{"i": 241, "n": 1, "len": 8, "sec": 2.66, "timeout": false, "cost": 16, "bwc": 100006, "fitness": 1.0}
+{"i": 242, "n": 1, "len": 7, "sec": 8.13, "timeout": false, "cost": 15, "bwc": 90006, "fitness": 1.0}
+{"i": 243, "n": 1, "len": 13, "sec": 14.35, "timeout": false, "cost": 21, "bwc": 150006, "fitness": 1.0}
+{"i": 244, "n": 1, "len": 18, "sec": 31.16, "timeout": false, "cost": 27, "bwc": 200006, "fitness": 1.0}
+{"i": 245, "n": 1, "len": 10, "sec": 10.94, "timeout": false, "cost": 18, "bwc": 120006, "fitness": 1.0}
+{"i": 246, "n": 1, "len": 10, "sec": 4.76, "timeout": false, "cost": 18, "bwc": 120006, "fitness": 1.0}
+{"i": 247, "n": 2, "len": 12, "sec": 0.02, "timeout": false, "cost": 16, "bwc": 140006, "fitness": 1.0}
+{"i": 248, "n": 1, "len": 9, "sec": 3.66, "timeout": false, "cost": 17, "bwc": 110006, "fitness": 1.0}
+{"i": 249, "n": 1, "len": 26, "sec": 30.49, "timeout": false, "cost": 34, "bwc": 280006, "fitness": 1.0}
+{"i": 250, "n": 2, "len": 6, "sec": 0.02, "timeout": false, "cost": 10, "bwc": 80006, "fitness": 1.0}
+{"i": 251, "n": 1, "len": 14, "sec": 0.05, "timeout": false, "cost": 18, "bwc": 160006, "fitness": 1.0}
+{"i": 252, "n": 1, "len": 13, "sec": 0.02, "timeout": false, "cost": 17, "bwc": 150006, "fitness": 1.0}
+{"i": 253, "n": 2, "len": 8, "sec": 8.25, "timeout": false, "cost": 16, "bwc": 100006, "fitness": 1.0}
+{"i": 254, "n": 1, "len": 10, "sec": 4.77, "timeout": false, "cost": 18, "bwc": 120006, "fitness": 1.0}
+{"i": 255, "n": 1, "len": 9, "sec": 97.17, "timeout": false, "cost": 18, "bwc": 110006, "fitness": 1.0}
+{"i": 256, "n": 1, "len": 28, "sec": 15.95, "timeout": false, "cost": 36, "bwc": 300006, "fitness": 1.0}
+{"i": 257, "n": 1, "len": 20, "sec": 26.24, "timeout": false, "cost": 28, "bwc": 220006, "fitness": 1.0}
+{"i": 258, "n": 1, "len": 17, "sec": 11.4, "timeout": false, "cost": 25, "bwc": 190006, "fitness": 1.0}
+{"i": 259, "n": 1, "len": 22, "sec": 17.7, "timeout": false, "cost": 30, "bwc": 240006, "fitness": 1.0}
+{"i": 260, "n": 1, "len": 20, "sec": 23.27, "timeout": false, "cost": 28, "bwc": 220006, "fitness": 1.0}
+{"i": 261, "n": 1, "len": 10, "sec": 9.56, "timeout": false, "cost": 18, "bwc": 120006, "fitness": 1.0}
+{"i": 262, "n": 1, "len": 12, "sec": 8.21, "timeout": false, "cost": 20, "bwc": 140006, "fitness": 1.0}
+{"i": 263, "n": 1, "len": 26, "sec": 13.54, "timeout": false, "cost": 34, "bwc": 280006, "fitness": 1.0}
+{"i": 264, "n": 1, "len": 20, "sec": 0.03, "timeout": false, "cost": 24, "bwc": 220006, "fitness": 1.0}
+{"i": 265, "n": 1, "len": 8, "sec": 8.13, "timeout": false, "cost": 17, "bwc": 100006, "fitness": 1.0}
+{"i": 266, "n": 1, "len": 7, "sec": 58.02, "timeout": false, "cost": 16, "bwc": 90006, "fitness": 1.0}
+{"i": 267, "n": 8, "len": 8, "sec": 6.02, "timeout": false, "cost": 16, "bwc": 100006, "fitness": 1.0}
+{"i": 268, "n": 2, "len": 9, "sec": 7.47, "timeout": false, "cost": 17, "bwc": 110006, "fitness": 1.0}
+{"i": 269, "n": 1, "len": 18, "sec": 24.88, "timeout": false, "cost": 26, "bwc": 200006, "fitness": 1.0}
+{"i": 270, "n": 1, "len": 14, "sec": 120.05, "timeout": true}
+{"i": 271, "n": 1, "len": 9, "sec": 0.02, "timeout": false, "cost": 13, "bwc": 110006, "fitness": 1.0}
+{"i": 272, "n": 1, "len": 12, "sec": 14.57, "timeout": false, "cost": 20, "bwc": 140006, "fitness": 1.0}
+{"i": 273, "n": 1, "len": 12, "sec": 0.02, "timeout": false, "cost": 16, "bwc": 140006, "fitness": 1.0}
+{"i": 274, "n": 1, "len": 10, "sec": 2.8, "timeout": false, "cost": 18, "bwc": 120006, "fitness": 1.0}
+{"i": 275, "n": 1, "len": 24, "sec": 120.08, "timeout": true}
+{"i": 276, "n": 1, "len": 21, "sec": 15.55, "timeout": false, "cost": 29, "bwc": 230006, "fitness": 1.0}
+{"i": 277, "n": 6, "len": 8, "sec": 5.93, "timeout": false, "cost": 16, "bwc": 100006, "fitness": 1.0}
+{"i": 278, "n": 1, "len": 11, "sec": 4.92, "timeout": false, "cost": 19, "bwc": 130006, "fitness": 1.0}
+{"i": 279, "n": 1, "len": 8, "sec": 0.02, "timeout": false, "cost": 12, "bwc": 100006, "fitness": 1.0}
+{"i": 280, "n": 1, "len": 10, "sec": 12.22, "timeout": false, "cost": 18, "bwc": 120006, "fitness": 1.0}
+{"i": 281, "n": 3, "len": 12, "sec": 18.71, "timeout": false, "cost": 20, "bwc": 140006, "fitness": 1.0}
+{"i": 282, "n": 1, "len": 16, "sec": 0.02, "timeout": false, "cost": 20, "bwc": 180006, "fitness": 1.0}
+{"i": 283, "n": 1, "len": 8, "sec": 7.27, "timeout": false, "cost": 16, "bwc": 100006, "fitness": 1.0}
+{"i": 284, "n": 5, "len": 6, "sec": 2.6, "timeout": false, "cost": 14, "bwc": 80006, "fitness": 1.0}
+{"i": 285, "n": 1, "len": 14, "sec": 11.08, "timeout": false, "cost": 22, "bwc": 160006, "fitness": 1.0}
+{"i": 286, "n": 1, "len": 32, "sec": 71.61, "timeout": false, "cost": 40, "bwc": 340006, "fitness": 1.0}
+{"i": 287, "n": 1, "len": 6, "sec": 6.98, "timeout": false, "cost": 15, "bwc": 80006, "fitness": 1.0}
+{"i": 288, "n": 1, "len": 10, "sec": 9.16, "timeout": false, "cost": 18, "bwc": 120006, "fitness": 1.0}
+{"i": 289, "n": 1, "len": 21, "sec": 120.07, "timeout": true}
+{"i": 290, "n": 1, "len": 11, "sec": 0.03, "timeout": false, "cost": 15, "bwc": 130006, "fitness": 1.0}
+{"i": 291, "n": 1, "len": 14, "sec": 120.06, "timeout": true}
+{"i": 292, "n": 1, "len": 15, "sec": 5.01, "timeout": false, "cost": 23, "bwc": 170006, "fitness": 1.0}
+{"i": 293, "n": 1, "len": 22, "sec": 20.91, "timeout": false, "cost": 30, "bwc": 240006, "fitness": 1.0}
+{"i": 294, "n": 1, "len": 12, "sec": 0.02, "timeout": false, "cost": 16, "bwc": 140006, "fitness": 1.0}
+{"i": 295, "n": 2, "len": 12, "sec": 0.05, "timeout": false, "cost": 16, "bwc": 140006, "fitness": 1.0}
+{"i": 296, "n": 1, "len": 11, "sec": 9.42, "timeout": false, "cost": 20, "bwc": 130006, "fitness": 1.0}
+{"i": 297, "n": 1, "len": 18, "sec": 9.23, "timeout": false, "cost": 26, "bwc": 200006, "fitness": 1.0}
+{"i": 298, "n": 1, "len": 9, "sec": 12.04, "timeout": false, "cost": 17, "bwc": 110006, "fitness": 1.0}
+{"i": 299, "n": 1, "len": 12, "sec": 0.02, "timeout": false, "cost": 16, "bwc": 140006, "fitness": 1.0}
+{"i": 300, "n": 1, "len": 13, "sec": 21.75, "timeout": false, "cost": 21, "bwc": 150006, "fitness": 1.0}
+{"i": 301, "n": 1, "len": 13, "sec": 21.58, "timeout": false, "cost": 21, "bwc": 150006, "fitness": 1.0}
+{"i": 302, "n": 1, "len": 8, "sec": 0.02, "timeout": false, "cost": 12, "bwc": 100006, "fitness": 1.0}
+{"i": 303, "n": 3, "len": 5, "sec": 2.4, "timeout": false, "cost": 13, "bwc": 70006, "fitness": 1.0}
+{"i": 304, "n": 1, "len": 14, "sec": 3.72, "timeout": false, "cost": 22, "bwc": 160006, "fitness": 1.0}
+{"i": 305, "n": 1, "len": 15, "sec": 120.06, "timeout": true}
+{"i": 306, "n": 1, "len": 12, "sec": 8.31, "timeout": false, "cost": 20, "bwc": 140006, "fitness": 1.0}
+{"i": 307, "n": 1, "len": 12, "sec": 18.54, "timeout": false, "cost": 20, "bwc": 140006, "fitness": 1.0}
+{"i": 308, "n": 1, "len": 8, "sec": 0.02, "timeout": false, "cost": 12, "bwc": 100006, "fitness": 1.0}
+{"i": 309, "n": 1, "len": 11, "sec": 0.03, "timeout": false, "cost": 15, "bwc": 130006, "fitness": 1.0}
+{"i": 310, "n": 1, "len": 21, "sec": 27.01, "timeout": false, "cost": 29, "bwc": 230006, "fitness": 1.0}
+{"i": 311, "n": 1, "len": 15, "sec": 120.05, "timeout": true}
+{"i": 312, "n": 1, "len": 15, "sec": 2.95, "timeout": false, "cost": 23, "bwc": 170006, "fitness": 1.0}
+{"i": 313, "n": 1, "len": 12, "sec": 7.74, "timeout": false, "cost": 20, "bwc": 140006, "fitness": 1.0}
+{"i": 314, "n": 1, "len": 21, "sec": 120.05, "timeout": true}
+{"i": 315, "n": 2, "len": 4, "sec": 15.44, "timeout": false, "cost": 13, "bwc": 60006, "fitness": 1.0}
+{"i": 316, "n": 3, "len": 10, "sec": 9.93, "timeout": false, "cost": 18, "bwc": 120006, "fitness": 1.0}
+{"i": 317, "n": 1, "len": 12, "sec": 23.67, "timeout": false, "cost": 21, "bwc": 140006, "fitness": 1.0}
+{"i": 318, "n": 1, "len": 28, "sec": 26.39, "timeout": false, "cost": 36, "bwc": 300006, "fitness": 1.0}
+{"i": 319, "n": 2, "len": 6, "sec": 4.18, "timeout": false, "cost": 14, "bwc": 80006, "fitness": 1.0}
+{"i": 320, "n": 2, "len": 8, "sec": 2.77, "timeout": false, "cost": 16, "bwc": 100006, "fitness": 1.0}
+{"i": 321, "n": 5, "len": 10, "sec": 0.03, "timeout": false, "cost": 14, "bwc": 120006, "fitness": 1.0}
+{"i": 322, "n": 1, "len": 15, "sec": 13.84, "timeout": false, "cost": 23, "bwc": 170006, "fitness": 1.0}
+{"i": 323, "n": 1, "len": 11, "sec": 109.07, "timeout": false, "cost": 20, "bwc": 130006, "fitness": 1.0}
+{"i": 324, "n": 1, "len": 11, "sec": 0.02, "timeout": false, "cost": 15, "bwc": 130006, "fitness": 1.0}
+{"i": 325, "n": 1, "len": 13, "sec": 0.03, "timeout": false, "cost": 17, "bwc": 150006, "fitness": 1.0}
+{"i": 326, "n": 1, "len": 13, "sec": 12.35, "timeout": false, "cost": 21, "bwc": 150006, "fitness": 1.0}
+{"i": 327, "n": 1, "len": 12, "sec": 4.38, "timeout": false, "cost": 20, "bwc": 140006, "fitness": 1.0}
+{"i": 328, "n": 1, "len": 12, "sec": 120.04, "timeout": true}
+{"i": 329, "n": 1, "len": 8, "sec": 7.95, "timeout": false, "cost": 16, "bwc": 100006, "fitness": 1.0}
+{"i": 330, "n": 1, "len": 5, "sec": 3.34, "timeout": false, "cost": 13, "bwc": 70006, "fitness": 1.0}
+{"i": 331, "n": 1, "len": 15, "sec": 15.91, "timeout": false, "cost": 23, "bwc": 170006, "fitness": 1.0}
+{"i": 332, "n": 1, "len": 11, "sec": 0.02, "timeout": false, "cost": 15, "bwc": 130006, "fitness": 1.0}
+{"i": 333, "n": 1, "len": 12, "sec": 10.68, "timeout": false, "cost": 20, "bwc": 140006, "fitness": 1.0}
+{"i": 334, "n": 1, "len": 9, "sec": 7.15, "timeout": false, "cost": 17, "bwc": 110006, "fitness": 1.0}
+{"i": 335, "n": 1, "len": 8, "sec": 7.9, "timeout": false, "cost": 16, "bwc": 100006, "fitness": 1.0}
+{"i": 336, "n": 1, "len": 5, "sec": 26.17, "timeout": false, "cost": 14, "bwc": 70006, "fitness": 1.0}
+{"i": 337, "n": 1, "len": 11, "sec": 0.02, "timeout": false, "cost": 15, "bwc": 130006, "fitness": 1.0}
+{"i": 338, "n": 1, "len": 10, "sec": 7.99, "timeout": false, "cost": 18, "bwc": 120006, "fitness": 1.0}
+{"i": 339, "n": 1, "len": 21, "sec": 37.19, "timeout": false, "cost": 29, "bwc": 230006, "fitness": 1.0}
+{"i": 340, "n": 1, "len": 24, "sec": 44.1, "timeout": false, "cost": 32, "bwc": 260006, "fitness": 1.0}
+{"i": 341, "n": 2, "len": 6, "sec": 31.14, "timeout": false, "cost": 15, "bwc": 80006, "fitness": 1.0}
+{"i": 342, "n": 1, "len": 8, "sec": 66.0, "timeout": false, "cost": 17, "bwc": 100006, "fitness": 1.0}
+{"i": 343, "n": 1, "len": 16, "sec": 7.67, "timeout": false, "cost": 24, "bwc": 180006, "fitness": 1.0}
+{"i": 344, "n": 1, "len": 29, "sec": 120.08, "timeout": true}
+{"i": 345, "n": 1, "len": 10, "sec": 0.02, "timeout": false, "cost": 14, "bwc": 120006, "fitness": 1.0}
+{"i": 346, "n": 1, "len": 16, "sec": 0.02, "timeout": false, "cost": 20, "bwc": 180006, "fitness": 1.0}
+{"i": 347, "n": 1, "len": 10, "sec": 0.02, "timeout": false, "cost": 14, "bwc": 120006, "fitness": 1.0}
+{"i": 348, "n": 1, "len": 10, "sec": 4.88, "timeout": false, "cost": 18, "bwc": 120006, "fitness": 1.0}
+{"i": 349, "n": 1, "len": 30, "sec": 0.05, "timeout": false, "cost": 34, "bwc": 320006, "fitness": 1.0}
+{"i": 350, "n": 1, "len": 15, "sec": 27.44, "timeout": false, "cost": 23, "bwc": 170006, "fitness": 1.0}
+{"i": 351, "n": 1, "len": 26, "sec": 36.94, "timeout": false, "cost": 34, "bwc": 280006, "fitness": 1.0}
+{"i": 352, "n": 2, "len": 7, "sec": 2.68, "timeout": false, "cost": 15, "bwc": 90006, "fitness": 1.0}
+{"i": 353, "n": 1, "len": 18, "sec": 15.6, "timeout": false, "cost": 26, "bwc": 200006, "fitness": 1.0}
+{"i": 354, "n": 1, "len": 11, "sec": 114.81, "timeout": false, "cost": 20, "bwc": 130006, "fitness": 1.0}
+{"i": 355, "n": 1, "len": 25, "sec": 45.36, "timeout": false, "cost": 33, "bwc": 270006, "fitness": 1.0}
+{"i": 356, "n": 1, "len": 16, "sec": 19.09, "timeout": false, "cost": 24, "bwc": 180006, "fitness": 1.0}
+{"i": 357, "n": 3, "len": 8, "sec": 0.02, "timeout": false, "cost": 12, "bwc": 100006, "fitness": 1.0}
+{"i": 358, "n": 1, "len": 15, "sec": 3.04, "timeout": false, "cost": 23, "bwc": 170006, "fitness": 1.0}
+{"i": 359, "n": 1, "len": 22, "sec": 36.74, "timeout": false, "cost": 30, "bwc": 240006, "fitness": 1.0}
+{"i": 360, "n": 1, "len": 41, "sec": 120.06, "timeout": true}
+{"i": 361, "n": 1, "len": 14, "sec": 120.06, "timeout": true}
+{"i": 362, "n": 1, "len": 25, "sec": 37.96, "timeout": false, "cost": 33, "bwc": 270006, "fitness": 1.0}
+{"i": 363, "n": 1, "len": 19, "sec": 9.31, "timeout": false, "cost": 27, "bwc": 210006, "fitness": 1.0}
+{"i": 364, "n": 1, "len": 11, "sec": 7.01, "timeout": false, "cost": 19, "bwc": 130006, "fitness": 1.0}
+{"i": 365, "n": 1, "len": 12, "sec": 0.02, "timeout": false, "cost": 16, "bwc": 140006, "fitness": 1.0}
+{"i": 366, "n": 1, "len": 14, "sec": 8.17, "timeout": false, "cost": 22, "bwc": 160006, "fitness": 1.0}
+{"i": 367, "n": 1, "len": 22, "sec": 23.36, "timeout": false, "cost": 30, "bwc": 240006, "fitness": 1.0}
+{"i": 368, "n": 1, "len": 15, "sec": 2.57, "timeout": false, "cost": 23, "bwc": 170006, "fitness": 1.0}
+{"i": 369, "n": 2, "len": 7, "sec": 1.9, "timeout": false, "cost": 15, "bwc": 90006, "fitness": 1.0}
+{"i": 370, "n": 1, "len": 14, "sec": 15.53, "timeout": false, "cost": 22, "bwc": 160006, "fitness": 1.0}
+{"i": 371, "n": 1, "len": 11, "sec": 94.73, "timeout": false, "cost": 20, "bwc": 130006, "fitness": 1.0}
+{"i": 372, "n": 1, "len": 20, "sec": 9.37, "timeout": false, "cost": 28, "bwc": 220006, "fitness": 1.0}
+{"i": 373, "n": 1, "len": 18, "sec": 25.76, "timeout": false, "cost": 26, "bwc": 200006, "fitness": 1.0}
+{"i": 374, "n": 1, "len": 9, "sec": 72.1, "timeout": false, "cost": 18, "bwc": 110006, "fitness": 1.0}
+{"i": 375, "n": 3, "len": 6, "sec": 0.01, "timeout": false, "cost": 10, "bwc": 80006, "fitness": 1.0}
+{"i": 376, "n": 2, "len": 8, "sec": 0.02, "timeout": false, "cost": 12, "bwc": 100006, "fitness": 1.0}
+{"i": 377, "n": 1, "len": 11, "sec": 13.18, "timeout": false, "cost": 19, "bwc": 130006, "fitness": 1.0}
+{"i": 378, "n": 1, "len": 13, "sec": 12.47, "timeout": false, "cost": 21, "bwc": 150006, "fitness": 1.0}
+{"i": 379, "n": 1, "len": 18, "sec": 20.76, "timeout": false, "cost": 26, "bwc": 200006, "fitness": 1.0}
+{"i": 380, "n": 1, "len": 27, "sec": 5.25, "timeout": false, "cost": 35, "bwc": 290006, "fitness": 1.0}
+{"i": 381, "n": 1, "len": 20, "sec": 23.09, "timeout": false, "cost": 28, "bwc": 220006, "fitness": 1.0}
+{"i": 382, "n": 1, "len": 12, "sec": 0.02, "timeout": false, "cost": 16, "bwc": 140006, "fitness": 1.0}
+{"i": 383, "n": 1, "len": 10, "sec": 7.48, "timeout": false, "cost": 18, "bwc": 120006, "fitness": 1.0}
+{"i": 384, "n": 4, "len": 8, "sec": 0.01, "timeout": false, "cost": 12, "bwc": 100006, "fitness": 1.0}
+{"i": 385, "n": 1, "len": 19, "sec": 4.61, "timeout": false, "cost": 27, "bwc": 210006, "fitness": 1.0}
+{"i": 386, "n": 1, "len": 5, "sec": 2.57, "timeout": false, "cost": 13, "bwc": 70006, "fitness": 1.0}
+{"i": 387, "n": 3, "len": 8, "sec": 3.93, "timeout": false, "cost": 16, "bwc": 100006, "fitness": 1.0}
+{"i": 388, "n": 1, "len": 16, "sec": 9.3, "timeout": false, "cost": 24, "bwc": 180006, "fitness": 1.0}
+{"i": 389, "n": 1, "len": 25, "sec": 4.18, "timeout": false, "cost": 33, "bwc": 270006, "fitness": 1.0}
+{"i": 390, "n": 1, "len": 10, "sec": 8.36, "timeout": false, "cost": 18, "bwc": 120006, "fitness": 1.0}
+{"i": 391, "n": 1, "len": 32, "sec": 21.64, "timeout": false, "cost": 40, "bwc": 340006, "fitness": 1.0}
+{"i": 392, "n": 1, "len": 16, "sec": 120.05, "timeout": true}
+{"i": 393, "n": 1, "len": 16, "sec": 0.02, "timeout": false, "cost": 20, "bwc": 180006, "fitness": 1.0}
+{"i": 394, "n": 1, "len": 17, "sec": 22.97, "timeout": false, "cost": 25, "bwc": 190006, "fitness": 1.0}
+{"i": 395, "n": 4, "len": 6, "sec": 1.84, "timeout": false, "cost": 14, "bwc": 80006, "fitness": 1.0}
+{"i": 396, "n": 1, "len": 10, "sec": 9.75, "timeout": false, "cost": 18, "bwc": 120006, "fitness": 1.0}
+{"i": 397, "n": 1, "len": 11, "sec": 9.8, "timeout": false, "cost": 19, "bwc": 130006, "fitness": 1.0}
+{"i": 398, "n": 1, "len": 22, "sec": 120.06, "timeout": true}
+{"i": 399, "n": 2, "len": 7, "sec": 5.79, "timeout": false, "cost": 15, "bwc": 90006, "fitness": 1.0}
+{"i": 400, "n": 1, "len": 16, "sec": 17.42, "timeout": false, "cost": 24, "bwc": 180006, "fitness": 1.0}
+{"i": 401, "n": 1, "len": 11, "sec": 8.25, "timeout": false, "cost": 20, "bwc": 130006, "fitness": 1.0}
+{"i": 402, "n": 1, "len": 27, "sec": 21.96, "timeout": false, "cost": 35, "bwc": 290006, "fitness": 1.0}
+{"i": 403, "n": 1, "len": 7, "sec": 51.01, "timeout": false, "cost": 16, "bwc": 90006, "fitness": 1.0}
+{"i": 404, "n": 1, "len": 24, "sec": 0.02, "timeout": false, "cost": 28, "bwc": 260006, "fitness": 1.0}
+{"i": 405, "n": 1, "len": 26, "sec": 42.29, "timeout": false, "cost": 34, "bwc": 280006, "fitness": 1.0}
+{"i": 406, "n": 1, "len": 7, "sec": 0.02, "timeout": false, "cost": 11, "bwc": 90006, "fitness": 1.0}
+{"i": 407, "n": 2, "len": 10, "sec": 7.52, "timeout": false, "cost": 18, "bwc": 120006, "fitness": 1.0}
+{"i": 408, "n": 1, "len": 15, "sec": 120.06, "timeout": true}
+{"i": 409, "n": 1, "len": 9, "sec": 0.02, "timeout": false, "cost": 13, "bwc": 110006, "fitness": 1.0}
+{"i": 410, "n": 1, "len": 12, "sec": 11.79, "timeout": false, "cost": 20, "bwc": 140006, "fitness": 1.0}
+{"i": 411, "n": 1, "len": 12, "sec": 17.44, "timeout": false, "cost": 20, "bwc": 140006, "fitness": 1.0}
+{"i": 412, "n": 1, "len": 11, "sec": 10.47, "timeout": false, "cost": 19, "bwc": 130006, "fitness": 1.0}
+{"i": 413, "n": 1, "len": 15, "sec": 16.53, "timeout": false, "cost": 23, "bwc": 170006, "fitness": 1.0}
+{"i": 414, "n": 1, "len": 18, "sec": 120.06, "timeout": true}
+{"i": 415, "n": 1, "len": 17, "sec": 120.06, "timeout": true}
+{"i": 416, "n": 1, "len": 22, "sec": 25.75, "timeout": false, "cost": 30, "bwc": 240006, "fitness": 1.0}
+{"i": 417, "n": 1, "len": 34, "sec": 32.68, "timeout": false, "cost": 42, "bwc": 360006, "fitness": 1.0}
+{"i": 418, "n": 2, "len": 9, "sec": 7.42, "timeout": false, "cost": 17, "bwc": 110006, "fitness": 1.0}
+{"i": 419, "n": 1, "len": 20, "sec": 0.18, "timeout": false, "cost": 24, "bwc": 220006, "fitness": 1.0}
+{"i": 420, "n": 1, "len": 13, "sec": 17.53, "timeout": false, "cost": 21, "bwc": 150006, "fitness": 1.0}
+{"i": 421, "n": 1, "len": 10, "sec": 98.3, "timeout": false, "cost": 19, "bwc": 120006, "fitness": 1.0}
+{"i": 422, "n": 10, "len": 10, "sec": 0.02, "timeout": false, "cost": 14, "bwc": 120006, "fitness": 1.0}
+{"i": 423, "n": 1, "len": 46, "sec": 32.79, "timeout": false, "cost": 54, "bwc": 480006, "fitness": 1.0}
+{"i": 424, "n": 1, "len": 15, "sec": 120.05, "timeout": true}
+{"i": 425, "n": 3, "len": 8, "sec": 0.02, "timeout": false, "cost": 12, "bwc": 100006, "fitness": 1.0}
+{"i": 426, "n": 1, "len": 12, "sec": 10.34, "timeout": false, "cost": 20, "bwc": 140006, "fitness": 1.0}
+{"i": 427, "n": 1, "len": 12, "sec": 12.65, "timeout": false, "cost": 20, "bwc": 140006, "fitness": 1.0}
+{"i": 428, "n": 1, "len": 30, "sec": 120.06, "timeout": true}
+{"i": 429, "n": 1, "len": 18, "sec": 18.15, "timeout": false, "cost": 26, "bwc": 200006, "fitness": 1.0}
+{"i": 430, "n": 1, "len": 10, "sec": 5.03, "timeout": false, "cost": 18, "bwc": 120006, "fitness": 1.0}
+{"i": 431, "n": 1, "len": 16, "sec": 17.73, "timeout": false, "cost": 25, "bwc": 180006, "fitness": 1.0}
+{"i": 432, "n": 1, "len": 9, "sec": 91.07, "timeout": false, "cost": 18, "bwc": 110006, "fitness": 1.0}
+{"i": 433, "n": 1, "len": 14, "sec": 0.02, "timeout": false, "cost": 18, "bwc": 160006, "fitness": 1.0}
+{"i": 434, "n": 1, "len": 12, "sec": 0.02, "timeout": false, "cost": 16, "bwc": 140006, "fitness": 1.0}
+{"i": 435, "n": 1, "len": 24, "sec": 120.05, "timeout": true}
+{"i": 436, "n": 2, "len": 10, "sec": 9.92, "timeout": false, "cost": 18, "bwc": 120006, "fitness": 1.0}
+{"i": 437, "n": 1, "len": 25, "sec": 120.09, "timeout": true}
+{"i": 438, "n": 1, "len": 14, "sec": 20.99, "timeout": false, "cost": 22, "bwc": 160006, "fitness": 1.0}
+{"i": 439, "n": 1, "len": 20, "sec": 11.2, "timeout": false, "cost": 28, "bwc": 220006, "fitness": 1.0}
+{"i": 440, "n": 1, "len": 9, "sec": 6.69, "timeout": false, "cost": 17, "bwc": 110006, "fitness": 1.0}
+{"i": 441, "n": 1, "len": 7, "sec": 5.49, "timeout": false, "cost": 15, "bwc": 90006, "fitness": 1.0}
+{"i": 442, "n": 2, "len": 8, "sec": 4.51, "timeout": false, "cost": 16, "bwc": 100006, "fitness": 1.0}
+{"i": 443, "n": 1, "len": 16, "sec": 120.08, "timeout": true}
+{"i": 444, "n": 1, "len": 15, "sec": 9.46, "timeout": false, "cost": 23, "bwc": 170006, "fitness": 1.0}
+{"i": 445, "n": 1, "len": 20, "sec": 13.1, "timeout": false, "cost": 28, "bwc": 220006, "fitness": 1.0}
+{"i": 446, "n": 2, "len": 7, "sec": 48.06, "timeout": false, "cost": 16, "bwc": 90006, "fitness": 1.0}
+{"i": 447, "n": 1, "len": 15, "sec": 21.63, "timeout": false, "cost": 23, "bwc": 170006, "fitness": 1.0}
+{"i": 448, "n": 1, "len": 19, "sec": 120.05, "timeout": true}
+{"i": 449, "n": 1, "len": 9, "sec": 0.02, "timeout": false, "cost": 13, "bwc": 110006, "fitness": 1.0}
+{"i": 450, "n": 2, "len": 7, "sec": 5.67, "timeout": false, "cost": 15, "bwc": 90006, "fitness": 1.0}
+{"i": 451, "n": 1, "len": 10, "sec": 2.04, "timeout": false, "cost": 18, "bwc": 120006, "fitness": 1.0}
+{"i": 452, "n": 1, "len": 7, "sec": 0.02, "timeout": false, "cost": 11, "bwc": 90006, "fitness": 1.0}
+{"i": 453, "n": 2, "len": 6, "sec": 14.8, "timeout": false, "cost": 15, "bwc": 80006, "fitness": 1.0}
+{"i": 454, "n": 1, "len": 6, "sec": 6.55, "timeout": false, "cost": 15, "bwc": 80006, "fitness": 1.0}
+{"i": 455, "n": 1, "len": 15, "sec": 120.05, "timeout": true}
+{"i": 456, "n": 1, "len": 15, "sec": 12.54, "timeout": false, "cost": 23, "bwc": 170006, "fitness": 1.0}
+{"i": 457, "n": 1, "len": 12, "sec": 13.42, "timeout": false, "cost": 20, "bwc": 140006, "fitness": 1.0}
+{"i": 458, "n": 1, "len": 25, "sec": 29.54, "timeout": false, "cost": 33, "bwc": 270006, "fitness": 1.0}
+{"i": 459, "n": 1, "len": 10, "sec": 3.17, "timeout": false, "cost": 18, "bwc": 120006, "fitness": 1.0}
+{"i": 460, "n": 1, "len": 12, "sec": 7.32, "timeout": false, "cost": 20, "bwc": 140006, "fitness": 1.0}
+{"i": 461, "n": 1, "len": 16, "sec": 21.26, "timeout": false, "cost": 24, "bwc": 180006, "fitness": 1.0}
+{"i": 462, "n": 1, "len": 29, "sec": 52.45, "timeout": false, "cost": 37, "bwc": 310006, "fitness": 1.0}
+{"i": 463, "n": 1, "len": 9, "sec": 8.67, "timeout": false, "cost": 17, "bwc": 110006, "fitness": 1.0}
+{"i": 464, "n": 1, "len": 15, "sec": 23.24, "timeout": false, "cost": 23, "bwc": 170006, "fitness": 1.0}
+{"i": 465, "n": 1, "len": 13, "sec": 120.04, "timeout": true}
+{"i": 466, "n": 1, "len": 17, "sec": 120.05, "timeout": true}
+{"i": 467, "n": 1, "len": 10, "sec": 110.45, "timeout": false, "cost": 19, "bwc": 120006, "fitness": 1.0}
+{"i": 468, "n": 1, "len": 19, "sec": 54.51, "timeout": false, "cost": 28, "bwc": 210006, "fitness": 1.0}
+{"i": 469, "n": 1, "len": 12, "sec": 0.02, "timeout": false, "cost": 16, "bwc": 140006, "fitness": 1.0}
+{"i": 470, "n": 1, "len": 10, "sec": 6.41, "timeout": false, "cost": 18, "bwc": 120006, "fitness": 1.0}
+{"i": 471, "n": 1, "len": 13, "sec": 7.62, "timeout": false, "cost": 21, "bwc": 150006, "fitness": 1.0}
+{"i": 472, "n": 1, "len": 13, "sec": 3.51, "timeout": false, "cost": 21, "bwc": 150006, "fitness": 1.0}
+{"i": 473, "n": 1, "len": 7, "sec": 0.02, "timeout": false, "cost": 11, "bwc": 90006, "fitness": 1.0}
+{"i": 474, "n": 1, "len": 20, "sec": 36.68, "timeout": false, "cost": 28, "bwc": 220006, "fitness": 1.0}
+{"i": 475, "n": 1, "len": 12, "sec": 70.33, "timeout": false, "cost": 21, "bwc": 140006, "fitness": 1.0}
+{"i": 476, "n": 1, "len": 10, "sec": 120.05, "timeout": true}
+{"i": 477, "n": 1, "len": 18, "sec": 19.17, "timeout": false, "cost": 26, "bwc": 200006, "fitness": 1.0}
+{"i": 478, "n": 1, "len": 15, "sec": 15.4, "timeout": false, "cost": 23, "bwc": 170006, "fitness": 1.0}
+{"i": 479, "n": 1, "len": 35, "sec": 86.04, "timeout": false, "cost": 43, "bwc": 370006, "fitness": 1.0}
+{"i": 480, "n": 1, "len": 18, "sec": 10.68, "timeout": false, "cost": 26, "bwc": 200006, "fitness": 1.0}
+{"i": 481, "n": 1, "len": 14, "sec": 4.7, "timeout": false, "cost": 22, "bwc": 160006, "fitness": 1.0}
+{"i": 482, "n": 1, "len": 14, "sec": 0.02, "timeout": false, "cost": 18, "bwc": 160006, "fitness": 1.0}
+{"i": 483, "n": 1, "len": 13, "sec": 8.72, "timeout": false, "cost": 21, "bwc": 150006, "fitness": 1.0}
+{"i": 484, "n": 1, "len": 30, "sec": 120.07, "timeout": true}
+{"i": 485, "n": 1, "len": 10, "sec": 0.02, "timeout": false, "cost": 14, "bwc": 120006, "fitness": 1.0}
+{"i": 486, "n": 1, "len": 9, "sec": 0.02, "timeout": false, "cost": 13, "bwc": 110006, "fitness": 1.0}
+{"i": 487, "n": 4, "len": 10, "sec": 8.31, "timeout": false, "cost": 18, "bwc": 120006, "fitness": 1.0}
+{"i": 488, "n": 1, "len": 7, "sec": 54.91, "timeout": false, "cost": 16, "bwc": 90006, "fitness": 1.0}
+{"i": 489, "n": 1, "len": 9, "sec": 6.98, "timeout": false, "cost": 17, "bwc": 110006, "fitness": 1.0}
+{"i": 490, "n": 1, "len": 12, "sec": 2.96, "timeout": false, "cost": 20, "bwc": 140006, "fitness": 1.0}
+{"i": 491, "n": 1, "len": 25, "sec": 8.44, "timeout": false, "cost": 33, "bwc": 270006, "fitness": 1.0}
+{"i": 492, "n": 1, "len": 44, "sec": 16.57, "timeout": false, "cost": 52, "bwc": 460006, "fitness": 1.0}
+{"i": 493, "n": 1, "len": 11, "sec": 120.06, "timeout": true}
+{"i": 494, "n": 3, "len": 14, "sec": 0.02, "timeout": false, "cost": 18, "bwc": 160006, "fitness": 1.0}
+{"i": 495, "n": 1, "len": 28, "sec": 24.07, "timeout": false, "cost": 36, "bwc": 300006, "fitness": 1.0}
+{"i": 496, "n": 1, "len": 11, "sec": 8.19, "timeout": false, "cost": 19, "bwc": 130006, "fitness": 1.0}
+{"i": 497, "n": 1, "len": 14, "sec": 120.06, "timeout": true}
+{"i": 498, "n": 1, "len": 17, "sec": 120.05, "timeout": true}
+{"i": 499, "n": 1, "len": 10, "sec": 8.61, "timeout": false, "cost": 18, "bwc": 120006, "fitness": 1.0}
+{"i": 500, "n": 1, "len": 55, "sec": 120.05, "timeout": true}
+{"i": 501, "n": 1, "len": 9, "sec": 6.59, "timeout": false, "cost": 17, "bwc": 110006, "fitness": 1.0}
+{"i": 502, "n": 5, "len": 8, "sec": 7.57, "timeout": false, "cost": 16, "bwc": 100006, "fitness": 1.0}
+{"i": 503, "n": 1, "len": 9, "sec": 6.65, "timeout": false, "cost": 17, "bwc": 110006, "fitness": 1.0}
+{"i": 504, "n": 1, "len": 25, "sec": 120.05, "timeout": true}
+{"i": 505, "n": 4, "len": 10, "sec": 0.04, "timeout": false, "cost": 14, "bwc": 120006, "fitness": 1.0}
+{"i": 506, "n": 1, "len": 13, "sec": 120.04, "timeout": true}
+{"i": 507, "n": 1, "len": 16, "sec": 0.02, "timeout": false, "cost": 20, "bwc": 180006, "fitness": 1.0}
+{"i": 508, "n": 1, "len": 9, "sec": 3.15, "timeout": false, "cost": 17, "bwc": 110006, "fitness": 1.0}
+{"i": 509, "n": 1, "len": 24, "sec": 120.06, "timeout": true}
+{"i": 510, "n": 1, "len": 9, "sec": 83.54, "timeout": false, "cost": 18, "bwc": 110006, "fitness": 1.0}
+{"i": 511, "n": 1, "len": 21, "sec": 16.61, "timeout": false, "cost": 29, "bwc": 230006, "fitness": 1.0}
+{"i": 512, "n": 1, "len": 12, "sec": 19.87, "timeout": false, "cost": 20, "bwc": 140006, "fitness": 1.0}
+{"i": 513, "n": 1, "len": 10, "sec": 3.8, "timeout": false, "cost": 18, "bwc": 120006, "fitness": 1.0}
+{"i": 514, "n": 1, "len": 10, "sec": 4.46, "timeout": false, "cost": 18, "bwc": 120006, "fitness": 1.0}
+{"i": 515, "n": 1, "len": 11, "sec": 26.66, "timeout": false, "cost": 20, "bwc": 130006, "fitness": 1.0}
+{"i": 516, "n": 1, "len": 11, "sec": 9.24, "timeout": false, "cost": 19, "bwc": 130006, "fitness": 1.0}
+{"i": 517, "n": 1, "len": 18, "sec": 0.02, "timeout": false, "cost": 22, "bwc": 200006, "fitness": 1.0}
+{"i": 518, "n": 1, "len": 10, "sec": 108.99, "timeout": false, "cost": 19, "bwc": 120006, "fitness": 1.0}
+{"i": 519, "n": 1, "len": 16, "sec": 120.05, "timeout": true}
+{"i": 520, "n": 1, "len": 20, "sec": 21.99, "timeout": false, "cost": 28, "bwc": 220006, "fitness": 1.0}
+{"i": 521, "n": 1, "len": 16, "sec": 68.64, "timeout": false, "cost": 25, "bwc": 180006, "fitness": 1.0}
+{"i": 522, "n": 1, "len": 12, "sec": 81.79, "timeout": false, "cost": 21, "bwc": 140006, "fitness": 1.0}
+{"i": 523, "n": 1, "len": 21, "sec": 120.06, "timeout": true}
+{"i": 524, "n": 1, "len": 9, "sec": 10.52, "timeout": false, "cost": 17, "bwc": 110006, "fitness": 1.0}
+{"i": 525, "n": 1, "len": 10, "sec": 10.04, "timeout": false, "cost": 18, "bwc": 120006, "fitness": 1.0}
+{"i": 526, "n": 4, "len": 6, "sec": 0.02, "timeout": false, "cost": 10, "bwc": 80006, "fitness": 1.0}
+{"i": 527, "n": 1, "len": 12, "sec": 113.81, "timeout": false, "cost": 21, "bwc": 140006, "fitness": 1.0}
+{"i": 528, "n": 1, "len": 14, "sec": 11.26, "timeout": false, "cost": 22, "bwc": 160006, "fitness": 1.0}
+{"i": 529, "n": 1, "len": 14, "sec": 120.06, "timeout": true}
+{"i": 530, "n": 1, "len": 14, "sec": 4.83, "timeout": false, "cost": 22, "bwc": 160006, "fitness": 1.0}
+{"i": 531, "n": 1, "len": 18, "sec": 0.05, "timeout": false, "cost": 22, "bwc": 200006, "fitness": 1.0}
+{"i": 532, "n": 2, "len": 12, "sec": 0.02, "timeout": false, "cost": 16, "bwc": 140006, "fitness": 1.0}
+{"i": 533, "n": 1, "len": 21, "sec": 33.9, "timeout": false, "cost": 29, "bwc": 230006, "fitness": 1.0}
+{"i": 534, "n": 1, "len": 40, "sec": 117.01, "timeout": false, "cost": 48, "bwc": 420006, "fitness": 1.0}
+{"i": 535, "n": 1, "len": 12, "sec": 2.73, "timeout": false, "cost": 20, "bwc": 140006, "fitness": 1.0}
+{"i": 536, "n": 1, "len": 14, "sec": 0.02, "timeout": false, "cost": 18, "bwc": 160006, "fitness": 1.0}
+{"i": 537, "n": 1, "len": 13, "sec": 0.02, "timeout": false, "cost": 17, "bwc": 150006, "fitness": 1.0}
+{"i": 538, "n": 1, "len": 15, "sec": 11.03, "timeout": false, "cost": 23, "bwc": 170006, "fitness": 1.0}
+{"i": 539, "n": 1, "len": 9, "sec": 0.02, "timeout": false, "cost": 13, "bwc": 110006, "fitness": 1.0}
+{"i": 540, "n": 1, "len": 11, "sec": 10.52, "timeout": false, "cost": 20, "bwc": 130006, "fitness": 1.0}
+{"i": 541, "n": 1, "len": 10, "sec": 8.7, "timeout": false, "cost": 18, "bwc": 120006, "fitness": 1.0}
+{"i": 542, "n": 1, "len": 15, "sec": 8.83, "timeout": false, "cost": 23, "bwc": 170006, "fitness": 1.0}
+{"i": 543, "n": 1, "len": 5, "sec": 25.57, "timeout": false, "cost": 14, "bwc": 70006, "fitness": 1.0}
+{"i": 544, "n": 1, "len": 9, "sec": 0.02, "timeout": false, "cost": 13, "bwc": 110006, "fitness": 1.0}
+{"i": 545, "n": 1, "len": 8, "sec": 59.75, "timeout": false, "cost": 17, "bwc": 100006, "fitness": 1.0}
+{"i": 546, "n": 1, "len": 12, "sec": 12.97, "timeout": false, "cost": 20, "bwc": 140006, "fitness": 1.0}
+{"i": 547, "n": 1, "len": 8, "sec": 0.02, "timeout": false, "cost": 12, "bwc": 100006, "fitness": 1.0}
+{"i": 548, "n": 1, "len": 9, "sec": 66.11, "timeout": false, "cost": 18, "bwc": 110006, "fitness": 1.0}
+{"i": 549, "n": 1, "len": 15, "sec": 120.06, "timeout": true}
+{"i": 550, "n": 2, "len": 6, "sec": 35.61, "timeout": false, "cost": 15, "bwc": 80006, "fitness": 1.0}
+{"i": 551, "n": 1, "len": 11, "sec": 10.85, "timeout": false, "cost": 19, "bwc": 130006, "fitness": 1.0}
+{"i": 552, "n": 1, "len": 10, "sec": 0.02, "timeout": false, "cost": 14, "bwc": 120006, "fitness": 1.0}
+{"i": 553, "n": 1, "len": 10, "sec": 9.99, "timeout": false, "cost": 18, "bwc": 120006, "fitness": 1.0}
+{"i": 554, "n": 1, "len": 8, "sec": 0.02, "timeout": false, "cost": 12, "bwc": 100006, "fitness": 1.0}
+{"i": 555, "n": 1, "len": 37, "sec": 38.15, "timeout": false, "cost": 45, "bwc": 390006, "fitness": 1.0}
+{"i": 556, "n": 1, "len": 18, "sec": 0.02, "timeout": false, "cost": 22, "bwc": 200006, "fitness": 1.0}
+{"i": 557, "n": 1, "len": 8, "sec": 0.02, "timeout": false, "cost": 12, "bwc": 100006, "fitness": 1.0}
+{"i": 558, "n": 1, "len": 51, "sec": 69.88, "timeout": false, "cost": 59, "bwc": 530006, "fitness": 1.0}
+{"i": 559, "n": 1, "len": 16, "sec": 3.09, "timeout": false, "cost": 24, "bwc": 180006, "fitness": 1.0}
+{"i": 560, "n": 1, "len": 16, "sec": 120.06, "timeout": true}
+{"i": 561, "n": 1, "len": 23, "sec": 51.99, "timeout": false, "cost": 31, "bwc": 250006, "fitness": 1.0}
+{"i": 562, "n": 1, "len": 10, "sec": 13.87, "timeout": false, "cost": 18, "bwc": 120006, "fitness": 1.0}
+{"i": 563, "n": 1, "len": 11, "sec": 0.02, "timeout": false, "cost": 15, "bwc": 130006, "fitness": 1.0}
+{"i": 564, "n": 3, "len": 5, "sec": 0.02, "timeout": false, "cost": 9, "bwc": 70006, "fitness": 1.0}
+{"i": 565, "n": 1, "len": 24, "sec": 29.75, "timeout": false, "cost": 32, "bwc": 260006, "fitness": 1.0}
+{"i": 566, "n": 1, "len": 11, "sec": 10.79, "timeout": false, "cost": 19, "bwc": 130006, "fitness": 1.0}
+{"i": 567, "n": 2, "len": 6, "sec": 2.19, "timeout": false, "cost": 14, "bwc": 80006, "fitness": 1.0}
+{"i": 568, "n": 1, "len": 12, "sec": 7.05, "timeout": false, "cost": 20, "bwc": 140006, "fitness": 1.0}
+{"i": 569, "n": 1, "len": 11, "sec": 12.11, "timeout": false, "cost": 20, "bwc": 130006, "fitness": 1.0}
+{"i": 570, "n": 1, "len": 23, "sec": 20.54, "timeout": false, "cost": 31, "bwc": 250006, "fitness": 1.0}
+{"i": 571, "n": 1, "len": 16, "sec": 25.83, "timeout": false, "cost": 24, "bwc": 180006, "fitness": 1.0}
+{"i": 572, "n": 1, "len": 18, "sec": 15.68, "timeout": false, "cost": 26, "bwc": 200006, "fitness": 1.0}
+{"i": 573, "n": 1, "len": 18, "sec": 0.09, "timeout": false, "cost": 22, "bwc": 200006, "fitness": 1.0}
+{"i": 574, "n": 1, "len": 18, "sec": 5.2, "timeout": false, "cost": 26, "bwc": 200006, "fitness": 1.0}
+{"i": 575, "n": 1, "len": 14, "sec": 0.05, "timeout": false, "cost": 18, "bwc": 160006, "fitness": 1.0}
+{"i": 576, "n": 1, "len": 13, "sec": 8.72, "timeout": false, "cost": 21, "bwc": 150006, "fitness": 1.0}
+{"i": 577, "n": 1, "len": 26, "sec": 0.03, "timeout": false, "cost": 30, "bwc": 280006, "fitness": 1.0}
+{"i": 578, "n": 1, "len": 8, "sec": 4.6, "timeout": false, "cost": 16, "bwc": 100006, "fitness": 1.0}
+{"i": 579, "n": 1, "len": 10, "sec": 7.72, "timeout": false, "cost": 18, "bwc": 120006, "fitness": 1.0}
+{"i": 580, "n": 1, "len": 18, "sec": 32.48, "timeout": false, "cost": 26, "bwc": 200006, "fitness": 1.0}
+{"i": 581, "n": 1, "len": 10, "sec": 0.02, "timeout": false, "cost": 14, "bwc": 120006, "fitness": 1.0}
+{"i": 582, "n": 1, "len": 14, "sec": 12.13, "timeout": false, "cost": 22, "bwc": 160006, "fitness": 1.0}
+{"i": 583, "n": 1, "len": 18, "sec": 17.83, "timeout": false, "cost": 26, "bwc": 200006, "fitness": 1.0}
+{"i": 584, "n": 1, "len": 12, "sec": 12.52, "timeout": false, "cost": 20, "bwc": 140006, "fitness": 1.0}
+{"i": 585, "n": 1, "len": 13, "sec": 17.22, "timeout": false, "cost": 22, "bwc": 150006, "fitness": 1.0}
+{"i": 586, "n": 1, "len": 19, "sec": 22.83, "timeout": false, "cost": 27, "bwc": 210006, "fitness": 1.0}
+{"i": 587, "n": 1, "len": 21, "sec": 3.66, "timeout": false, "cost": 29, "bwc": 230006, "fitness": 1.0}
+{"i": 588, "n": 1, "len": 10, "sec": 0.02, "timeout": false, "cost": 14, "bwc": 120006, "fitness": 1.0}
+{"i": 589, "n": 1, "len": 18, "sec": 21.15, "timeout": false, "cost": 26, "bwc": 200006, "fitness": 1.0}
+{"i": 590, "n": 2, "len": 10, "sec": 0.12, "timeout": false, "cost": 14, "bwc": 120006, "fitness": 1.0}
+{"i": 591, "n": 1, "len": 30, "sec": 0.05, "timeout": false, "cost": 34, "bwc": 320006, "fitness": 1.0}
+{"i": 592, "n": 1, "len": 10, "sec": 13.09, "timeout": false, "cost": 18, "bwc": 120006, "fitness": 1.0}
+{"i": 593, "n": 3, "len": 11, "sec": 0.16, "timeout": false, "cost": 15, "bwc": 130006, "fitness": 1.0}
+{"i": 594, "n": 1, "len": 15, "sec": 11.89, "timeout": false, "cost": 23, "bwc": 170006, "fitness": 1.0}
+{"i": 595, "n": 1, "len": 10, "sec": 0.02, "timeout": false, "cost": 14, "bwc": 120006, "fitness": 1.0}
+{"i": 596, "n": 1, "len": 8, "sec": 0.02, "timeout": false, "cost": 12, "bwc": 100006, "fitness": 1.0}
+{"i": 597, "n": 1, "len": 11, "sec": 0.02, "timeout": false, "cost": 15, "bwc": 130006, "fitness": 1.0}
+{"i": 598, "n": 1, "len": 15, "sec": 9.23, "timeout": false, "cost": 23, "bwc": 170006, "fitness": 1.0}
+{"i": 599, "n": 1, "len": 16, "sec": 6.24, "timeout": false, "cost": 24, "bwc": 180006, "fitness": 1.0}
+{"i": 600, "n": 1, "len": 8, "sec": 4.87, "timeout": false, "cost": 16, "bwc": 100006, "fitness": 1.0}
+{"i": 601, "n": 1, "len": 18, "sec": 8.85, "timeout": false, "cost": 26, "bwc": 200006, "fitness": 1.0}
+{"i": 602, "n": 1, "len": 7, "sec": 0.02, "timeout": false, "cost": 11, "bwc": 90006, "fitness": 1.0}
+{"i": 603, "n": 1, "len": 15, "sec": 26.91, "timeout": false, "cost": 23, "bwc": 170006, "fitness": 1.0}
+{"i": 604, "n": 1, "len": 20, "sec": 120.08, "timeout": true}
+{"i": 605, "n": 1, "len": 11, "sec": 0.02, "timeout": false, "cost": 15, "bwc": 130006, "fitness": 1.0}
+{"i": 606, "n": 2, "len": 10, "sec": 0.02, "timeout": false, "cost": 14, "bwc": 120006, "fitness": 1.0}
+{"i": 607, "n": 1, "len": 19, "sec": 87.84, "timeout": false, "cost": 28, "bwc": 210006, "fitness": 1.0}
+{"i": 608, "n": 1, "len": 10, "sec": 98.1, "timeout": false, "cost": 19, "bwc": 120006, "fitness": 1.0}
+{"i": 609, "n": 1, "len": 8, "sec": 5.33, "timeout": false, "cost": 16, "bwc": 100006, "fitness": 1.0}
+{"i": 610, "n": 1, "len": 22, "sec": 5.73, "timeout": false, "cost": 30, "bwc": 240006, "fitness": 1.0}
+{"i": 611, "n": 1, "len": 11, "sec": 120.05, "timeout": true}
+{"i": 612, "n": 1, "len": 7, "sec": 46.41, "timeout": false, "cost": 16, "bwc": 90006, "fitness": 1.0}
+{"i": 613, "n": 2, "len": 12, "sec": 16.64, "timeout": false, "cost": 20, "bwc": 140006, "fitness": 1.0}
+{"i": 614, "n": 1, "len": 12, "sec": 6.94, "timeout": false, "cost": 20, "bwc": 140006, "fitness": 1.0}
+{"i": 615, "n": 1, "len": 9, "sec": 3.83, "timeout": false, "cost": 17, "bwc": 110006, "fitness": 1.0}
+{"i": 616, "n": 2, "len": 9, "sec": 97.96, "timeout": false, "cost": 18, "bwc": 110006, "fitness": 1.0}
+{"i": 617, "n": 1, "len": 17, "sec": 11.01, "timeout": false, "cost": 25, "bwc": 190006, "fitness": 1.0}
+{"i": 618, "n": 1, "len": 13, "sec": 3.42, "timeout": false, "cost": 21, "bwc": 150006, "fitness": 1.0}
+{"i": 619, "n": 1, "len": 10, "sec": 7.46, "timeout": false, "cost": 18, "bwc": 120006, "fitness": 1.0}
+{"i": 620, "n": 4, "len": 14, "sec": 0.03, "timeout": false, "cost": 18, "bwc": 160006, "fitness": 1.0}
+{"i": 621, "n": 1, "len": 16, "sec": 20.31, "timeout": false, "cost": 24, "bwc": 180006, "fitness": 1.0}
+{"i": 622, "n": 1, "len": 16, "sec": 4.4, "timeout": false, "cost": 24, "bwc": 180006, "fitness": 1.0}
+{"i": 623, "n": 1, "len": 17, "sec": 120.08, "timeout": true}
+{"i": 624, "n": 1, "len": 10, "sec": 2.8, "timeout": false, "cost": 18, "bwc": 120006, "fitness": 1.0}
+{"i": 625, "n": 1, "len": 8, "sec": 25.55, "timeout": false, "cost": 17, "bwc": 100006, "fitness": 1.0}
+{"i": 626, "n": 1, "len": 12, "sec": 0.02, "timeout": false, "cost": 16, "bwc": 140006, "fitness": 1.0}
+{"i": 627, "n": 1, "len": 9, "sec": 8.33, "timeout": false, "cost": 10016, "bwc": 110006, "fitness": 0.9090909090909091}
+{"i": 628, "n": 1, "len": 12, "sec": 4.44, "timeout": false, "cost": 20, "bwc": 140006, "fitness": 1.0}
+{"i": 629, "n": 1, "len": 10, "sec": 9.31, "timeout": false, "cost": 18, "bwc": 120006, "fitness": 1.0}
+{"i": 630, "n": 1, "len": 9, "sec": 85.4, "timeout": false, "cost": 18, "bwc": 110006, "fitness": 1.0}
+{"i": 631, "n": 1, "len": 6, "sec": 27.75, "timeout": false, "cost": 15, "bwc": 80006, "fitness": 1.0}
+{"i": 632, "n": 2, "len": 10, "sec": 5.12, "timeout": false, "cost": 18, "bwc": 120006, "fitness": 1.0}
+{"i": 633, "n": 1, "len": 7, "sec": 0.02, "timeout": false, "cost": 11, "bwc": 90006, "fitness": 1.0}
+{"i": 634, "n": 1, "len": 15, "sec": 120.05, "timeout": true}
+{"i": 635, "n": 1, "len": 14, "sec": 0.03, "timeout": false, "cost": 18, "bwc": 160006, "fitness": 1.0}
+{"i": 636, "n": 1, "len": 16, "sec": 27.23, "timeout": false, "cost": 24, "bwc": 180006, "fitness": 1.0}
+{"i": 637, "n": 1, "len": 21, "sec": 5.95, "timeout": false, "cost": 29, "bwc": 230006, "fitness": 1.0}
+{"i": 638, "n": 1, "len": 8, "sec": 0.02, "timeout": false, "cost": 12, "bwc": 100006, "fitness": 1.0}
+{"i": 639, "n": 1, "len": 14, "sec": 15.25, "timeout": false, "cost": 22, "bwc": 160006, "fitness": 1.0}
+{"i": 640, "n": 1, "len": 9, "sec": 10.83, "timeout": false, "cost": 17, "bwc": 110006, "fitness": 1.0}
+{"i": 641, "n": 1, "len": 19, "sec": 26.23, "timeout": false, "cost": 27, "bwc": 210006, "fitness": 1.0}
+{"i": 642, "n": 1, "len": 18, "sec": 30.56, "timeout": false, "cost": 26, "bwc": 200006, "fitness": 1.0}
+{"i": 643, "n": 1, "len": 20, "sec": 26.64, "timeout": false, "cost": 28, "bwc": 220006, "fitness": 1.0}
+{"i": 644, "n": 1, "len": 7, "sec": 3.56, "timeout": false, "cost": 15, "bwc": 90006, "fitness": 1.0}
+{"i": 645, "n": 1, "len": 16, "sec": 120.06, "timeout": true}
+{"i": 646, "n": 1, "len": 7, "sec": 3.31, "timeout": false, "cost": 15, "bwc": 90006, "fitness": 1.0}
+{"i": 647, "n": 2, "len": 10, "sec": 5.29, "timeout": false, "cost": 18, "bwc": 120006, "fitness": 1.0}
+{"i": 648, "n": 1, "len": 14, "sec": 19.14, "timeout": false, "cost": 22, "bwc": 160006, "fitness": 1.0}
+{"i": 649, "n": 1, "len": 26, "sec": 20.88, "timeout": false, "cost": 34, "bwc": 280006, "fitness": 1.0}
+{"i": 650, "n": 1, "len": 28, "sec": 21.57, "timeout": false, "cost": 36, "bwc": 300006, "fitness": 1.0}
+{"i": 651, "n": 1, "len": 15, "sec": 40.06, "timeout": false, "cost": 24, "bwc": 170006, "fitness": 1.0}
+{"i": 652, "n": 1, "len": 16, "sec": 22.26, "timeout": false, "cost": 24, "bwc": 180006, "fitness": 1.0}
+{"i": 653, "n": 1, "len": 41, "sec": 120.04, "timeout": true}
+{"i": 654, "n": 1, "len": 10, "sec": 6.14, "timeout": false, "cost": 18, "bwc": 120006, "fitness": 1.0}
+{"i": 655, "n": 1, "len": 48, "sec": 18.54, "timeout": false, "cost": 56, "bwc": 500006, "fitness": 1.0}
+{"i": 656, "n": 1, "len": 20, "sec": 16.18, "timeout": false, "cost": 28, "bwc": 220006, "fitness": 1.0}
+{"i": 657, "n": 1, "len": 15, "sec": 23.58, "timeout": false, "cost": 23, "bwc": 170006, "fitness": 1.0}
+{"i": 658, "n": 1, "len": 10, "sec": 0.02, "timeout": false, "cost": 14, "bwc": 120006, "fitness": 1.0}
+{"i": 659, "n": 2, "len": 8, "sec": 76.12, "timeout": false, "cost": 17, "bwc": 100006, "fitness": 1.0}
+{"i": 660, "n": 1, "len": 12, "sec": 120.05, "timeout": true}
+{"i": 661, "n": 1, "len": 15, "sec": 15.55, "timeout": false, "cost": 23, "bwc": 170006, "fitness": 1.0}
+{"i": 662, "n": 1, "len": 15, "sec": 10.95, "timeout": false, "cost": 24, "bwc": 170006, "fitness": 1.0}
+{"i": 663, "n": 1, "len": 26, "sec": 10.88, "timeout": false, "cost": 34, "bwc": 280006, "fitness": 1.0}
+{"i": 664, "n": 1, "len": 13, "sec": 18.13, "timeout": false, "cost": 21, "bwc": 150006, "fitness": 1.0}
+{"i": 665, "n": 1, "len": 10, "sec": 9.3, "timeout": false, "cost": 18, "bwc": 120006, "fitness": 1.0}
+{"i": 666, "n": 2, "len": 10, "sec": 0.02, "timeout": false, "cost": 14, "bwc": 120006, "fitness": 1.0}
+{"i": 667, "n": 2, "len": 9, "sec": 0.03, "timeout": false, "cost": 13, "bwc": 110006, "fitness": 1.0}
+{"i": 668, "n": 1, "len": 34, "sec": 46.09, "timeout": false, "cost": 42, "bwc": 360006, "fitness": 1.0}
+{"i": 669, "n": 1, "len": 18, "sec": 9.92, "timeout": false, "cost": 26, "bwc": 200006, "fitness": 1.0}
+{"i": 670, "n": 1, "len": 12, "sec": 9.91, "timeout": false, "cost": 20, "bwc": 140006, "fitness": 1.0}
+{"i": 671, "n": 1, "len": 14, "sec": 4.41, "timeout": false, "cost": 22, "bwc": 160006, "fitness": 1.0}
+{"i": 672, "n": 1, "len": 20, "sec": 36.03, "timeout": false, "cost": 28, "bwc": 220006, "fitness": 1.0}
+{"i": 673, "n": 1, "len": 19, "sec": 8.41, "timeout": false, "cost": 27, "bwc": 210006, "fitness": 1.0}
+{"i": 674, "n": 1, "len": 28, "sec": 52.19, "timeout": false, "cost": 36, "bwc": 300006, "fitness": 1.0}
+{"i": 675, "n": 1, "len": 23, "sec": 29.92, "timeout": false, "cost": 31, "bwc": 250006, "fitness": 1.0}
+{"i": 676, "n": 1, "len": 15, "sec": 9.37, "timeout": false, "cost": 23, "bwc": 170006, "fitness": 1.0}
+{"i": 677, "n": 1, "len": 8, "sec": 0.02, "timeout": false, "cost": 12, "bwc": 100006, "fitness": 1.0}
+{"i": 678, "n": 1, "len": 12, "sec": 120.05, "timeout": true}
+{"i": 679, "n": 1, "len": 19, "sec": 36.39, "timeout": false, "cost": 27, "bwc": 210006, "fitness": 1.0}
+{"i": 680, "n": 1, "len": 7, "sec": 6.26, "timeout": false, "cost": 15, "bwc": 90006, "fitness": 1.0}
+{"i": 681, "n": 1, "len": 24, "sec": 41.24, "timeout": false, "cost": 32, "bwc": 260006, "fitness": 1.0}
+{"i": 682, "n": 1, "len": 27, "sec": 40.15, "timeout": false, "cost": 35, "bwc": 290006, "fitness": 1.0}
+{"i": 683, "n": 1, "len": 9, "sec": 7.66, "timeout": false, "cost": 17, "bwc": 110006, "fitness": 1.0}
+{"i": 684, "n": 1, "len": 18, "sec": 32.29, "timeout": false, "cost": 26, "bwc": 200006, "fitness": 1.0}
+{"i": 685, "n": 1, "len": 9, "sec": 11.31, "timeout": false, "cost": 17, "bwc": 110006, "fitness": 1.0}
+{"i": 686, "n": 1, "len": 10, "sec": 8.3, "timeout": false, "cost": 18, "bwc": 120006, "fitness": 1.0}
+{"i": 687, "n": 1, "len": 18, "sec": 4.25, "timeout": false, "cost": 26, "bwc": 200006, "fitness": 1.0}
+{"i": 688, "n": 1, "len": 19, "sec": 21.53, "timeout": false, "cost": 27, "bwc": 210006, "fitness": 1.0}
+{"i": 689, "n": 1, "len": 36, "sec": 120.06, "timeout": true}
+{"i": 690, "n": 1, "len": 38, "sec": 120.06, "timeout": true}
+{"i": 691, "n": 1, "len": 19, "sec": 29.2, "timeout": false, "cost": 28, "bwc": 210006, "fitness": 1.0}
+{"i": 692, "n": 1, "len": 12, "sec": 9.71, "timeout": false, "cost": 20, "bwc": 140006, "fitness": 1.0}
+{"i": 693, "n": 1, "len": 20, "sec": 120.08, "timeout": true}
+{"i": 694, "n": 1, "len": 16, "sec": 120.05, "timeout": true}
+{"i": 695, "n": 1, "len": 10, "sec": 11.6, "timeout": false, "cost": 18, "bwc": 120006, "fitness": 1.0}
+{"i": 696, "n": 1, "len": 27, "sec": 7.08, "timeout": false, "cost": 35, "bwc": 290006, "fitness": 1.0}
+{"i": 697, "n": 1, "len": 15, "sec": 22.63, "timeout": false, "cost": 23, "bwc": 170006, "fitness": 1.0}
+{"i": 698, "n": 4, "len": 8, "sec": 8.28, "timeout": false, "cost": 16, "bwc": 100006, "fitness": 1.0}
+{"i": 699, "n": 1, "len": 25, "sec": 36.77, "timeout": false, "cost": 33, "bwc": 270006, "fitness": 1.0}
+{"i": 700, "n": 1, "len": 22, "sec": 17.1, "timeout": false, "cost": 30, "bwc": 240006, "fitness": 1.0}
+{"i": 701, "n": 1, "len": 22, "sec": 120.06, "timeout": true}
+{"i": 702, "n": 1, "len": 12, "sec": 7.23, "timeout": false, "cost": 20, "bwc": 140006, "fitness": 1.0}
+{"i": 703, "n": 1, "len": 7, "sec": 46.2, "timeout": false, "cost": 16, "bwc": 90006, "fitness": 1.0}
+{"i": 704, "n": 1, "len": 11, "sec": 5.72, "timeout": false, "cost": 19, "bwc": 130006, "fitness": 1.0}
+{"i": 705, "n": 1, "len": 23, "sec": 120.07, "timeout": true}
+{"i": 706, "n": 1, "len": 5, "sec": 6.48, "timeout": false, "cost": 14, "bwc": 70006, "fitness": 1.0}
+{"i": 707, "n": 2, "len": 10, "sec": 0.02, "timeout": false, "cost": 14, "bwc": 120006, "fitness": 1.0}
+{"i": 708, "n": 1, "len": 17, "sec": 9.48, "timeout": false, "cost": 25, "bwc": 190006, "fitness": 1.0}
+{"i": 709, "n": 1, "len": 14, "sec": 12.65, "timeout": false, "cost": 22, "bwc": 160006, "fitness": 1.0}
+{"i": 710, "n": 1, "len": 10, "sec": 0.02, "timeout": false, "cost": 14, "bwc": 120006, "fitness": 1.0}
+{"i": 711, "n": 1, "len": 24, "sec": 43.03, "timeout": false, "cost": 32, "bwc": 260006, "fitness": 1.0}
+{"i": 712, "n": 1, "len": 14, "sec": 120.06, "timeout": true}
+{"i": 713, "n": 1, "len": 22, "sec": 15.44, "timeout": false, "cost": 30, "bwc": 240006, "fitness": 1.0}
+{"i": 714, "n": 1, "len": 17, "sec": 120.06, "timeout": true}
+{"i": 715, "n": 1, "len": 52, "sec": 120.13, "timeout": true}
+{"i": 716, "n": 1, "len": 20, "sec": 0.04, "timeout": false, "cost": 24, "bwc": 220006, "fitness": 1.0}
+{"i": 717, "n": 1, "len": 9, "sec": 4.75, "timeout": false, "cost": 17, "bwc": 110006, "fitness": 1.0}
+{"i": 718, "n": 1, "len": 10, "sec": 0.02, "timeout": false, "cost": 14, "bwc": 120006, "fitness": 1.0}
+{"i": 719, "n": 1, "len": 25, "sec": 47.72, "timeout": false, "cost": 33, "bwc": 270006, "fitness": 1.0}
+{"i": 720, "n": 1, "len": 14, "sec": 14.64, "timeout": false, "cost": 23, "bwc": 160006, "fitness": 1.0}
+{"i": 721, "n": 1, "len": 11, "sec": 8.58, "timeout": false, "cost": 19, "bwc": 130006, "fitness": 1.0}
+{"i": 722, "n": 1, "len": 16, "sec": 0.02, "timeout": false, "cost": 20, "bwc": 180006, "fitness": 1.0}
+{"i": 723, "n": 1, "len": 10, "sec": 8.41, "timeout": false, "cost": 18, "bwc": 120006, "fitness": 1.0}
+{"i": 724, "n": 1, "len": 11, "sec": 11.18, "timeout": false, "cost": 19, "bwc": 130006, "fitness": 1.0}
+{"i": 725, "n": 1, "len": 18, "sec": 25.23, "timeout": false, "cost": 26, "bwc": 200006, "fitness": 1.0}
+{"i": 726, "n": 1, "len": 27, "sec": 43.85, "timeout": false, "cost": 35, "bwc": 290006, "fitness": 1.0}
+{"i": 727, "n": 1, "len": 14, "sec": 8.73, "timeout": false, "cost": 22, "bwc": 160006, "fitness": 1.0}
+{"i": 728, "n": 1, "len": 9, "sec": 0.02, "timeout": false, "cost": 13, "bwc": 110006, "fitness": 1.0}
+{"i": 729, "n": 1, "len": 12, "sec": 18.09, "timeout": false, "cost": 20, "bwc": 140006, "fitness": 1.0}
+{"i": 730, "n": 1, "len": 18, "sec": 120.06, "timeout": true}
+{"i": 731, "n": 1, "len": 8, "sec": 78.27, "timeout": false, "cost": 17, "bwc": 100006, "fitness": 1.0}
+{"i": 732, "n": 1, "len": 16, "sec": 24.25, "timeout": false, "cost": 24, "bwc": 180006, "fitness": 1.0}
+{"i": 733, "n": 1, "len": 17, "sec": 17.67, "timeout": false, "cost": 25, "bwc": 190006, "fitness": 1.0}
+{"i": 734, "n": 1, "len": 10, "sec": 5.71, "timeout": false, "cost": 18, "bwc": 120006, "fitness": 1.0}
+{"i": 735, "n": 1, "len": 15, "sec": 120.07, "timeout": true}
+{"i": 736, "n": 1, "len": 14, "sec": 21.3, "timeout": false, "cost": 22, "bwc": 160006, "fitness": 1.0}
+{"i": 737, "n": 1, "len": 11, "sec": 14.47, "timeout": false, "cost": 19, "bwc": 130006, "fitness": 1.0}
+{"i": 738, "n": 1, "len": 9, "sec": 90.99, "timeout": false, "cost": 18, "bwc": 110006, "fitness": 1.0}
+{"i": 739, "n": 1, "len": 19, "sec": 26.44, "timeout": false, "cost": 27, "bwc": 210006, "fitness": 1.0}
+{"i": 740, "n": 1, "len": 26, "sec": 25.85, "timeout": false, "cost": 34, "bwc": 280006, "fitness": 1.0}
+{"i": 741, "n": 7, "len": 4, "sec": 0.02, "timeout": false, "cost": 8, "bwc": 60006, "fitness": 1.0}
+{"i": 742, "n": 1, "len": 10, "sec": 10.49, "timeout": false, "cost": 18, "bwc": 120006, "fitness": 1.0}
+{"i": 743, "n": 1, "len": 17, "sec": 120.04, "timeout": true}
+{"i": 744, "n": 1, "len": 18, "sec": 27.7, "timeout": false, "cost": 26, "bwc": 200006, "fitness": 1.0}
+{"i": 745, "n": 1, "len": 5, "sec": 2.17, "timeout": false, "cost": 13, "bwc": 70006, "fitness": 1.0}
+{"i": 746, "n": 1, "len": 7, "sec": 57.63, "timeout": false, "cost": 16, "bwc": 90006, "fitness": 1.0}
+{"i": 747, "n": 1, "len": 12, "sec": 14.92, "timeout": false, "cost": 20, "bwc": 140006, "fitness": 1.0}
+{"i": 748, "n": 1, "len": 19, "sec": 120.05, "timeout": true}
+{"i": 749, "n": 1, "len": 7, "sec": 44.32, "timeout": false, "cost": 16, "bwc": 90006, "fitness": 1.0}
+{"i": 750, "n": 1, "len": 14, "sec": 120.05, "timeout": true}
+{"i": 751, "n": 1, "len": 20, "sec": 12.72, "timeout": false, "cost": 28, "bwc": 220006, "fitness": 1.0}
+{"i": 752, "n": 1, "len": 29, "sec": 9.46, "timeout": false, "cost": 37, "bwc": 310006, "fitness": 1.0}
+{"i": 753, "n": 1, "len": 17, "sec": 120.06, "timeout": true}
+{"i": 754, "n": 1, "len": 9, "sec": 1.9, "timeout": false, "cost": 17, "bwc": 110006, "fitness": 1.0}
+{"i": 755, "n": 1, "len": 8, "sec": 5.93, "timeout": false, "cost": 16, "bwc": 100006, "fitness": 1.0}
+{"i": 756, "n": 1, "len": 20, "sec": 120.06, "timeout": true}
+{"i": 757, "n": 1, "len": 19, "sec": 6.64, "timeout": false, "cost": 27, "bwc": 210006, "fitness": 1.0}
+{"i": 758, "n": 1, "len": 10, "sec": 12.02, "timeout": false, "cost": 18, "bwc": 120006, "fitness": 1.0}
+{"i": 759, "n": 1, "len": 13, "sec": 4.34, "timeout": false, "cost": 21, "bwc": 150006, "fitness": 1.0}
+{"i": 760, "n": 1, "len": 9, "sec": 11.65, "timeout": false, "cost": 17, "bwc": 110006, "fitness": 1.0}
+{"i": 761, "n": 1, "len": 13, "sec": 13.68, "timeout": false, "cost": 21, "bwc": 150006, "fitness": 1.0}
+{"i": 762, "n": 1, "len": 30, "sec": 42.56, "timeout": false, "cost": 38, "bwc": 320006, "fitness": 1.0}
+{"i": 763, "n": 1, "len": 8, "sec": 0.04, "timeout": false, "cost": 12, "bwc": 100006, "fitness": 1.0}
+{"i": 764, "n": 1, "len": 16, "sec": 0.03, "timeout": false, "cost": 20, "bwc": 180006, "fitness": 1.0}
+{"i": 765, "n": 1, "len": 9, "sec": 11.24, "timeout": false, "cost": 17, "bwc": 110006, "fitness": 1.0}
+{"i": 766, "n": 1, "len": 8, "sec": 5.17, "timeout": false, "cost": 16, "bwc": 100006, "fitness": 1.0}
+{"i": 767, "n": 1, "len": 7, "sec": 0.02, "timeout": false, "cost": 11, "bwc": 90006, "fitness": 1.0}
+{"i": 768, "n": 1, "len": 12, "sec": 15.05, "timeout": false, "cost": 20, "bwc": 140006, "fitness": 1.0}
+{"i": 769, "n": 1, "len": 22, "sec": 11.3, "timeout": false, "cost": 30, "bwc": 240006, "fitness": 1.0}
+{"i": 770, "n": 1, "len": 16, "sec": 0.1, "timeout": false, "cost": 20, "bwc": 180006, "fitness": 1.0}
+{"i": 771, "n": 1, "len": 14, "sec": 0.05, "timeout": false, "cost": 18, "bwc": 160006, "fitness": 1.0}
+{"i": 772, "n": 1, "len": 12, "sec": 11.45, "timeout": false, "cost": 20, "bwc": 140006, "fitness": 1.0}
+{"i": 773, "n": 1, "len": 14, "sec": 14.3, "timeout": false, "cost": 22, "bwc": 160006, "fitness": 1.0}
+{"i": 774, "n": 1, "len": 12, "sec": 0.07, "timeout": false, "cost": 16, "bwc": 140006, "fitness": 1.0}
+{"i": 775, "n": 1, "len": 14, "sec": 20.55, "timeout": false, "cost": 22, "bwc": 160006, "fitness": 1.0}
+{"i": 776, "n": 1, "len": 10, "sec": 2.92, "timeout": false, "cost": 18, "bwc": 120006, "fitness": 1.0}
+{"i": 777, "n": 1, "len": 13, "sec": 9.13, "timeout": false, "cost": 21, "bwc": 150006, "fitness": 1.0}
+{"i": 778, "n": 1, "len": 12, "sec": 3.88, "timeout": false, "cost": 20, "bwc": 140006, "fitness": 1.0}
+{"i": 779, "n": 1, "len": 10, "sec": 2.57, "timeout": false, "cost": 18, "bwc": 120006, "fitness": 1.0}
+{"i": 780, "n": 1, "len": 13, "sec": 17.15, "timeout": false, "cost": 21, "bwc": 150006, "fitness": 1.0}
+{"i": 781, "n": 1, "len": 10, "sec": 84.5, "timeout": false, "cost": 19, "bwc": 120006, "fitness": 1.0}
+{"i": 782, "n": 1, "len": 8, "sec": 0.02, "timeout": false, "cost": 12, "bwc": 100006, "fitness": 1.0}
+{"i": 783, "n": 1, "len": 9, "sec": 0.02, "timeout": false, "cost": 13, "bwc": 110006, "fitness": 1.0}
+{"i": 784, "n": 1, "len": 8, "sec": 6.52, "timeout": false, "cost": 16, "bwc": 100006, "fitness": 1.0}
+{"i": 785, "n": 1, "len": 12, "sec": 13.25, "timeout": false, "cost": 20, "bwc": 140006, "fitness": 1.0}
+{"i": 786, "n": 1, "len": 13, "sec": 0.02, "timeout": false, "cost": 17, "bwc": 150006, "fitness": 1.0}
+{"i": 787, "n": 1, "len": 8, "sec": 0.02, "timeout": false, "cost": 12, "bwc": 100006, "fitness": 1.0}
+{"i": 788, "n": 1, "len": 20, "sec": 20.5, "timeout": false, "cost": 28, "bwc": 220006, "fitness": 1.0}
+{"i": 789, "n": 1, "len": 12, "sec": 0.02, "timeout": false, "cost": 16, "bwc": 140006, "fitness": 1.0}
+{"i": 790, "n": 1, "len": 17, "sec": 0.02, "timeout": false, "cost": 21, "bwc": 190006, "fitness": 1.0}
+{"i": 791, "n": 1, "len": 10, "sec": 3.72, "timeout": false, "cost": 18, "bwc": 120006, "fitness": 1.0}
+{"i": 792, "n": 1, "len": 10, "sec": 6.95, "timeout": false, "cost": 18, "bwc": 120006, "fitness": 1.0}
+{"i": 793, "n": 1, "len": 14, "sec": 120.06, "timeout": true}
+{"i": 794, "n": 1, "len": 19, "sec": 120.06, "timeout": true}
+{"i": 795, "n": 1, "len": 13, "sec": 10.58, "timeout": false, "cost": 21, "bwc": 150006, "fitness": 1.0}
+{"i": 796, "n": 1, "len": 27, "sec": 46.85, "timeout": false, "cost": 35, "bwc": 290006, "fitness": 1.0}
+{"i": 797, "n": 1, "len": 30, "sec": 49.49, "timeout": false, "cost": 38, "bwc": 320006, "fitness": 1.0}
+{"i": 798, "n": 1, "len": 14, "sec": 11.91, "timeout": false, "cost": 22, "bwc": 160006, "fitness": 1.0}
+{"i": 799, "n": 1, "len": 11, "sec": 0.02, "timeout": false, "cost": 15, "bwc": 130006, "fitness": 1.0}
+{"i": 800, "n": 1, "len": 13, "sec": 18.24, "timeout": false, "cost": 21, "bwc": 150006, "fitness": 1.0}
+{"i": 801, "n": 1, "len": 8, "sec": 8.56, "timeout": false, "cost": 16, "bwc": 100006, "fitness": 1.0}
+{"i": 802, "n": 1, "len": 18, "sec": 20.0, "timeout": false, "cost": 26, "bwc": 200006, "fitness": 1.0}
+{"i": 803, "n": 1, "len": 25, "sec": 8.84, "timeout": false, "cost": 33, "bwc": 270006, "fitness": 1.0}
+{"i": 804, "n": 1, "len": 16, "sec": 0.02, "timeout": false, "cost": 20, "bwc": 180006, "fitness": 1.0}
+{"i": 805, "n": 1, "len": 10, "sec": 105.72, "timeout": false, "cost": 19, "bwc": 120006, "fitness": 1.0}
+{"i": 806, "n": 1, "len": 11, "sec": 11.43, "timeout": false, "cost": 19, "bwc": 130006, "fitness": 1.0}
+{"i": 807, "n": 1, "len": 99, "sec": 120.12, "timeout": true}
+{"i": 808, "n": 1, "len": 13, "sec": 15.92, "timeout": false, "cost": 21, "bwc": 150006, "fitness": 1.0}
+{"i": 809, "n": 1, "len": 10, "sec": 0.02, "timeout": false, "cost": 14, "bwc": 120006, "fitness": 1.0}
+{"i": 810, "n": 1, "len": 11, "sec": 0.02, "timeout": false, "cost": 15, "bwc": 130006, "fitness": 1.0}
+{"i": 811, "n": 1, "len": 16, "sec": 22.15, "timeout": false, "cost": 24, "bwc": 180006, "fitness": 1.0}
+{"i": 812, "n": 1, "len": 16, "sec": 6.03, "timeout": false, "cost": 24, "bwc": 180006, "fitness": 1.0}
+{"i": 813, "n": 1, "len": 33, "sec": 15.92, "timeout": false, "cost": 41, "bwc": 350006, "fitness": 1.0}
+{"i": 814, "n": 1, "len": 12, "sec": 0.02, "timeout": false, "cost": 16, "bwc": 140006, "fitness": 1.0}
+{"i": 815, "n": 1, "len": 14, "sec": 20.96, "timeout": false, "cost": 22, "bwc": 160006, "fitness": 1.0}
+{"i": 816, "n": 1, "len": 10, "sec": 9.86, "timeout": false, "cost": 18, "bwc": 120006, "fitness": 1.0}
+{"i": 817, "n": 1, "len": 18, "sec": 33.87, "timeout": false, "cost": 26, "bwc": 200006, "fitness": 1.0}
+{"i": 818, "n": 1, "len": 7, "sec": 0.02, "timeout": false, "cost": 11, "bwc": 90006, "fitness": 1.0}
+{"i": 819, "n": 1, "len": 9, "sec": 83.02, "timeout": false, "cost": 18, "bwc": 110006, "fitness": 1.0}
+{"i": 820, "n": 1, "len": 10, "sec": 9.74, "timeout": false, "cost": 18, "bwc": 120006, "fitness": 1.0}
+{"i": 821, "n": 1, "len": 11, "sec": 0.03, "timeout": false, "cost": 15, "bwc": 130006, "fitness": 1.0}
+{"i": 822, "n": 1, "len": 13, "sec": 8.25, "timeout": false, "cost": 21, "bwc": 150006, "fitness": 1.0}
+{"i": 823, "n": 1, "len": 18, "sec": 0.02, "timeout": false, "cost": 22, "bwc": 200006, "fitness": 1.0}
+{"i": 824, "n": 2, "len": 8, "sec": 0.02, "timeout": false, "cost": 12, "bwc": 100006, "fitness": 1.0}
+{"i": 825, "n": 1, "len": 8, "sec": 8.4, "timeout": false, "cost": 16, "bwc": 100006, "fitness": 1.0}
+{"i": 826, "n": 1, "len": 14, "sec": 38.7, "timeout": false, "cost": 23, "bwc": 160006, "fitness": 1.0}
+{"i": 827, "n": 1, "len": 17, "sec": 120.06, "timeout": true}
+{"i": 828, "n": 1, "len": 8, "sec": 7.67, "timeout": false, "cost": 16, "bwc": 100006, "fitness": 1.0}
+{"i": 829, "n": 1, "len": 7, "sec": 40.96, "timeout": false, "cost": 16, "bwc": 90006, "fitness": 1.0}
+{"i": 830, "n": 1, "len": 9, "sec": 41.16, "timeout": false, "cost": 18, "bwc": 110006, "fitness": 1.0}
+{"i": 831, "n": 1, "len": 9, "sec": 9.59, "timeout": false, "cost": 17, "bwc": 110006, "fitness": 1.0}
+{"i": 832, "n": 1, "len": 18, "sec": 120.06, "timeout": true}
+{"i": 833, "n": 1, "len": 16, "sec": 0.02, "timeout": false, "cost": 20, "bwc": 180006, "fitness": 1.0}
+{"i": 834, "n": 1, "len": 8, "sec": 2.24, "timeout": false, "cost": 16, "bwc": 100006, "fitness": 1.0}
+{"i": 835, "n": 1, "len": 13, "sec": 15.49, "timeout": false, "cost": 21, "bwc": 150006, "fitness": 1.0}
+{"i": 836, "n": 1, "len": 9, "sec": 9.66, "timeout": false, "cost": 17, "bwc": 110006, "fitness": 1.0}
+{"i": 837, "n": 1, "len": 12, "sec": 0.02, "timeout": false, "cost": 16, "bwc": 140006, "fitness": 1.0}
+{"i": 838, "n": 1, "len": 14, "sec": 17.19, "timeout": false, "cost": 22, "bwc": 160006, "fitness": 1.0}
+{"i": 839, "n": 1, "len": 15, "sec": 0.03, "timeout": false, "cost": 19, "bwc": 170006, "fitness": 1.0}
+{"i": 840, "n": 1, "len": 22, "sec": 120.05, "timeout": true}
+{"i": 841, "n": 1, "len": 18, "sec": 15.54, "timeout": false, "cost": 26, "bwc": 200006, "fitness": 1.0}
+{"i": 842, "n": 1, "len": 11, "sec": 0.02, "timeout": false, "cost": 15, "bwc": 130006, "fitness": 1.0}
+{"i": 843, "n": 1, "len": 6, "sec": 4.41, "timeout": false, "cost": 14, "bwc": 80006, "fitness": 1.0}
+{"i": 844, "n": 1, "len": 5, "sec": 0.03, "timeout": false, "cost": 10008, "bwc": 70006, "fitness": 0.8571428571428572}
+{"i": 845, "n": 1, "len": 8, "sec": 9.17, "timeout": false, "cost": 16, "bwc": 100006, "fitness": 1.0}
+{"i": 846, "n": 1, "len": 15, "sec": 120.06, "timeout": true}
+{"i": 847, "n": 1, "len": 32, "sec": 46.72, "timeout": false, "cost": 40, "bwc": 340006, "fitness": 1.0}
+{"i": 848, "n": 1, "len": 8, "sec": 2.4, "timeout": false, "cost": 16, "bwc": 100006, "fitness": 1.0}
+{"i": 849, "n": 1, "len": 16, "sec": 0.02, "timeout": false, "cost": 20, "bwc": 180006, "fitness": 1.0}
+{"i": 850, "n": 1, "len": 19, "sec": 120.06, "timeout": true}
+{"i": 851, "n": 1, "len": 17, "sec": 21.68, "timeout": false, "cost": 25, "bwc": 190006, "fitness": 1.0}
+{"i": 852, "n": 1, "len": 14, "sec": 6.64, "timeout": false, "cost": 22, "bwc": 160006, "fitness": 1.0}
+{"i": 853, "n": 1, "len": 12, "sec": 15.97, "timeout": false, "cost": 20, "bwc": 140006, "fitness": 1.0}
+{"i": 854, "n": 1, "len": 9, "sec": 10.61, "timeout": false, "cost": 17, "bwc": 110006, "fitness": 1.0}
+{"i": 855, "n": 1, "len": 10, "sec": 7.36, "timeout": false, "cost": 18, "bwc": 120006, "fitness": 1.0}
+{"i": 856, "n": 1, "len": 16, "sec": 24.21, "timeout": false, "cost": 24, "bwc": 180006, "fitness": 1.0}
+{"i": 857, "n": 1, "len": 13, "sec": 120.06, "timeout": true}
+{"i": 858, "n": 1, "len": 20, "sec": 120.08, "timeout": true}
+{"i": 859, "n": 1, "len": 22, "sec": 50.89, "timeout": false, "cost": 30, "bwc": 240006, "fitness": 1.0}
+{"i": 860, "n": 1, "len": 9, "sec": 84.44, "timeout": false, "cost": 18, "bwc": 110006, "fitness": 1.0}
+{"i": 861, "n": 1, "len": 16, "sec": 0.03, "timeout": false, "cost": 20, "bwc": 180006, "fitness": 1.0}
+{"i": 862, "n": 1, "len": 21, "sec": 120.09, "timeout": true}
+{"i": 863, "n": 1, "len": 12, "sec": 6.27, "timeout": false, "cost": 20, "bwc": 140006, "fitness": 1.0}
+{"i": 864, "n": 1, "len": 12, "sec": 3.32, "timeout": false, "cost": 20, "bwc": 140006, "fitness": 1.0}
+{"i": 865, "n": 1, "len": 17, "sec": 9.16, "timeout": false, "cost": 25, "bwc": 190006, "fitness": 1.0}
+{"i": 866, "n": 2, "len": 10, "sec": 8.92, "timeout": false, "cost": 18, "bwc": 120006, "fitness": 1.0}
+{"i": 867, "n": 1, "len": 10, "sec": 0.02, "timeout": false, "cost": 14, "bwc": 120006, "fitness": 1.0}
+{"i": 868, "n": 1, "len": 30, "sec": 44.93, "timeout": false, "cost": 38, "bwc": 320006, "fitness": 1.0}
+{"i": 869, "n": 1, "len": 15, "sec": 11.94, "timeout": false, "cost": 23, "bwc": 170006, "fitness": 1.0}
+{"i": 870, "n": 1, "len": 17, "sec": 13.85, "timeout": false, "cost": 25, "bwc": 190006, "fitness": 1.0}
+{"i": 871, "n": 1, "len": 31, "sec": 54.85, "timeout": false, "cost": 39, "bwc": 330006, "fitness": 1.0}
+{"i": 872, "n": 1, "len": 6, "sec": 3.74, "timeout": false, "cost": 14, "bwc": 80006, "fitness": 1.0}
+{"i": 873, "n": 1, "len": 13, "sec": 0.02, "timeout": false, "cost": 17, "bwc": 150006, "fitness": 1.0}
+{"i": 874, "n": 1, "len": 15, "sec": 5.2, "timeout": false, "cost": 23, "bwc": 170006, "fitness": 1.0}
+{"i": 875, "n": 1, "len": 21, "sec": 0.06, "timeout": false, "cost": 25, "bwc": 230006, "fitness": 1.0}
+{"i": 876, "n": 1, "len": 10, "sec": 0.02, "timeout": false, "cost": 14, "bwc": 120006, "fitness": 1.0}
+{"i": 877, "n": 1, "len": 14, "sec": 20.65, "timeout": false, "cost": 22, "bwc": 160006, "fitness": 1.0}
+{"i": 878, "n": 1, "len": 14, "sec": 6.69, "timeout": false, "cost": 22, "bwc": 160006, "fitness": 1.0}
+{"i": 879, "n": 1, "len": 9, "sec": 0.02, "timeout": false, "cost": 13, "bwc": 110006, "fitness": 1.0}
+{"i": 880, "n": 1, "len": 14, "sec": 6.4, "timeout": false, "cost": 22, "bwc": 160006, "fitness": 1.0}
+{"i": 881, "n": 1, "len": 8, "sec": 58.32, "timeout": false, "cost": 17, "bwc": 100006, "fitness": 1.0}
+{"i": 882, "n": 1, "len": 28, "sec": 120.08, "timeout": true}
+{"i": 883, "n": 1, "len": 15, "sec": 7.89, "timeout": false, "cost": 23, "bwc": 170006, "fitness": 1.0}
+{"i": 884, "n": 1, "len": 18, "sec": 32.25, "timeout": false, "cost": 26, "bwc": 200006, "fitness": 1.0}
+{"i": 885, "n": 1, "len": 28, "sec": 120.07, "timeout": true}
+{"i": 886, "n": 1, "len": 21, "sec": 120.06, "timeout": true}
+{"i": 887, "n": 1, "len": 10, "sec": 0.02, "timeout": false, "cost": 14, "bwc": 120006, "fitness": 1.0}
+{"i": 888, "n": 1, "len": 17, "sec": 0.02, "timeout": false, "cost": 21, "bwc": 190006, "fitness": 1.0}
+{"i": 889, "n": 1, "len": 6, "sec": 4.39, "timeout": false, "cost": 14, "bwc": 80006, "fitness": 1.0}
+{"i": 890, "n": 1, "len": 20, "sec": 13.43, "timeout": false, "cost": 28, "bwc": 220006, "fitness": 1.0}
+{"i": 891, "n": 1, "len": 19, "sec": 25.68, "timeout": false, "cost": 27, "bwc": 210006, "fitness": 1.0}
+{"i": 892, "n": 1, "len": 32, "sec": 15.21, "timeout": false, "cost": 40, "bwc": 340006, "fitness": 1.0}
+{"i": 893, "n": 1, "len": 43, "sec": 116.2, "timeout": false, "cost": 51, "bwc": 450006, "fitness": 1.0}
+{"i": 894, "n": 1, "len": 19, "sec": 25.8, "timeout": false, "cost": 27, "bwc": 210006, "fitness": 1.0}
+{"i": 895, "n": 1, "len": 10, "sec": 0.02, "timeout": false, "cost": 14, "bwc": 120006, "fitness": 1.0}
+{"i": 896, "n": 1, "len": 8, "sec": 0.02, "timeout": false, "cost": 12, "bwc": 100006, "fitness": 1.0}
+{"i": 897, "n": 1, "len": 17, "sec": 120.07, "timeout": true}
+{"i": 898, "n": 1, "len": 43, "sec": 120.11, "timeout": true}
+{"i": 899, "n": 1, "len": 66, "sec": 28.3, "timeout": false, "cost": 74, "bwc": 680006, "fitness": 1.0}
+{"i": 900, "n": 1, "len": 6, "sec": 33.23, "timeout": false, "cost": 15, "bwc": 80006, "fitness": 1.0}
+{"i": 901, "n": 1, "len": 15, "sec": 13.48, "timeout": false, "cost": 23, "bwc": 170006, "fitness": 1.0}
+{"i": 902, "n": 1, "len": 7, "sec": 4.76, "timeout": false, "cost": 15, "bwc": 90006, "fitness": 1.0}
+{"i": 903, "n": 1, "len": 16, "sec": 4.51, "timeout": false, "cost": 24, "bwc": 180006, "fitness": 1.0}
+{"i": 904, "n": 2, "len": 9, "sec": 87.63, "timeout": false, "cost": 18, "bwc": 110006, "fitness": 1.0}
+{"i": 905, "n": 1, "len": 20, "sec": 120.07, "timeout": true}
+{"i": 906, "n": 1, "len": 11, "sec": 10.07, "timeout": false, "cost": 19, "bwc": 130006, "fitness": 1.0}
+{"i": 907, "n": 1, "len": 8, "sec": 8.66, "timeout": false, "cost": 16, "bwc": 100006, "fitness": 1.0}
+{"i": 908, "n": 1, "len": 31, "sec": 27.88, "timeout": false, "cost": 40, "bwc": 330006, "fitness": 1.0}
+{"i": 909, "n": 1, "len": 12, "sec": 14.11, "timeout": false, "cost": 20, "bwc": 140006, "fitness": 1.0}
+{"i": 910, "n": 1, "len": 12, "sec": 17.1, "timeout": false, "cost": 20, "bwc": 140006, "fitness": 1.0}
+{"i": 911, "n": 1, "len": 38, "sec": 29.21, "timeout": false, "cost": 46, "bwc": 400006, "fitness": 1.0}
+{"i": 912, "n": 1, "len": 9, "sec": 10.63, "timeout": false, "cost": 17, "bwc": 110006, "fitness": 1.0}
+{"i": 913, "n": 1, "len": 9, "sec": 8.35, "timeout": false, "cost": 17, "bwc": 110006, "fitness": 1.0}
+{"i": 914, "n": 1, "len": 10, "sec": 6.54, "timeout": false, "cost": 18, "bwc": 120006, "fitness": 1.0}
+{"i": 915, "n": 1, "len": 22, "sec": 120.08, "timeout": true}
+{"i": 916, "n": 1, "len": 7, "sec": 4.32, "timeout": false, "cost": 15, "bwc": 90006, "fitness": 1.0}
+{"i": 917, "n": 1, "len": 10, "sec": 0.02, "timeout": false, "cost": 14, "bwc": 120006, "fitness": 1.0}
+{"i": 918, "n": 1, "len": 12, "sec": 120.07, "timeout": true}
+{"i": 919, "n": 1, "len": 11, "sec": 5.18, "timeout": false, "cost": 19, "bwc": 130006, "fitness": 1.0}
+{"i": 920, "n": 1, "len": 14, "sec": 120.07, "timeout": true}
+{"i": 921, "n": 1, "len": 22, "sec": 0.03, "timeout": false, "cost": 26, "bwc": 240006, "fitness": 1.0}
+{"i": 922, "n": 1, "len": 39, "sec": 35.03, "timeout": false, "cost": 47, "bwc": 410006, "fitness": 1.0}
+{"i": 923, "n": 1, "len": 5, "sec": 0.02, "timeout": false, "cost": 9, "bwc": 70006, "fitness": 1.0}
+{"i": 924, "n": 1, "len": 10, "sec": 9.73, "timeout": false, "cost": 18, "bwc": 120006, "fitness": 1.0}
+{"i": 925, "n": 1, "len": 8, "sec": 0.02, "timeout": false, "cost": 12, "bwc": 100006, "fitness": 1.0}
+{"i": 926, "n": 1, "len": 13, "sec": 0.02, "timeout": false, "cost": 17, "bwc": 150006, "fitness": 1.0}
+{"i": 927, "n": 1, "len": 34, "sec": 120.08, "timeout": true}
+{"i": 928, "n": 1, "len": 7, "sec": 6.79, "timeout": false, "cost": 15, "bwc": 90006, "fitness": 1.0}
+{"i": 929, "n": 1, "len": 14, "sec": 21.7, "timeout": false, "cost": 22, "bwc": 160006, "fitness": 1.0}
+{"i": 930, "n": 1, "len": 16, "sec": 21.04, "timeout": false, "cost": 24, "bwc": 180006, "fitness": 1.0}
+{"i": 931, "n": 1, "len": 13, "sec": 120.07, "timeout": true}
+{"i": 932, "n": 1, "len": 12, "sec": 16.41, "timeout": false, "cost": 20, "bwc": 140006, "fitness": 1.0}
+{"i": 933, "n": 1, "len": 11, "sec": 8.72, "timeout": false, "cost": 19, "bwc": 130006, "fitness": 1.0}
+{"i": 934, "n": 1, "len": 9, "sec": 4.08, "timeout": false, "cost": 17, "bwc": 110006, "fitness": 1.0}
+{"i": 935, "n": 1, "len": 16, "sec": 0.02, "timeout": false, "cost": 20, "bwc": 180006, "fitness": 1.0}
+{"i": 936, "n": 1, "len": 9, "sec": 0.02, "timeout": false, "cost": 13, "bwc": 110006, "fitness": 1.0}
+{"i": 937, "n": 1, "len": 16, "sec": 19.16, "timeout": false, "cost": 24, "bwc": 180006, "fitness": 1.0}
+{"i": 938, "n": 1, "len": 17, "sec": 10.94, "timeout": false, "cost": 25, "bwc": 190006, "fitness": 1.0}
+{"i": 939, "n": 1, "len": 12, "sec": 4.22, "timeout": false, "cost": 20, "bwc": 140006, "fitness": 1.0}
+{"i": 940, "n": 1, "len": 12, "sec": 14.18, "timeout": false, "cost": 20, "bwc": 140006, "fitness": 1.0}
+{"i": 941, "n": 1, "len": 13, "sec": 0.02, "timeout": false, "cost": 17, "bwc": 150006, "fitness": 1.0}
+{"i": 942, "n": 1, "len": 10, "sec": 0.02, "timeout": false, "cost": 14, "bwc": 120006, "fitness": 1.0}
+{"i": 943, "n": 1, "len": 29, "sec": 120.08, "timeout": true}
+{"i": 944, "n": 1, "len": 26, "sec": 51.07, "timeout": false, "cost": 34, "bwc": 280006, "fitness": 1.0}
+{"i": 945, "n": 1, "len": 12, "sec": 3.48, "timeout": false, "cost": 20, "bwc": 140006, "fitness": 1.0}
+{"i": 946, "n": 1, "len": 23, "sec": 26.78, "timeout": false, "cost": 31, "bwc": 250006, "fitness": 1.0}
+{"i": 947, "n": 1, "len": 16, "sec": 0.08, "timeout": false, "cost": 20, "bwc": 180006, "fitness": 1.0}
+{"i": 948, "n": 1, "len": 12, "sec": 0.02, "timeout": false, "cost": 16, "bwc": 140006, "fitness": 1.0}
+{"i": 949, "n": 1, "len": 39, "sec": 16.58, "timeout": false, "cost": 47, "bwc": 410006, "fitness": 1.0}
+{"i": 950, "n": 1, "len": 12, "sec": 0.02, "timeout": false, "cost": 16, "bwc": 140006, "fitness": 1.0}
+{"i": 951, "n": 1, "len": 6, "sec": 35.98, "timeout": false, "cost": 15, "bwc": 80006, "fitness": 1.0}
+{"i": 952, "n": 1, "len": 8, "sec": 4.63, "timeout": false, "cost": 16, "bwc": 100006, "fitness": 1.0}
+{"i": 953, "n": 3, "len": 8, "sec": 0.02, "timeout": false, "cost": 12, "bwc": 100006, "fitness": 1.0}
+{"i": 954, "n": 1, "len": 15, "sec": 5.02, "timeout": false, "cost": 23, "bwc": 170006, "fitness": 1.0}
+{"i": 955, "n": 1, "len": 13, "sec": 120.04, "timeout": true}
+{"i": 956, "n": 1, "len": 23, "sec": 22.2, "timeout": false, "cost": 31, "bwc": 250006, "fitness": 1.0}
+{"i": 957, "n": 1, "len": 13, "sec": 16.86, "timeout": false, "cost": 21, "bwc": 150006, "fitness": 1.0}
+{"i": 958, "n": 1, "len": 15, "sec": 10.43, "timeout": false, "cost": 23, "bwc": 170006, "fitness": 1.0}
+{"i": 959, "n": 1, "len": 7, "sec": 0.01, "timeout": false, "cost": 11, "bwc": 90006, "fitness": 1.0}
+{"i": 960, "n": 1, "len": 18, "sec": 29.3, "timeout": false, "cost": 26, "bwc": 200006, "fitness": 1.0}
+{"i": 961, "n": 1, "len": 15, "sec": 7.44, "timeout": false, "cost": 23, "bwc": 170006, "fitness": 1.0}
+{"i": 962, "n": 1, "len": 14, "sec": 8.21, "timeout": false, "cost": 22, "bwc": 160006, "fitness": 1.0}
+{"i": 963, "n": 1, "len": 18, "sec": 0.02, "timeout": false, "cost": 22, "bwc": 200006, "fitness": 1.0}
+{"i": 964, "n": 1, "len": 9, "sec": 8.28, "timeout": false, "cost": 17, "bwc": 110006, "fitness": 1.0}
+{"i": 965, "n": 1, "len": 15, "sec": 13.16, "timeout": false, "cost": 24, "bwc": 170006, "fitness": 1.0}
+{"i": 966, "n": 1, "len": 14, "sec": 15.43, "timeout": false, "cost": 22, "bwc": 160006, "fitness": 1.0}
+{"i": 967, "n": 1, "len": 28, "sec": 6.5, "timeout": false, "cost": 36, "bwc": 300006, "fitness": 1.0}
+{"i": 968, "n": 1, "len": 14, "sec": 11.4, "timeout": false, "cost": 22, "bwc": 160006, "fitness": 1.0}
+{"i": 969, "n": 1, "len": 21, "sec": 120.06, "timeout": true}
+{"i": 970, "n": 1, "len": 11, "sec": 8.54, "timeout": false, "cost": 20, "bwc": 130006, "fitness": 1.0}
+{"i": 971, "n": 1, "len": 13, "sec": 6.31, "timeout": false, "cost": 21, "bwc": 150006, "fitness": 1.0}
+{"i": 972, "n": 1, "len": 24, "sec": 24.69, "timeout": false, "cost": 32, "bwc": 260006, "fitness": 1.0}
+{"i": 973, "n": 1, "len": 8, "sec": 3.13, "timeout": false, "cost": 16, "bwc": 100006, "fitness": 1.0}
+{"i": 974, "n": 1, "len": 6, "sec": 14.31, "timeout": false, "cost": 15, "bwc": 80006, "fitness": 1.0}
+{"i": 975, "n": 1, "len": 16, "sec": 15.1, "timeout": false, "cost": 24, "bwc": 180006, "fitness": 1.0}
+{"i": 976, "n": 1, "len": 29, "sec": 5.86, "timeout": false, "cost": 37, "bwc": 310006, "fitness": 1.0}
+{"i": 977, "n": 1, "len": 13, "sec": 0.02, "timeout": false, "cost": 17, "bwc": 150006, "fitness": 1.0}
+{"i": 978, "n": 1, "len": 29, "sec": 8.15, "timeout": false, "cost": 37, "bwc": 310006, "fitness": 1.0}
+{"i": 979, "n": 1, "len": 10, "sec": 71.82, "timeout": false, "cost": 19, "bwc": 120006, "fitness": 1.0}
+{"i": 980, "n": 1, "len": 12, "sec": 120.05, "timeout": true}
+{"i": 981, "n": 1, "len": 18, "sec": 8.22, "timeout": false, "cost": 26, "bwc": 200006, "fitness": 1.0}
+{"i": 982, "n": 1, "len": 20, "sec": 0.02, "timeout": false, "cost": 24, "bwc": 220006, "fitness": 1.0}
+{"i": 983, "n": 1, "len": 11, "sec": 7.0, "timeout": false, "cost": 19, "bwc": 130006, "fitness": 1.0}
+{"i": 984, "n": 1, "len": 6, "sec": 0.02, "timeout": false, "cost": 10, "bwc": 80006, "fitness": 1.0}
+{"i": 985, "n": 1, "len": 24, "sec": 11.55, "timeout": false, "cost": 32, "bwc": 260006, "fitness": 1.0}
+{"i": 986, "n": 1, "len": 21, "sec": 17.29, "timeout": false, "cost": 29, "bwc": 230006, "fitness": 1.0}
+{"i": 987, "n": 1, "len": 11, "sec": 3.32, "timeout": false, "cost": 19, "bwc": 130006, "fitness": 1.0}
+{"i": 988, "n": 1, "len": 16, "sec": 12.07, "timeout": false, "cost": 24, "bwc": 180006, "fitness": 1.0}
+{"i": 989, "n": 1, "len": 12, "sec": 120.05, "timeout": true}
+{"i": 990, "n": 1, "len": 14, "sec": 3.85, "timeout": false, "cost": 22, "bwc": 160006, "fitness": 1.0}
+{"i": 991, "n": 1, "len": 13, "sec": 120.06, "timeout": true}
+{"i": 992, "n": 1, "len": 26, "sec": 47.92, "timeout": false, "cost": 34, "bwc": 280006, "fitness": 1.0}
+{"i": 993, "n": 1, "len": 13, "sec": 120.05, "timeout": true}
+{"i": 994, "n": 1, "len": 14, "sec": 18.7, "timeout": false, "cost": 22, "bwc": 160006, "fitness": 1.0}
+{"i": 995, "n": 1, "len": 12, "sec": 3.45, "timeout": false, "cost": 20, "bwc": 140006, "fitness": 1.0}
+{"i": 996, "n": 1, "len": 18, "sec": 120.07, "timeout": true}
+{"i": 997, "n": 1, "len": 18, "sec": 9.07, "timeout": false, "cost": 26, "bwc": 200006, "fitness": 1.0}
+{"i": 998, "n": 1, "len": 20, "sec": 22.73, "timeout": false, "cost": 28, "bwc": 220006, "fitness": 1.0}
+{"i": 999, "n": 1, "len": 11, "sec": 7.11, "timeout": false, "cost": 19, "bwc": 130006, "fitness": 1.0}
+{"i": 1000, "n": 1, "len": 18, "sec": 23.31, "timeout": false, "cost": 26, "bwc": 200006, "fitness": 1.0}
+{"i": 1001, "n": 1, "len": 27, "sec": 23.97, "timeout": false, "cost": 35, "bwc": 290006, "fitness": 1.0}
+{"i": 1002, "n": 2, "len": 8, "sec": 3.47, "timeout": false, "cost": 16, "bwc": 100006, "fitness": 1.0}
+{"i": 1003, "n": 1, "len": 10, "sec": 11.41, "timeout": false, "cost": 10017, "bwc": 120006, "fitness": 0.9166666666666666}
+{"i": 1004, "n": 1, "len": 12, "sec": 12.2, "timeout": false, "cost": 20, "bwc": 140006, "fitness": 1.0}
+{"i": 1005, "n": 1, "len": 11, "sec": 9.27, "timeout": false, "cost": 19, "bwc": 130006, "fitness": 1.0}
+{"i": 1006, "n": 1, "len": 14, "sec": 2.14, "timeout": false, "cost": 22, "bwc": 160006, "fitness": 1.0}
+{"i": 1007, "n": 1, "len": 21, "sec": 40.79, "timeout": false, "cost": 29, "bwc": 230006, "fitness": 1.0}
+{"i": 1008, "n": 1, "len": 13, "sec": 0.02, "timeout": false, "cost": 17, "bwc": 150006, "fitness": 1.0}
+{"i": 1009, "n": 1, "len": 10, "sec": 11.12, "timeout": false, "cost": 18, "bwc": 120006, "fitness": 1.0}
+{"i": 1010, "n": 1, "len": 8, "sec": 4.83, "timeout": false, "cost": 16, "bwc": 100006, "fitness": 1.0}
+{"i": 1011, "n": 1, "len": 18, "sec": 6.23, "timeout": false, "cost": 26, "bwc": 200006, "fitness": 1.0}
+{"i": 1012, "n": 1, "len": 17, "sec": 21.26, "timeout": false, "cost": 25, "bwc": 190006, "fitness": 1.0}
+{"i": 1013, "n": 1, "len": 41, "sec": 70.02, "timeout": false, "cost": 49, "bwc": 430006, "fitness": 1.0}
+{"i": 1014, "n": 1, "len": 3, "sec": 7.7, "timeout": false, "cost": 12, "bwc": 50006, "fitness": 1.0}
+{"i": 1015, "n": 1, "len": 16, "sec": 4.62, "timeout": false, "cost": 24, "bwc": 180006, "fitness": 1.0}
+{"i": 1016, "n": 1, "len": 26, "sec": 61.72, "timeout": false, "cost": 34, "bwc": 280006, "fitness": 1.0}
+{"i": 1017, "n": 1, "len": 16, "sec": 120.05, "timeout": true}
+{"i": 1018, "n": 1, "len": 20, "sec": 34.35, "timeout": false, "cost": 28, "bwc": 220006, "fitness": 1.0}
+{"i": 1019, "n": 1, "len": 15, "sec": 9.4, "timeout": false, "cost": 23, "bwc": 170006, "fitness": 1.0}
+{"i": 1020, "n": 1, "len": 12, "sec": 120.08, "timeout": true}
+{"i": 1021, "n": 1, "len": 16, "sec": 19.59, "timeout": false, "cost": 24, "bwc": 180006, "fitness": 1.0}
+{"i": 1022, "n": 1, "len": 12, "sec": 6.84, "timeout": false, "cost": 20, "bwc": 140006, "fitness": 1.0}
+{"i": 1023, "n": 1, "len": 10, "sec": 12.48, "timeout": false, "cost": 18, "bwc": 120006, "fitness": 1.0}
+{"i": 1024, "n": 1, "len": 9, "sec": 7.92, "timeout": false, "cost": 17, "bwc": 110006, "fitness": 1.0}
+{"i": 1025, "n": 1, "len": 11, "sec": 12.38, "timeout": false, "cost": 19, "bwc": 130006, "fitness": 1.0}
+{"i": 1026, "n": 1, "len": 14, "sec": 14.29, "timeout": false, "cost": 22, "bwc": 160006, "fitness": 1.0}
+{"i": 1027, "n": 1, "len": 35, "sec": 120.08, "timeout": true}
+{"i": 1028, "n": 1, "len": 12, "sec": 14.3, "timeout": false, "cost": 20, "bwc": 140006, "fitness": 1.0}
+{"i": 1029, "n": 1, "len": 6, "sec": 34.91, "timeout": false, "cost": 15, "bwc": 80006, "fitness": 1.0}
+{"i": 1030, "n": 1, "len": 31, "sec": 120.08, "timeout": true}
+{"i": 1031, "n": 1, "len": 27, "sec": 120.07, "timeout": true}
+{"i": 1032, "n": 1, "len": 11, "sec": 10.95, "timeout": false, "cost": 19, "bwc": 130006, "fitness": 1.0}
+{"i": 1033, "n": 1, "len": 29, "sec": 75.96, "timeout": false, "cost": 37, "bwc": 310006, "fitness": 1.0}
+{"i": 1034, "n": 1, "len": 26, "sec": 45.34, "timeout": false, "cost": 34, "bwc": 280006, "fitness": 1.0}
+{"i": 1035, "n": 1, "len": 8, "sec": 6.52, "timeout": false, "cost": 16, "bwc": 100006, "fitness": 1.0}
+{"i": 1036, "n": 1, "len": 17, "sec": 13.72, "timeout": false, "cost": 25, "bwc": 190006, "fitness": 1.0}
+{"i": 1037, "n": 1, "len": 13, "sec": 3.97, "timeout": false, "cost": 21, "bwc": 150006, "fitness": 1.0}
+{"i": 1038, "n": 1, "len": 18, "sec": 15.32, "timeout": false, "cost": 26, "bwc": 200006, "fitness": 1.0}
+{"i": 1039, "n": 1, "len": 10, "sec": 0.02, "timeout": false, "cost": 14, "bwc": 120006, "fitness": 1.0}
+{"i": 1040, "n": 1, "len": 10, "sec": 9.49, "timeout": false, "cost": 18, "bwc": 120006, "fitness": 1.0}
+{"i": 1041, "n": 1, "len": 9, "sec": 7.13, "timeout": false, "cost": 17, "bwc": 110006, "fitness": 1.0}
+{"i": 1042, "n": 1, "len": 14, "sec": 14.8, "timeout": false, "cost": 22, "bwc": 160006, "fitness": 1.0}
+{"i": 1043, "n": 1, "len": 15, "sec": 0.16, "timeout": false, "cost": 19, "bwc": 170006, "fitness": 1.0}
+{"i": 1044, "n": 1, "len": 10, "sec": 4.8, "timeout": false, "cost": 18, "bwc": 120006, "fitness": 1.0}
+{"i": 1045, "n": 1, "len": 15, "sec": 5.22, "timeout": false, "cost": 23, "bwc": 170006, "fitness": 1.0}
+{"i": 1046, "n": 1, "len": 12, "sec": 7.53, "timeout": false, "cost": 20, "bwc": 140006, "fitness": 1.0}
+{"i": 1047, "n": 1, "len": 16, "sec": 22.63, "timeout": false, "cost": 24, "bwc": 180006, "fitness": 1.0}
+{"i": 1048, "n": 1, "len": 33, "sec": 16.23, "timeout": false, "cost": 41, "bwc": 350006, "fitness": 1.0}
+{"i": 1049, "n": 1, "len": 25, "sec": 40.72, "timeout": false, "cost": 33, "bwc": 270006, "fitness": 1.0}
+{"i": 1050, "n": 1, "len": 8, "sec": 48.57, "timeout": false, "cost": 17, "bwc": 100006, "fitness": 1.0}
+{"i": 1051, "n": 1, "len": 26, "sec": 46.65, "timeout": false, "cost": 34, "bwc": 280006, "fitness": 1.0}
+{"i": 1052, "n": 1, "len": 13, "sec": 17.11, "timeout": false, "cost": 21, "bwc": 150006, "fitness": 1.0}
+{"i": 1053, "n": 1, "len": 8, "sec": 5.23, "timeout": false, "cost": 16, "bwc": 100006, "fitness": 1.0}
+{"i": 1054, "n": 1, "len": 10, "sec": 9.73, "timeout": false, "cost": 18, "bwc": 120006, "fitness": 1.0}
+{"i": 1055, "n": 1, "len": 14, "sec": 120.05, "timeout": true}
+{"i": 1056, "n": 1, "len": 7, "sec": 5.8, "timeout": false, "cost": 15, "bwc": 90006, "fitness": 1.0}
+{"i": 1057, "n": 1, "len": 20, "sec": 19.15, "timeout": false, "cost": 28, "bwc": 220006, "fitness": 1.0}
+{"i": 1058, "n": 1, "len": 14, "sec": 0.06, "timeout": false, "cost": 18, "bwc": 160006, "fitness": 1.0}
+{"i": 1059, "n": 1, "len": 14, "sec": 0.02, "timeout": false, "cost": 18, "bwc": 160006, "fitness": 1.0}
+{"i": 1060, "n": 1, "len": 15, "sec": 0.02, "timeout": false, "cost": 19, "bwc": 170006, "fitness": 1.0}
+{"i": 1061, "n": 1, "len": 10, "sec": 8.66, "timeout": false, "cost": 18, "bwc": 120006, "fitness": 1.0}
+{"i": 1062, "n": 1, "len": 12, "sec": 12.74, "timeout": false, "cost": 20, "bwc": 140006, "fitness": 1.0}
+{"i": 1063, "n": 1, "len": 24, "sec": 13.99, "timeout": false, "cost": 32, "bwc": 260006, "fitness": 1.0}
+{"i": 1064, "n": 1, "len": 9, "sec": 7.69, "timeout": false, "cost": 17, "bwc": 110006, "fitness": 1.0}
+{"i": 1065, "n": 2, "len": 8, "sec": 7.59, "timeout": false, "cost": 16, "bwc": 100006, "fitness": 1.0}
+{"i": 1066, "n": 1, "len": 9, "sec": 81.88, "timeout": false, "cost": 18, "bwc": 110006, "fitness": 1.0}
+{"i": 1067, "n": 1, "len": 12, "sec": 12.75, "timeout": false, "cost": 20, "bwc": 140006, "fitness": 1.0}
+{"i": 1068, "n": 1, "len": 22, "sec": 20.9, "timeout": false, "cost": 30, "bwc": 240006, "fitness": 1.0}
+{"i": 1069, "n": 1, "len": 16, "sec": 20.7, "timeout": false, "cost": 24, "bwc": 180006, "fitness": 1.0}
+{"i": 1070, "n": 1, "len": 10, "sec": 3.26, "timeout": false, "cost": 18, "bwc": 120006, "fitness": 1.0}
+{"i": 1071, "n": 1, "len": 22, "sec": 19.34, "timeout": false, "cost": 30, "bwc": 240006, "fitness": 1.0}
+{"i": 1072, "n": 1, "len": 25, "sec": 24.16, "timeout": false, "cost": 33, "bwc": 270006, "fitness": 1.0}
+{"i": 1073, "n": 1, "len": 17, "sec": 17.2, "timeout": false, "cost": 25, "bwc": 190006, "fitness": 1.0}
+{"i": 1074, "n": 1, "len": 8, "sec": 4.87, "timeout": false, "cost": 16, "bwc": 100006, "fitness": 1.0}
+{"i": 1075, "n": 1, "len": 7, "sec": 0.06, "timeout": false, "cost": 14, "bwc": 90006, "fitness": 1.0}
+{"i": 1076, "n": 1, "len": 12, "sec": 16.44, "timeout": false, "cost": 20, "bwc": 140006, "fitness": 1.0}
+{"i": 1077, "n": 1, "len": 11, "sec": 6.09, "timeout": false, "cost": 19, "bwc": 130006, "fitness": 1.0}
+{"i": 1078, "n": 1, "len": 17, "sec": 8.53, "timeout": false, "cost": 25, "bwc": 190006, "fitness": 1.0}
+{"i": 1079, "n": 1, "len": 26, "sec": 18.54, "timeout": false, "cost": 34, "bwc": 280006, "fitness": 1.0}
+{"i": 1080, "n": 1, "len": 26, "sec": 35.55, "timeout": false, "cost": 34, "bwc": 280006, "fitness": 1.0}
+{"i": 1081, "n": 1, "len": 14, "sec": 22.22, "timeout": false, "cost": 22, "bwc": 160006, "fitness": 1.0}
+{"i": 1082, "n": 1, "len": 13, "sec": 13.13, "timeout": false, "cost": 22, "bwc": 150006, "fitness": 1.0}
+{"i": 1083, "n": 1, "len": 12, "sec": 8.28, "timeout": false, "cost": 20, "bwc": 140006, "fitness": 1.0}
+{"i": 1084, "n": 1, "len": 10, "sec": 0.02, "timeout": false, "cost": 14, "bwc": 120006, "fitness": 1.0}
+{"i": 1085, "n": 1, "len": 6, "sec": 3.95, "timeout": false, "cost": 14, "bwc": 80006, "fitness": 1.0}
+{"i": 1086, "n": 1, "len": 12, "sec": 11.48, "timeout": false, "cost": 20, "bwc": 140006, "fitness": 1.0}
+{"i": 1087, "n": 1, "len": 9, "sec": 6.89, "timeout": false, "cost": 17, "bwc": 110006, "fitness": 1.0}
+{"i": 1088, "n": 1, "len": 17, "sec": 17.38, "timeout": false, "cost": 25, "bwc": 190006, "fitness": 1.0}
+{"i": 1089, "n": 1, "len": 14, "sec": 2.19, "timeout": false, "cost": 22, "bwc": 160006, "fitness": 1.0}
+{"i": 1090, "n": 1, "len": 13, "sec": 15.73, "timeout": false, "cost": 21, "bwc": 150006, "fitness": 1.0}
+{"i": 1091, "n": 1, "len": 23, "sec": 17.97, "timeout": false, "cost": 31, "bwc": 250006, "fitness": 1.0}
+{"i": 1092, "n": 1, "len": 12, "sec": 6.78, "timeout": false, "cost": 20, "bwc": 140006, "fitness": 1.0}
+{"i": 1093, "n": 1, "len": 20, "sec": 120.04, "timeout": true}
+{"i": 1094, "n": 1, "len": 15, "sec": 120.06, "timeout": true}
+{"i": 1095, "n": 1, "len": 22, "sec": 120.05, "timeout": true}
+{"i": 1096, "n": 1, "len": 14, "sec": 10.03, "timeout": false, "cost": 22, "bwc": 160006, "fitness": 1.0}
+{"i": 1097, "n": 1, "len": 14, "sec": 0.2, "timeout": false, "cost": 18, "bwc": 160006, "fitness": 1.0}
+{"i": 1098, "n": 1, "len": 4, "sec": 15.08, "timeout": false, "cost": 13, "bwc": 60006, "fitness": 1.0}
+{"i": 1099, "n": 1, "len": 32, "sec": 40.68, "timeout": false, "cost": 40, "bwc": 340006, "fitness": 1.0}
+{"i": 1100, "n": 1, "len": 41, "sec": 120.08, "timeout": true}
+{"i": 1101, "n": 1, "len": 24, "sec": 0.19, "timeout": false, "cost": 28, "bwc": 260006, "fitness": 1.0}
+{"i": 1102, "n": 1, "len": 22, "sec": 0.02, "timeout": false, "cost": 26, "bwc": 240006, "fitness": 1.0}
+{"i": 1103, "n": 1, "len": 10, "sec": 14.66, "timeout": false, "cost": 18, "bwc": 120006, "fitness": 1.0}
+{"i": 1104, "n": 1, "len": 13, "sec": 20.5, "timeout": false, "cost": 21, "bwc": 150006, "fitness": 1.0}
+{"i": 1105, "n": 1, "len": 8, "sec": 0.02, "timeout": false, "cost": 12, "bwc": 100006, "fitness": 1.0}
+{"i": 1106, "n": 1, "len": 17, "sec": 0.03, "timeout": false, "cost": 21, "bwc": 190006, "fitness": 1.0}
+{"i": 1107, "n": 1, "len": 32, "sec": 11.33, "timeout": false, "cost": 40, "bwc": 340006, "fitness": 1.0}
+{"i": 1108, "n": 1, "len": 19, "sec": 86.25, "timeout": false, "cost": 28, "bwc": 210006, "fitness": 1.0}
+{"i": 1109, "n": 1, "len": 13, "sec": 3.55, "timeout": false, "cost": 21, "bwc": 150006, "fitness": 1.0}
+{"i": 1110, "n": 1, "len": 14, "sec": 16.62, "timeout": false, "cost": 22, "bwc": 160006, "fitness": 1.0}
+{"i": 1111, "n": 1, "len": 20, "sec": 19.01, "timeout": false, "cost": 28, "bwc": 220006, "fitness": 1.0}
+{"i": 1112, "n": 1, "len": 17, "sec": 5.35, "timeout": false, "cost": 25, "bwc": 190006, "fitness": 1.0}
+{"i": 1113, "n": 1, "len": 7, "sec": 45.65, "timeout": false, "cost": 16, "bwc": 90006, "fitness": 1.0}
+{"i": 1114, "n": 1, "len": 13, "sec": 0.1, "timeout": false, "cost": 17, "bwc": 150006, "fitness": 1.0}
+{"i": 1115, "n": 1, "len": 24, "sec": 0.03, "timeout": false, "cost": 28, "bwc": 260006, "fitness": 1.0}
+{"i": 1116, "n": 1, "len": 16, "sec": 120.09, "timeout": true}
+{"i": 1117, "n": 1, "len": 19, "sec": 9.44, "timeout": false, "cost": 27, "bwc": 210006, "fitness": 1.0}
+{"i": 1118, "n": 1, "len": 16, "sec": 12.26, "timeout": false, "cost": 24, "bwc": 180006, "fitness": 1.0}
+{"i": 1119, "n": 1, "len": 22, "sec": 23.11, "timeout": false, "cost": 31, "bwc": 240006, "fitness": 1.0}
+{"i": 1120, "n": 1, "len": 13, "sec": 3.84, "timeout": false, "cost": 21, "bwc": 150006, "fitness": 1.0}
+{"i": 1121, "n": 1, "len": 22, "sec": 21.61, "timeout": false, "cost": 30, "bwc": 240006, "fitness": 1.0}
+{"i": 1122, "n": 1, "len": 10, "sec": 0.02, "timeout": false, "cost": 14, "bwc": 120006, "fitness": 1.0}
+{"i": 1123, "n": 1, "len": 17, "sec": 120.07, "timeout": true}
+{"i": 1124, "n": 1, "len": 12, "sec": 2.58, "timeout": false, "cost": 20, "bwc": 140006, "fitness": 1.0}
+{"i": 1125, "n": 1, "len": 22, "sec": 15.86, "timeout": false, "cost": 30, "bwc": 240006, "fitness": 1.0}
+{"i": 1126, "n": 1, "len": 20, "sec": 10.61, "timeout": false, "cost": 28, "bwc": 220006, "fitness": 1.0}
+{"i": 1127, "n": 1, "len": 11, "sec": 12.19, "timeout": false, "cost": 19, "bwc": 130006, "fitness": 1.0}
+{"i": 1128, "n": 1, "len": 14, "sec": 120.06, "timeout": true}
+{"i": 1129, "n": 1, "len": 16, "sec": 120.06, "timeout": true}
+{"i": 1130, "n": 1, "len": 9, "sec": 2.83, "timeout": false, "cost": 17, "bwc": 110006, "fitness": 1.0}
+{"i": 1131, "n": 1, "len": 16, "sec": 25.43, "timeout": false, "cost": 24, "bwc": 180006, "fitness": 1.0}
+{"i": 1132, "n": 1, "len": 23, "sec": 120.07, "timeout": true}
+{"i": 1133, "n": 1, "len": 10, "sec": 9.79, "timeout": false, "cost": 18, "bwc": 120006, "fitness": 1.0}
+{"i": 1134, "n": 1, "len": 14, "sec": 0.04, "timeout": false, "cost": 18, "bwc": 160006, "fitness": 1.0}
+{"i": 1135, "n": 1, "len": 26, "sec": 120.06, "timeout": true}
+{"i": 1136, "n": 1, "len": 10, "sec": 4.64, "timeout": false, "cost": 18, "bwc": 120006, "fitness": 1.0}
+{"i": 1137, "n": 1, "len": 17, "sec": 10.81, "timeout": false, "cost": 25, "bwc": 190006, "fitness": 1.0}
+{"i": 1138, "n": 1, "len": 11, "sec": 10.05, "timeout": false, "cost": 19, "bwc": 130006, "fitness": 1.0}
+{"i": 1139, "n": 1, "len": 14, "sec": 11.84, "timeout": false, "cost": 22, "bwc": 160006, "fitness": 1.0}
+{"i": 1140, "n": 1, "len": 12, "sec": 0.02, "timeout": false, "cost": 16, "bwc": 140006, "fitness": 1.0}
+{"i": 1141, "n": 1, "len": 34, "sec": 120.09, "timeout": true}
+{"i": 1142, "n": 1, "len": 30, "sec": 31.71, "timeout": false, "cost": 38, "bwc": 320006, "fitness": 1.0}
