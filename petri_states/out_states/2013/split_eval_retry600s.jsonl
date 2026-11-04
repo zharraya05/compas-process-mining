@@ -1,0 +1,2 @@
+{"model": "DFG_p0.05", "experiment": "2013", "align_max_sec_trace": 600, "retry_of": 120, "fitness_align_test": 0.9639707882970333, "pct_fit_traces_align_test": 71.38420585625555, "align_traces": 2255, "align_timeout": 1, "align_timeout_before": 1, "finished": "2026-11-04 13:55"}
+{"model": "SplitMiner", "experiment": "2013", "align_max_sec_trace": 600, "retry_of": 120, "fitness_align_test": 0.6333102805428785, "pct_fit_traces_align_test": 6.255545696539485, "align_traces": 2255, "align_timeout": 1, "align_timeout_before": 7, "finished": "2026-11-04 14:24"}

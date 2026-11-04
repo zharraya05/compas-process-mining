@@ -1,0 +1,151 @@
+{"i": 1, "n": 1, "len": 20, "sec": 58.31, "retried": true, "timeout": false, "cost": 20025, "bwc": 220007, "fitness": 0.9090909090909091}
+{"i": 9, "n": 1, "len": 34, "sec": 120.03, "retried": true, "timeout": true}
+{"i": 10, "n": 1, "len": 32, "sec": 53.14, "retried": true, "timeout": false, "cost": 10036, "bwc": 340007, "fitness": 0.9705882352941176}
+{"i": 14, "n": 1, "len": 20, "sec": 90.69, "retried": true, "timeout": false, "cost": 30022, "bwc": 220007, "fitness": 0.8636363636363636}
+{"i": 17, "n": 1, "len": 43, "sec": 40.78, "retried": true, "timeout": false, "cost": 10047, "bwc": 450007, "fitness": 0.9777777777777777}
+{"i": 21, "n": 1, "len": 46, "sec": 120.03, "retried": true, "timeout": true}
+{"i": 22, "n": 1, "len": 46, "sec": 83.66, "retried": true, "timeout": false, "cost": 10050, "bwc": 480007, "fitness": 0.9791666666666666}
+{"i": 23, "n": 1, "len": 45, "sec": 120.03, "retried": true, "timeout": true}
+{"i": 25, "n": 1, "len": 70, "sec": 120.04, "retried": true, "timeout": true}
+{"i": 26, "n": 1, "len": 19, "sec": 26.03, "retried": true, "timeout": false, "cost": 10023, "bwc": 210007, "fitness": 0.9523809523809523}
+{"i": 30, "n": 1, "len": 33, "sec": 120.03, "retried": true, "timeout": true}
+{"i": 41, "n": 1, "len": 13, "sec": 28.56, "retried": true, "timeout": false, "cost": 20016, "bwc": 150007, "fitness": 0.8666666666666667}
+{"i": 44, "n": 1, "len": 24, "sec": 84.79, "retried": true, "timeout": false, "cost": 20027, "bwc": 260007, "fitness": 0.9230769230769231}
+{"i": 45, "n": 1, "len": 14, "sec": 43.74, "retried": true, "timeout": false, "cost": 40015, "bwc": 160007, "fitness": 0.75}
+{"i": 46, "n": 1, "len": 74, "sec": 120.06, "retried": true, "timeout": true}
+{"i": 47, "n": 1, "len": 59, "sec": 120.02, "retried": true, "timeout": true}
+{"i": 49, "n": 1, "len": 29, "sec": 40.9, "retried": true, "timeout": false, "cost": 10033, "bwc": 310007, "fitness": 0.967741935483871}
+{"i": 50, "n": 1, "len": 45, "sec": 120.05, "retried": true, "timeout": true}
+{"i": 52, "n": 1, "len": 28, "sec": 37.56, "retried": true, "timeout": false, "cost": 10032, "bwc": 300007, "fitness": 0.9666666666666667}
+{"i": 53, "n": 1, "len": 26, "sec": 71.45, "retried": true, "timeout": false, "cost": 20029, "bwc": 280007, "fitness": 0.9285714285714286}
+{"i": 54, "n": 1, "len": 24, "sec": 120.02, "retried": true, "timeout": true}
+{"i": 56, "n": 1, "len": 63, "sec": 120.06, "retried": true, "timeout": true}
+{"i": 59, "n": 1, "len": 20, "sec": 86.2, "retried": true, "timeout": false, "cost": 30022, "bwc": 220007, "fitness": 0.8636363636363636}
+{"i": 65, "n": 1, "len": 20, "sec": 50.72, "retried": true, "timeout": false, "cost": 20023, "bwc": 220007, "fitness": 0.9090909090909091}
+{"i": 68, "n": 1, "len": 84, "sec": 120.08, "retried": true, "timeout": true}
+{"i": 69, "n": 1, "len": 49, "sec": 120.06, "retried": true, "timeout": true}
+{"i": 70, "n": 1, "len": 137, "sec": 120.12, "retried": true, "timeout": true}
+{"i": 73, "n": 1, "len": 26, "sec": 120.04, "retried": true, "timeout": true}
+{"i": 76, "n": 1, "len": 37, "sec": 115.2, "retried": true, "timeout": false, "cost": 20040, "bwc": 390007, "fitness": 0.9487179487179487}
+{"i": 77, "n": 1, "len": 37, "sec": 120.03, "retried": true, "timeout": true}
+{"i": 80, "n": 1, "len": 31, "sec": 41.28, "retried": true, "timeout": false, "cost": 10035, "bwc": 330007, "fitness": 0.9696969696969697}
+{"i": 81, "n": 1, "len": 58, "sec": 120.05, "retried": true, "timeout": true}
+{"i": 82, "n": 1, "len": 40, "sec": 120.02, "retried": true, "timeout": true}
+{"i": 86, "n": 1, "len": 104, "sec": 120.05, "retried": true, "timeout": true}
+{"i": 91, "n": 1, "len": 34, "sec": 102.84, "retried": true, "timeout": false, "cost": 20037, "bwc": 360007, "fitness": 0.9444444444444444}
+{"i": 94, "n": 1, "len": 34, "sec": 46.96, "retried": true, "timeout": false, "cost": 10038, "bwc": 360007, "fitness": 0.9722222222222222}
+{"i": 96, "n": 1, "len": 48, "sec": 120.07, "retried": true, "timeout": true}
+{"i": 97, "n": 1, "len": 27, "sec": 119.54, "retried": true, "timeout": false, "cost": 30029, "bwc": 290007, "fitness": 0.896551724137931}
+{"i": 98, "n": 1, "len": 25, "sec": 104.47, "retried": true, "timeout": false, "cost": 30027, "bwc": 270007, "fitness": 0.8888888888888888}
+{"i": 99, "n": 1, "len": 39, "sec": 92.54, "retried": true, "timeout": false, "cost": 10043, "bwc": 410007, "fitness": 0.975609756097561}
+{"i": 101, "n": 1, "len": 42, "sec": 120.07, "retried": true, "timeout": true}
+{"i": 103, "n": 1, "len": 65, "sec": 120.04, "retried": true, "timeout": true}
+{"i": 104, "n": 1, "len": 18, "sec": 55.01, "retried": true, "timeout": false, "cost": 20021, "bwc": 200007, "fitness": 0.9}
+{"i": 111, "n": 1, "len": 23, "sec": 87.29, "retried": true, "timeout": false, "cost": 20026, "bwc": 250007, "fitness": 0.92}
+{"i": 113, "n": 1, "len": 25, "sec": 99.38, "retried": true, "timeout": false, "cost": 20028, "bwc": 270007, "fitness": 0.9259259259259259}
+{"i": 114, "n": 1, "len": 31, "sec": 28.04, "retried": true, "timeout": false, "cost": 10035, "bwc": 330007, "fitness": 0.9696969696969697}
+{"i": 115, "n": 1, "len": 94, "sec": 120.12, "retried": true, "timeout": true}
+{"i": 125, "n": 1, "len": 52, "sec": 120.04, "retried": true, "timeout": true}
+{"i": 127, "n": 1, "len": 31, "sec": 75.51, "retried": true, "timeout": false, "cost": 20034, "bwc": 330007, "fitness": 0.9393939393939394}
+{"i": 129, "n": 1, "len": 46, "sec": 120.06, "retried": true, "timeout": true}
+{"i": 130, "n": 1, "len": 44, "sec": 120.03, "retried": true, "timeout": true}
+{"i": 132, "n": 1, "len": 19, "sec": 84.62, "retried": true, "timeout": false, "cost": 30021, "bwc": 210007, "fitness": 0.8571428571428572}
+{"i": 135, "n": 1, "len": 34, "sec": 120.03, "retried": true, "timeout": true}
+{"i": 137, "n": 1, "len": 15, "sec": 35.59, "retried": true, "timeout": false, "cost": 20018, "bwc": 170007, "fitness": 0.8823529411764706}
+{"i": 139, "n": 1, "len": 11, "sec": 44.62, "retried": true, "timeout": false, "cost": 30013, "bwc": 130007, "fitness": 0.7692307692307692}
+{"i": 141, "n": 1, "len": 18, "sec": 59.47, "retried": true, "timeout": false, "cost": 30020, "bwc": 200007, "fitness": 0.85}
+{"i": 145, "n": 1, "len": 83, "sec": 120.04, "retried": true, "timeout": true}
+{"i": 146, "n": 1, "len": 42, "sec": 120.03, "retried": true, "timeout": true}
+{"i": 149, "n": 1, "len": 18, "sec": 24.2, "retried": true, "timeout": false, "cost": 10022, "bwc": 200007, "fitness": 0.95}
+{"i": 153, "n": 1, "len": 19, "sec": 66.29, "retried": true, "timeout": false, "cost": 20022, "bwc": 210007, "fitness": 0.9047619047619048}
+{"i": 154, "n": 1, "len": 27, "sec": 96.04, "retried": true, "timeout": false, "cost": 20030, "bwc": 290007, "fitness": 0.9310344827586207}
+{"i": 157, "n": 1, "len": 42, "sec": 91.15, "retried": true, "timeout": false, "cost": 10046, "bwc": 440007, "fitness": 0.9772727272727273}
+{"i": 159, "n": 1, "len": 24, "sec": 120.03, "retried": true, "timeout": true}
+{"i": 161, "n": 1, "len": 25, "sec": 31.4, "retried": true, "timeout": false, "cost": 10029, "bwc": 270007, "fitness": 0.962962962962963}
+{"i": 162, "n": 1, "len": 69, "sec": 120.06, "retried": true, "timeout": true}
+{"i": 164, "n": 1, "len": 48, "sec": 120.04, "retried": true, "timeout": true}
+{"i": 167, "n": 1, "len": 23, "sec": 29.6, "retried": true, "timeout": false, "cost": 10027, "bwc": 250007, "fitness": 0.96}
+{"i": 170, "n": 1, "len": 12, "sec": 31.28, "retried": true, "timeout": false, "cost": 20015, "bwc": 140007, "fitness": 0.8571428571428572}
+{"i": 177, "n": 1, "len": 49, "sec": 120.65, "retried": true, "timeout": true}
+{"i": 182, "n": 1, "len": 21, "sec": 29.15, "retried": true, "timeout": false, "cost": 10025, "bwc": 230007, "fitness": 0.9565217391304348}
+{"i": 183, "n": 1, "len": 68, "sec": 120.06, "retried": true, "timeout": true}
+{"i": 184, "n": 1, "len": 53, "sec": 120.03, "retried": true, "timeout": true}
+{"i": 186, "n": 1, "len": 47, "sec": 120.04, "retried": true, "timeout": true}
+{"i": 187, "n": 1, "len": 24, "sec": 39.33, "retried": true, "timeout": false, "cost": 10028, "bwc": 260007, "fitness": 0.9615384615384616}
+{"i": 196, "n": 1, "len": 42, "sec": 120.04, "retried": true, "timeout": true}
+{"i": 198, "n": 1, "len": 59, "sec": 120.05, "retried": true, "timeout": true}
+{"i": 204, "n": 1, "len": 44, "sec": 120.04, "retried": true, "timeout": true}
+{"i": 208, "n": 1, "len": 35, "sec": 120.6, "retried": true, "timeout": true}
+{"i": 209, "n": 1, "len": 45, "sec": 81.22, "retried": true, "timeout": false, "cost": 10049, "bwc": 470007, "fitness": 0.9787234042553191}
+{"i": 211, "n": 1, "len": 25, "sec": 120.04, "retried": true, "timeout": true}
+{"i": 212, "n": 1, "len": 38, "sec": 66.73, "retried": true, "timeout": false, "cost": 20041, "bwc": 400007, "fitness": 0.95}
+{"i": 214, "n": 1, "len": 57, "sec": 120.05, "retried": true, "timeout": true}
+{"i": 216, "n": 1, "len": 89, "sec": 120.03, "retried": true, "timeout": true}
+{"i": 219, "n": 1, "len": 37, "sec": 72.05, "retried": true, "timeout": false, "cost": 10041, "bwc": 390007, "fitness": 0.9743589743589743}
+{"i": 223, "n": 1, "len": 13, "sec": 66.1, "retried": true, "timeout": false, "cost": 40014, "bwc": 150007, "fitness": 0.7333333333333334}
+{"i": 225, "n": 1, "len": 77, "sec": 120.02, "retried": true, "timeout": true}
+{"i": 227, "n": 1, "len": 27, "sec": 120.02, "retried": true, "timeout": true}
+{"i": 228, "n": 1, "len": 18, "sec": 48.58, "retried": true, "timeout": false, "cost": 20021, "bwc": 200007, "fitness": 0.9}
+{"i": 230, "n": 1, "len": 26, "sec": 19.62, "retried": true, "timeout": false, "cost": 10030, "bwc": 280007, "fitness": 0.9642857142857143}
+{"i": 233, "n": 1, "len": 24, "sec": 120.03, "retried": true, "timeout": true}
+{"i": 237, "n": 1, "len": 44, "sec": 120.03, "retried": true, "timeout": true}
+{"i": 239, "n": 1, "len": 42, "sec": 63.98, "retried": true, "timeout": false, "cost": 10046, "bwc": 440007, "fitness": 0.9772727272727273}
+{"i": 240, "n": 1, "len": 16, "sec": 41.25, "retried": true, "timeout": false, "cost": 20019, "bwc": 180007, "fitness": 0.8888888888888888}
+{"i": 241, "n": 1, "len": 35, "sec": 55.56, "retried": true, "timeout": false, "cost": 10039, "bwc": 370007, "fitness": 0.972972972972973}
+{"i": 242, "n": 1, "len": 23, "sec": 27.06, "retried": true, "timeout": false, "cost": 10027, "bwc": 250007, "fitness": 0.96}
+{"i": 243, "n": 1, "len": 47, "sec": 120.05, "retried": true, "timeout": true}
+{"i": 244, "n": 1, "len": 78, "sec": 120.07, "retried": true, "timeout": true}
+{"i": 248, "n": 1, "len": 15, "sec": 36.38, "retried": true, "timeout": false, "cost": 20018, "bwc": 170007, "fitness": 0.8823529411764706}
+{"i": 249, "n": 1, "len": 30, "sec": 120.03, "retried": true, "timeout": true}
+{"i": 250, "n": 1, "len": 17, "sec": 33.23, "retried": true, "timeout": false, "cost": 20020, "bwc": 190007, "fitness": 0.8947368421052632}
+{"i": 252, "n": 1, "len": 35, "sec": 120.03, "retried": true, "timeout": true}
+{"i": 254, "n": 1, "len": 40, "sec": 120.04, "retried": true, "timeout": true}
+{"i": 256, "n": 1, "len": 59, "sec": 120.03, "retried": true, "timeout": true}
+{"i": 257, "n": 1, "len": 53, "sec": 120.03, "retried": true, "timeout": true}
+{"i": 260, "n": 1, "len": 23, "sec": 33.92, "retried": true, "timeout": false, "cost": 10027, "bwc": 250007, "fitness": 0.96}
+{"i": 261, "n": 1, "len": 19, "sec": 70.51, "retried": true, "timeout": false, "cost": 20022, "bwc": 210007, "fitness": 0.9047619047619048}
+{"i": 262, "n": 1, "len": 38, "sec": 120.04, "retried": true, "timeout": true}
+{"i": 264, "n": 1, "len": 35, "sec": 63.78, "retried": true, "timeout": false, "cost": 10039, "bwc": 370007, "fitness": 0.972972972972973}
+{"i": 265, "n": 1, "len": 41, "sec": 120.02, "retried": true, "timeout": true}
+{"i": 267, "n": 1, "len": 36, "sec": 120.04, "retried": true, "timeout": true}
+{"i": 268, "n": 1, "len": 19, "sec": 37.94, "retried": true, "timeout": false, "cost": 20022, "bwc": 210007, "fitness": 0.9047619047619048}
+{"i": 269, "n": 1, "len": 34, "sec": 55.47, "retried": true, "timeout": false, "cost": 10038, "bwc": 360007, "fitness": 0.9722222222222222}
+{"i": 270, "n": 1, "len": 21, "sec": 67.43, "retried": true, "timeout": false, "cost": 20024, "bwc": 230007, "fitness": 0.9130434782608696}
+{"i": 271, "n": 1, "len": 23, "sec": 96.19, "retried": true, "timeout": false, "cost": 20026, "bwc": 250007, "fitness": 0.92}
+{"i": 273, "n": 1, "len": 45, "sec": 120.04, "retried": true, "timeout": true}
+{"i": 274, "n": 1, "len": 31, "sec": 120.04, "retried": true, "timeout": true}
+{"i": 277, "n": 1, "len": 20, "sec": 73.73, "retried": true, "timeout": false, "cost": 20023, "bwc": 220007, "fitness": 0.9090909090909091}
+{"i": 282, "n": 1, "len": 19, "sec": 52.91, "retried": true, "timeout": false, "cost": 20022, "bwc": 210007, "fitness": 0.9047619047619048}
+{"i": 283, "n": 1, "len": 21, "sec": 23.96, "retried": true, "timeout": false, "cost": 10025, "bwc": 230007, "fitness": 0.9565217391304348}
+{"i": 284, "n": 1, "len": 49, "sec": 120.03, "retried": true, "timeout": true}
+{"i": 285, "n": 1, "len": 54, "sec": 107.96, "retried": true, "timeout": false, "cost": 10058, "bwc": 560007, "fitness": 0.9821428571428571}
+{"i": 289, "n": 1, "len": 15, "sec": 45.11, "retried": true, "timeout": false, "cost": 20018, "bwc": 170007, "fitness": 0.8823529411764706}
+{"i": 290, "n": 1, "len": 23, "sec": 120.03, "retried": true, "timeout": true}
+{"i": 291, "n": 1, "len": 56, "sec": 120.06, "retried": true, "timeout": true}
+{"i": 294, "n": 1, "len": 36, "sec": 120.03, "retried": true, "timeout": true}
+{"i": 295, "n": 1, "len": 80, "sec": 120.02, "retried": true, "timeout": true}
+{"i": 296, "n": 1, "len": 32, "sec": 33.54, "retried": true, "timeout": false, "cost": 10036, "bwc": 340007, "fitness": 0.9705882352941176}
+{"i": 297, "n": 1, "len": 23, "sec": 45.95, "retried": true, "timeout": false, "cost": 10027, "bwc": 250007, "fitness": 0.96}
+{"i": 298, "n": 1, "len": 19, "sec": 25.82, "retried": true, "timeout": false, "cost": 10023, "bwc": 210007, "fitness": 0.9523809523809523}
+{"i": 299, "n": 1, "len": 20, "sec": 31.05, "retried": true, "timeout": false, "cost": 10024, "bwc": 220007, "fitness": 0.9545454545454546}
+{"i": 304, "n": 1, "len": 49, "sec": 120.04, "retried": true, "timeout": true}
+{"i": 305, "n": 1, "len": 13, "sec": 44.41, "retried": true, "timeout": false, "cost": 30015, "bwc": 150007, "fitness": 0.8}
+{"i": 306, "n": 1, "len": 25, "sec": 80.44, "retried": true, "timeout": false, "cost": 20028, "bwc": 270007, "fitness": 0.9259259259259259}
+{"i": 308, "n": 1, "len": 50, "sec": 120.06, "retried": true, "timeout": true}
+{"i": 309, "n": 1, "len": 60, "sec": 120.06, "retried": true, "timeout": true}
+{"i": 311, "n": 1, "len": 11, "sec": 34.23, "retried": true, "timeout": false, "cost": 20014, "bwc": 130007, "fitness": 0.8461538461538461}
+{"i": 312, "n": 1, "len": 17, "sec": 43.63, "retried": true, "timeout": false, "cost": 20020, "bwc": 190007, "fitness": 0.8947368421052632}
+{"i": 313, "n": 1, "len": 30, "sec": 55.15, "retried": true, "timeout": false, "cost": 10034, "bwc": 320007, "fitness": 0.96875}
+{"i": 315, "n": 1, "len": 15, "sec": 87.01, "retried": true, "timeout": false, "cost": 40016, "bwc": 170007, "fitness": 0.7647058823529411}
+{"i": 317, "n": 1, "len": 31, "sec": 48.44, "retried": true, "timeout": false, "cost": 10035, "bwc": 330007, "fitness": 0.9696969696969697}
+{"i": 319, "n": 1, "len": 16, "sec": 60.93, "retried": true, "timeout": false, "cost": 40017, "bwc": 180007, "fitness": 0.7777777777777778}
+{"i": 321, "n": 1, "len": 11, "sec": 26.67, "retried": true, "timeout": false, "cost": 20014, "bwc": 130007, "fitness": 0.8461538461538461}
+{"i": 322, "n": 1, "len": 12, "sec": 35.5, "retried": true, "timeout": false, "cost": 20015, "bwc": 140007, "fitness": 0.8571428571428572}
+{"i": 323, "n": 1, "len": 17, "sec": 45.45, "retried": true, "timeout": false, "cost": 20020, "bwc": 190007, "fitness": 0.8947368421052632}
+{"i": 324, "n": 1, "len": 31, "sec": 120.03, "retried": true, "timeout": true}
+{"i": 325, "n": 1, "len": 37, "sec": 120.03, "retried": true, "timeout": true}
+{"i": 326, "n": 1, "len": 17, "sec": 40.3, "retried": true, "timeout": false, "cost": 20020, "bwc": 190007, "fitness": 0.8947368421052632}
+{"i": 328, "n": 1, "len": 88, "sec": 120.08, "retried": true, "timeout": true}
+{"i": 329, "n": 1, "len": 32, "sec": 120.04, "retried": true, "timeout": true}
+{"i": 330, "n": 1, "len": 75, "sec": 120.06, "retried": true, "timeout": true}
+{"i": 331, "n": 1, "len": 19, "sec": 92.59, "retried": true, "timeout": false, "cost": 20022, "bwc": 210007, "fitness": 0.9047619047619048}
