@@ -1,0 +1,27 @@
+{
+ "obs_end": "2016-04-19 07:19:36",
+ "composite": 12806,
+ "absorbed_units": 181,
+ "inside_units": 1609,
+ "returns": 1167,
+ "free_after_case": 16806,
+ "free_after_custody": 20738,
+ "no_free_next_day": 202,
+ "started_inside": 143,
+ "dropped_people_no_events": 196,
+ "end_from_case": 0,
+ "end_from_composite": 2,
+ "events": 117230,
+ "people": 11277,
+ "activities": 10,
+ "short_days": 15,
+ "long_days": 180,
+ "end_rule": "v2",
+ "log_start": "2013-01-01",
+ "checks": [
+  "время внутри каждой трассы строго возрастает",
+  "перед end: {'free': 10590, 'prison': 647, 'jail': 38, 'arrest+jail': 1, 'arrest+charge+jail': 1}",
+  "перед end без заключения и не free: 0, из них не в последние 2 дня: 0",
+  "free → free подряд: 0"
+ ]
+}
