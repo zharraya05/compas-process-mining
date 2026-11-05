@@ -1,0 +1,7 @@
+data/*.db
+.kernel/
+.ipynb_checkpoints/
+__pycache__/
+run_log.txt
+*/out/run_*
+*/out/**/prepared/

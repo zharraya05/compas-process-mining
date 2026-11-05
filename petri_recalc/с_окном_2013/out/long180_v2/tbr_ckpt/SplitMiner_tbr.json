@@ -1,0 +1,1 @@
+{"model": "SplitMiner", "places": 19, "transitions": 34, "silent": 24, "train_traces": 9022, "test_traces": 2255, "fitness_tbr_train": 0.7756261617172591, "fitness_tbr_test": 0.7788832639967922, "pct_fit_traces_tbr_test": 6.5631929046563195, "sec_tbr": 11.560297727584839, "precision_etc_test": 0.7720273243024198, "sec_prec": 3.6469109058380127}

@@ -1,0 +1,101 @@
+digraph G { rankdir=LR; ranksep=1.0; nodesep=.16; newrank=true; labelloc=t; fontsize=18; fontname="Arial";
+  label="Папка «петри»: файлы журнала состояний petri_states_*";
+  node [style=filled, fontsize=11, fontname="Arial", margin="0.08,0.04"]; edge [fontname="Arial", fontsize=9];
+  subgraph cluster_in { label="Данные"; style="rounded"; color="#cccccc"; fontsize=13; fontname="Arial";
+  db [label="compas.db\n(stage0 - data)", shape=cylinder, fillcolor="#f3ead7"];
+  cc [label="crime_categories.py\n(stage0 ver2 from charge)", shape=box, fillcolor="#dfe3ea"];
+  }
+  subgraph cluster_core { label="Ядро"; style="rounded"; color="#cccccc"; fontsize=13; fontname="Arial";
+  pp [label="petri_pipeline.py", shape=box, fillcolor="#dfe3ea"];
+  ps [label="petri_states.py", shape=box, fillcolor="#dfe3ea"];
+  fa [label="flags_analysis.py", shape=box, fillcolor="#dfe3ea"];
+  }
+  subgraph cluster_gen { label="Генераторы ноутбуков (в расчёте не участвуют)"; style="rounded"; color="#cccccc"; fontsize=13; fontname="Arial";
+  g1 [label="make_notebook_states.py", shape=box, style="filled,dashed", fillcolor="#efe4f5"];
+  g2 [label="make_notebook_flags.py", shape=box, style="filled,dashed", fillcolor="#efe4f5"];
+  g3 [label="make_notebook_states_eval.py", shape=box, style="filled,dashed", fillcolor="#efe4f5"];
+  g4 [label="make_notebook_results.py", shape=box, style="filled,dashed", fillcolor="#efe4f5"];
+  g5 [label="make_notebook_results_v2.py", shape=box, style="filled,dashed", fillcolor="#efe4f5"];
+  }
+  subgraph cluster_calc { label="Расчёт"; style="rounded"; color="#7aa6d6"; fontsize=13; fontname="Arial";
+  n1 [label="petri_states.ipynb\nвсе майнеры, весь журнал", shape=box, style="rounded,filled", fillcolor="#d6e6f7"];
+  n2 [label="petri_states_flags.ipynb\nподбор SHORT / LONG", shape=box, style="rounded,filled", fillcolor="#d6e6f7"];
+  n3 [label="petri_states_eval_2013.ipynb\npetri_states_eval_all.ipynb\ntrain/test + alignments", shape=box, style="rounded,filled", fillcolor="#d6e6f7"];
+  s1 [label="run_split.py\n(пути /home/claude)", shape=box, style="filled,dashed", fillcolor="#fbd9d5"];
+  s2 [label="retry_timeouts.py\n(пути /home/claude)", shape=box, style="filled,dashed", fillcolor="#fbd9d5"];
+  s3 [label="im_timeouts.py\n(пути /home/claude)", shape=box, style="filled,dashed", fillcolor="#fbd9d5"];
+  s4 [label="fix_timeouts_051126.py", shape=box, fillcolor="#fde3cf"];
+  s5 [label="run_states_v2.py", shape=box, fillcolor="#fde3cf"];
+  s6 [label="run_states_v2_recheck.py", shape=box, fillcolor="#fde3cf"];
+  }
+  pk [label="states_*.pkl\nтолько в облаке, на диске нет", shape=box, style="filled,dashed", fillcolor="#fbd9d5"];
+  subgraph cluster_out { label="Результаты"; style="rounded"; color="#d6b656"; fontsize=13; fontname="Arial";
+  o1 [label="out_states\\&lt;2013|all&gt;\\\n15 / 365 / end v1", shape=folder, fillcolor="#fff6c9"];
+  o2 [label="out_states\\flags\\", shape=folder, fillcolor="#fff6c9"];
+  o3 [label="out_states\\&lt;2013|all&gt;_long180\\\n15 / 180 / end v1", shape=folder, fillcolor="#fff6c9"];
+  o4 [label="out_states_v2\\&lt;2013|all&gt;\\\n15 / 180 / end v2", shape=folder, fillcolor="#fff6c9"];
+  o5 [label="out_states_v2_recheck\\", shape=folder, fillcolor="#fff6c9"];
+  }
+  subgraph cluster_rep { label="Отчёты (только читают)"; style="rounded"; color="#6fbf95"; fontsize=13; fontname="Arial";
+  r1 [label="petri_states_results_2013.ipynb\npetri_states_results_all.ipynb", shape=box, style="rounded,filled", fillcolor="#d5f0e3"];
+  r2 [label="petri_states_v2_results_2013.ipynb\npetri_states_v2_results_all.ipynb", shape=box, style="rounded,filled", fillcolor="#d5f0e3"];
+  r3 [label="make_results_tables.py", shape=box, style="rounded,filled", fillcolor="#d5f0e3"];
+  x1 [label="results_states_2013.xlsx\nresults_states_all.xlsx", shape=note, fillcolor="#d5f0e3"];
+  }
+  subgraph cluster_orphan { label="Ни с чем не связаны"; style="rounded"; color="#d98880"; fontsize=13; fontname="Arial";
+  f1 [label="flags_plots.py\nникто не импортирует", shape=box, style="filled,dashed", fillcolor="#fbd9d5"];
+  f2 [label="out_states\\long180_vs_365.xlsx\nскрипта-источника нет", shape=box, style="filled,dashed", fillcolor="#fbd9d5"];
+  }
+  db -> pp [color="#8a8f98", arrowsize=.6];
+  cc -> pp [color="#8a8f98", arrowsize=.6];
+  pp -> ps [color="#8a8f98", arrowsize=.6];
+  ps -> fa [color="#8a8f98", arrowsize=.6];
+  pp -> fa [color="#8a8f98", arrowsize=.6];
+  ps -> n1 [color="#8a8f98", arrowsize=.6];
+  ps -> n3 [color="#8a8f98", arrowsize=.6];
+  fa -> n2 [color="#8a8f98", arrowsize=.6];
+  ps -> n2 [color="#8a8f98", arrowsize=.6];
+  ps -> s1 [color="#8a8f98", arrowsize=.6];
+  ps -> s2 [color="#8a8f98", arrowsize=.6];
+  ps -> s3 [color="#8a8f98", arrowsize=.6];
+  ps -> s4 [color="#8a8f98", arrowsize=.6];
+  ps -> s5 [color="#8a8f98", arrowsize=.6];
+  s5 -> s6 [color="#8a8f98", arrowsize=.6];
+  g1 -> n1 [color="#9b59b6", style=dashed, arrowsize=.7];
+  g2 -> n2 [color="#9b59b6", style=dashed, arrowsize=.7];
+  g3 -> n3 [color="#9b59b6", style=dashed, arrowsize=.7];
+  g4 -> r1 [color="#9b59b6", style=dashed, arrowsize=.7];
+  g5 -> r2 [color="#9b59b6", style=dashed, arrowsize=.7];
+  n1 -> o1 [color="#2a78d6", penwidth=1.6];
+  n2 -> o2 [color="#2a78d6", penwidth=1.6];
+  n3 -> o3 [color="#2a78d6", penwidth=1.6];
+  s1 -> o1 [color="#2a78d6", penwidth=1.6];
+  s2 -> o1 [color="#2a78d6", penwidth=1.6];
+  s3 -> o1 [color="#2a78d6", penwidth=1.6];
+  s3 -> o3 [color="#2a78d6", penwidth=1.6];
+  s4 -> o3 [color="#2a78d6", penwidth=1.6];
+  s5 -> o4 [color="#2a78d6", penwidth=1.6];
+  s6 -> o5 [color="#2a78d6", penwidth=1.6];
+  r3 -> x1 [color="#2a78d6", penwidth=1.6];
+  pk -> s1 [color="#1a9e6e", penwidth=1.6];
+  pk -> s2 [color="#1a9e6e", penwidth=1.6];
+  o1 -> n3 [color="#1a9e6e", penwidth=1.6];
+  o1 -> r1 [color="#1a9e6e", penwidth=1.6];
+  o2 -> r1 [color="#1a9e6e", penwidth=1.6];
+  o1 -> r2 [color="#1a9e6e", penwidth=1.6];
+  o4 -> r2 [color="#1a9e6e", penwidth=1.6];
+  o1 -> r3 [color="#1a9e6e", penwidth=1.6];
+  o2 -> r3 [color="#1a9e6e", penwidth=1.6];
+  o4 -> s6 [color="#1a9e6e", penwidth=1.6];
+  o4 -> g5 [color="#1a9e6e", penwidth=1.6];
+  n2 -> n3 [color="#c0392b", style=dotted, penwidth=1.5, constraint=false];
+  n2 -> s5 [color="#c0392b", style=dotted, penwidth=1.5, constraint=false];
+
+  subgraph cluster_legend { label="Обозначения"; style="rounded"; color="#bbbbbb"; fontsize=12; fontname="Arial";
+    node [shape=plaintext, style=solid, color=white, width=.3, fontsize=11, fontname="Arial"];
+    l1 [label="импорт кода"]; l1b [label=""]; l1 -> l1b [color="#8a8f98", arrowsize=.7];
+    l2 [label="пишет результат"]; l2b [label=""]; l2 -> l2b [color="#2a78d6", penwidth=1.6];
+    l3 [label="читает результат"]; l3b [label=""]; l3 -> l3b [color="#1a9e6e", penwidth=1.6];
+    l4 [label="генерирует ноутбук"]; l4b [label=""]; l4 -> l4b [color="#9b59b6", style=dashed];l5 [label="по смыслу: выбор LONG = 180"]; l5b [label=""]; l5 -> l5b [color="#c0392b", style=dotted, penwidth=1.5];
+  }
+}

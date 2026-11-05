@@ -1,0 +1,9 @@
+{"i": 884, "n": 1, "len": 97, "how": "align_600s", "sec": 28.82, "timeout": false, "cost": 70095, "bwc": 990007, "fitness": 0.9292929292929293}
+{"i": 601, "n": 1, "len": 104, "how": "align_600s", "sec": 33.77, "timeout": false, "cost": 110098, "bwc": 1060007, "fitness": 0.8962264150943396}
+{"i": 1531, "n": 1, "len": 94, "how": "align_600s", "sec": 35.21, "timeout": false, "cost": 150084, "bwc": 960007, "fitness": 0.84375}
+{"i": 918, "n": 1, "len": 127, "how": "align_600s", "sec": 17.83, "timeout": false, "cost": 50127, "bwc": 1290007, "fitness": 0.9612403100775194}
+{"i": 1145, "n": 1, "len": 115, "how": "align_600s", "sec": 21.53, "timeout": false, "cost": 90111, "bwc": 1170007, "fitness": 0.9230769230769231}
+{"i": 1207, "n": 1, "len": 106, "how": "align_600s", "sec": 28.02, "timeout": false, "cost": 150096, "bwc": 1080007, "fitness": 0.8611111111111112}
+{"i": 965, "n": 1, "len": 127, "how": "align_600s", "sec": 19.4, "timeout": false, "cost": 30129, "bwc": 1290007, "fitness": 0.9767441860465116}
+{"i": 625, "n": 1, "len": 135, "how": "align_600s", "sec": 25.43, "timeout": false, "cost": 110129, "bwc": 1370007, "fitness": 0.9197080291970803}
+{"i": 1590, "n": 1, "len": 159, "how": "align_600s", "sec": 34.88, "timeout": false, "cost": 100154, "bwc": 1610007, "fitness": 0.937888198757764}

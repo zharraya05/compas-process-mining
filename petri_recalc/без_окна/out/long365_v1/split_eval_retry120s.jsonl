@@ -1,0 +1,1 @@
+{"model": "IM_noise0.2", "experiment": "all", "align_max_sec_trace": 120, "retry_of": 20, "fitness_align_test": 0.9370229223603894, "pct_fit_traces_align_test": 32.46187363834423, "align_traces": 2295, "align_timeout": 0, "align_timeout_before": 9, "finished": "2026-11-06 02:29"}

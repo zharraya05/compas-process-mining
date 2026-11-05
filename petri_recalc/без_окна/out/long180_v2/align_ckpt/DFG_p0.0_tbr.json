@@ -1,0 +1,1 @@
+{"model": "DFG_p0.0", "places": 14, "transitions": 83, "silent": 1, "train_traces": 9178, "test_traces": 2295, "fitness_tbr_train": 1.0, "fitness_tbr_test": 1.0, "pct_fit_traces_tbr_test": 100.0, "sec_tbr": 17.09904170036316, "precision_etc_test": 0.2619451500220782, "sec_prec": 75.91933846473694, "easy_sound": true, "bwc_model": 20001}

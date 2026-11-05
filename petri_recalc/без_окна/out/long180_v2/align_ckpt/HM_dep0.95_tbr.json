@@ -1,0 +1,1 @@
+{"model": "HM_dep0.95", "places": 16, "transitions": 43, "silent": 31, "train_traces": 9178, "test_traces": 2295, "fitness_tbr_train": 0.9838754555862624, "fitness_tbr_test": 0.9842992257514813, "pct_fit_traces_tbr_test": 0.0, "sec_tbr": 17.617902517318726, "precision_etc_test": 0.3581887325226579, "sec_prec": 68.23383522033691, "easy_sound": false}

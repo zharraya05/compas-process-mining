@@ -1,0 +1,13 @@
+# версии из D:\Git\diploma\.venv (Python 3.12), на которых проверена эта папка
+pm4py==2.7.23.9
+pandas==2.3.3
+numpy==2.5.3
+scipy==1.18.1
+networkx==3.7
+graphviz==0.21
+matplotlib==3.11.2
+openpyxl==3.1.5
+jupyterlab==4.6.4
+ipykernel==7.4.0
+nbconvert==7.17.1
+# рисунки сетей: ещё нужна программа Graphviz (dot в PATH или D:\Graphviz\bin); без неё считается всё, кроме PNG

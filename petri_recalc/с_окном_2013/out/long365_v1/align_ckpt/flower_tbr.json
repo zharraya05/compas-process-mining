@@ -1,0 +1,1 @@
+{"model": "flower", "places": 3, "transitions": 12, "silent": 2, "train_traces": 9022, "test_traces": 2255, "fitness_tbr_train": 1.0, "fitness_tbr_test": 1.0, "pct_fit_traces_tbr_test": 100.0, "sec_tbr": 3.0138754844665527, "precision_etc_test": 0.3579195094567752, "sec_prec": 5.380994558334351}

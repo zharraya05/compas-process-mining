@@ -1,0 +1,1 @@
+{"model": "Alpha", "places": 3, "transitions": 12, "silent": 0, "train_traces": 9178, "test_traces": 2295, "fitness_tbr_train": 0.25669830064049737, "fitness_tbr_test": 0.25383673752321, "pct_fit_traces_tbr_test": 10.152505446623094, "sec_tbr": 6.604498624801636, "precision_etc_test": 0.47062423500611994, "sec_prec": 7.881771802902222}

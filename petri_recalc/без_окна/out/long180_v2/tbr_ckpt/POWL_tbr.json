@@ -1,0 +1,1 @@
+{"model": "POWL", "places": 26, "transitions": 28, "silent": 16, "train_traces": 9178, "test_traces": 2295, "fitness_tbr_train": 1.0, "fitness_tbr_test": 0.9999731016488689, "pct_fit_traces_tbr_test": 99.95642701525054, "sec_tbr": 15.753976583480835, "precision_etc_test": 0.2044232928464902, "sec_prec": 120.61994123458862}

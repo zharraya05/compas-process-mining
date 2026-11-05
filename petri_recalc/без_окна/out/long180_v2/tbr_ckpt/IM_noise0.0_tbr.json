@@ -1,0 +1,1 @@
+{"model": "IM_noise0.0", "places": 42, "transitions": 52, "silent": 40, "train_traces": 9178, "test_traces": 2295, "fitness_tbr_train": 1.0, "fitness_tbr_test": 0.9999731016488689, "pct_fit_traces_tbr_test": 99.95642701525054, "sec_tbr": 19.97577929496765, "precision_etc_test": 0.21311232152874537, "sec_prec": 257.91279673576355}

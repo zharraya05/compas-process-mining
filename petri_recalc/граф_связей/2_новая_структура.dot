@@ -1,0 +1,56 @@
+digraph G { rankdir=LR; ranksep=.9; nodesep=.2; newrank=true; labelloc=t; fontsize=18; fontname="Arial";
+  label="Новая папка: порядок расчёта. Красное считается только при RUN_V1 = True. Схема одна для с_окном_2013 и без_окна; результаты частей не зависят друг от друга";
+  node [style=filled, fontsize=11, fontname="Arial", margin="0.08,0.05"]; edge [fontname="Arial", fontsize=9];
+  subgraph cluster_in { label="common + data"; style="rounded"; color="#cccccc"; fontsize=13; fontname="Arial";
+  db [label="data\\compas.db", shape=cylinder, fillcolor="#f3ead7"];
+  cm [label="settings.py, petri_pipeline.py,\npetri_states.py, flags_analysis.py,\neval_resumable.py, crime_categories.py", shape=box, fillcolor="#dfe3ea"];
+  ap [label="align_parallel.py\nfix_timeouts.py", shape=box, fillcolor="#dfe3ea"];
+  }
+  subgraph cluster_par { label="Шаг 1: по одному ноутбуку, в любом порядке (память)"; style="rounded"; color="#7aa6d6"; fontsize=13; fontname="Arial";
+  n1 [label="01_states_all_miners\nвариант 1", shape=box, style="filled,dashed", fillcolor="#fbd9d5"];
+  n2 [label="02_flags\nподбор флагов", shape=box, style="rounded,filled", fillcolor="#d6e6f7"];
+  n3 [label="03_tbr_precision\nсети, TBR, precision", shape=box, style="rounded,filled", fillcolor="#d6e6f7"];
+  n5 [label="05_v2_tbr\nверсия 2, все майнеры", shape=box, style="rounded,filled", fillcolor="#d6e6f7"];
+  }
+  subgraph cluster_o { label="out\\"; style="rounded"; color="#d6b656"; fontsize=13; fontname="Arial";
+  o1 [label="long365_v1\\\nвариант 1", shape=box, style="filled,dashed", fillcolor="#fbd9d5"];
+  o2 [label="flags\\\nперебор при RUN_V1", shape=folder, fillcolor="#fff6c9"];
+  o3 [label="long180_v2\\\nprepared\\ (сети, варианты)\nalign_ckpt\\*_tbr.json", shape=folder, fillcolor="#fff6c9"];
+  o5 [label="long180_v2\\\nstate_log, split_quality", shape=folder, fillcolor="#fff6c9"];
+  }
+  subgraph cluster_al { label="Шаг 2: долгий расчёт, можно обе части сразу"; style="rounded"; color="#7aa6d6"; fontsize=13; fontname="Arial";
+  n4 [label="04_alignments\nпроцессы берут варианты трасс", shape=box, style="rounded,filled", fillcolor="#d6e6f7"];
+  o4 [label="long180_v2\\split_eval.jsonl\nsplit_eval_timeouts_fixed.csv", shape=folder, fillcolor="#fff6c9"];
+  }
+  subgraph cluster_rep { label="Шаг 3: только чтение, минуты"; style="rounded"; color="#6fbf95"; fontsize=13; fontname="Arial";
+  r6 [label="06_results_long180", shape=box, style="rounded,filled", fillcolor="#d5f0e3"];
+  r7 [label="07_results_long365\nвариант 1", shape=box, style="filled,dashed", fillcolor="#fbd9d5"];
+  r8 [label="08_results_v2", shape=box, style="rounded,filled", fillcolor="#d5f0e3"];
+  }
+  db -> n1 [color="#8a8f98", arrowsize=.6];
+  db -> n2 [color="#8a8f98", arrowsize=.6];
+  db -> n3 [color="#8a8f98", arrowsize=.6];
+  db -> n5 [color="#8a8f98", arrowsize=.6];
+  cm -> n1 [color="#8a8f98", arrowsize=.6];
+  cm -> n2 [color="#8a8f98", arrowsize=.6];
+  cm -> n3 [color="#8a8f98", arrowsize=.6];
+  cm -> n5 [color="#8a8f98", arrowsize=.6];
+  ap -> n4 [color="#8a8f98", arrowsize=.6];
+  n1 -> o1 [color="#2a78d6", penwidth=1.6];
+  n2 -> o2 [color="#2a78d6", penwidth=1.6];
+  n3 -> o3 [color="#2a78d6", penwidth=1.6];
+  n5 -> o5 [color="#2a78d6", penwidth=1.6];
+  n4 -> o4 [color="#2a78d6", penwidth=1.6];
+  o3 -> n4 [color="#1a9e6e", penwidth=1.6];
+  o4 -> r6 [color="#1a9e6e", penwidth=1.6];
+  o1 -> r7 [color="#1a9e6e", penwidth=1.6];
+  o5 -> r8 [color="#1a9e6e", penwidth=1.6];
+
+  subgraph cluster_legend { label="Обозначения"; style="rounded"; color="#bbbbbb"; fontsize=12; fontname="Arial";
+    node [shape=plaintext, style=solid, color=white, width=.3, fontsize=11, fontname="Arial"];
+    l1 [label="импорт кода"]; l1b [label=""]; l1 -> l1b [color="#8a8f98", arrowsize=.7];
+    l2 [label="пишет результат"]; l2b [label=""]; l2 -> l2b [color="#2a78d6", penwidth=1.6];
+    l3 [label="читает результат"]; l3b [label=""]; l3 -> l3b [color="#1a9e6e", penwidth=1.6];
+    
+  }
+}
