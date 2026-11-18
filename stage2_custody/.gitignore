@@ -1,0 +1,9 @@
+# пересобирается: python build_graph.py  (~47 МБ)
+данные/
+# пересобирается ноутбуком 01 и кэши расчётов 02-03 (~50 МБ)
+out/free_episodes_features.csv
+out/_cache_parts.pkl
+out/_cv_cache/
+# служебное
+__pycache__/
+.ipynb_checkpoints/
