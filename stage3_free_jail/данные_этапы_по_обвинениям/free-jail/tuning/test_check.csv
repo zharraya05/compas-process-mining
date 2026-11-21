@@ -1,0 +1,5 @@
+﻿модель,параметры,значения,C-index,IBS
+CoxPH,фиксированные (free-jail),{'penalizer': 0.1},0.6584,0.1774
+CoxPH,подобранные,{'penalizer': 0.1},0.6584,0.1774
+RSF,фиксированные (free-jail),"{'min_samples_leaf': 30, 'max_features': 'sqrt'}",0.6678,0.1787
+RSF,подобранные,"{'min_samples_leaf': 100, 'max_features': 0.5}",0.6673,0.1781

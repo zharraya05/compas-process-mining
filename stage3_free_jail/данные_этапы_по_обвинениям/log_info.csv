@@ -1,0 +1,21 @@
+,value
+source,1911/данные/custody_linked.csv + custody_charges.csv
+charge_rows,44197
+custodies_raw,22266
+custodies_merged,860
+episodes,21406
+justice_split_steps,0
+steps,21406
+people,10433
+case_id,id (person_id)
+obs_end,2016-04-01
+ongoing_custody,703
+people_repeat,5139
+transitions_observed,10973
+cases_censored,10433
+episodes_multi_type,5723
+share_multi_type,0.267
+type_events,28904
+negative_gaps,32
+episodes_oldcase,3571
+episodes_unknown,926
